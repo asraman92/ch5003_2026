@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH --job-name=scf_24
+#SBATCH --nodes=2
+#SBATCH --ntasks-per-node=48
+#SBATCH --partition=standard
+#SBATCH --time=02:00:00
+#SBATCH --mail-type=end
+#SBATCH --mail-user=ch24d003@smail.iitm.ac.in
+
+mpirun -np 96 -mca coll_hcoll_enable 0 $HOME/qe-6.7/bin/pw.x -npool 2 -in pw.in > pw.out
+rm -r outdir
