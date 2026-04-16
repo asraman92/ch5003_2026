@@ -1,4 +1,4 @@
-# Hands on Session - Day 1 - $\textbf{16th}$ April $\textbf{2026}$ 
+# Hands on Session - Day 1 - 16th April 2026 
 
 ## Aim 
 
