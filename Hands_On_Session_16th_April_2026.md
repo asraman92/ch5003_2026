@@ -1,6 +1,6 @@
-# Hands on Session - Day 1 - $\textbf{16th}$ April $\textbf{2026}$ {#hands-on-session---day-1---textbf21st-april-textbf2026 .unnumbered}
+# Hands on Session - Day 1 - $\textbf{16th}$ April $\textbf{2026}$ 
 
-## Aim {#aim .unnumbered}
+## Aim 
 
 This tutorial provides a practical introduction to the Quantum-ESPRESSO
 (QE), a leading open-source software for electronic structure. Using
@@ -11,7 +11,7 @@ on the \"how-to\" of benchmarking and conducting ground-state DFT
 simulations. Finally, you will learn how to extract the data necessary
 for training deep neural network potentials.
 
-## Objectives {#objectives .unnumbered}
+## Objectives 
 
 The objectives of this tutorial session are:
 
@@ -37,7 +37,7 @@ The objectives of this tutorial session are:
 -   Prepare files in a format appropriate for training a model for the
     PES using DeePMD-kit
 
-## Running DFT Calculations Using QE {#running-dft-calculations-using-qe .unnumbered}
+## Running DFT Calculations Using QE 
 
 Running simulations with the Quantum ESPRESSO PWSCF module requires two
 core components after installation and compilation of the pw.x
@@ -47,8 +47,7 @@ executable and the enviroment.
 
 2.  A structured input file defining your system.
 
-### Pseudopotentials: {#pseudopotentials .unnumbered}
-
+### Pseudopotentials: 
 While the theoretical nuances of pseudopotentials are beyond the scope
 of this tutorial, choosing a reliable library is critical for accurate
 DFT. For the Pt example, we will use an [Optimized Norm-Conserving
@@ -56,7 +55,7 @@ Vanderbilt (ONCV)
 pseudopotentials](http://quantum-simulation.org/potentials/sg15_oncv/upf/)
 tailored for the PBE functional.
 
-### Input file anatomy: {#input-file-anatomy .unnumbered}
+### Input file anatomy: 
 
 While a comprehensive, all-in-one guide for PWscf keywords can be found
 [here](https://www.quantum-espresso.org/Doc/INPUT_PW.html), this tutorial focuses on the essential parameters needed to get
@@ -245,7 +244,7 @@ converged energy value. Immediately following this line, you will find a
 breakdown of the energy terms, the number of iterations taken to reach
 convergence, and the calculated forces acting on each atom.
 
-### Benchmarking and Geometry Optimization {#benchmarking-and-geometry-optimization .unnumbered}
+### Benchmarking and Geometry Optimization 
 
 Benchmarking your DFT parameters is a critical first step. Since the
 accuracy of a Machine Learning Potential is fundamentally limited by the
@@ -361,7 +360,7 @@ influential parameters in Quantum ESPRESSO: the kinetic energy cutoff
         effectively approached zero. This confirms that the system has
         reached a true local minimum on the potential energy surface.
 
-## Preparing Training Data {#preparing-training-data .unnumbered}
+## Preparing Training Data 
 
 Deep Potential models for the Potential Energy Surface (PES) are built
 upon deep neural networks. These models are typically trained on
@@ -417,8 +416,7 @@ follows these steps:
 4.  The next step is to label these configurations by calculating the
     energies and forces using DFT.
 
-5.  The raw data from the pw.out file is converted to raw file format explained in Table [1](#table 1){reference-type="ref"
-    reference="table 1"}.
+5.  The raw data from the pw.out file is converted to raw file format explained in Table [1].
 
 
 ### Table 1: Input file format required by deepMD-kit
