@@ -1,0 +1,2203 @@
+[1774838413.625115] [rscn114:3291545:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.625379] [rscn114:3291552:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.626394] [rscn114:3291550:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.627687] [rscn114:3291547:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.628224] [rscn114:3291543:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.628429] [rscn114:3291551:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.629257] [rscn114:3291548:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.629540] [rscn114:3291546:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.629674] [rscn114:3291555:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.631101] [rscn114:3291557:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.631929] [rscn114:3291558:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.632239] [rscn114:3291553:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.632643] [rscn114:3291556:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.633034] [rscn114:3291554:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.633154] [rscn114:3291559:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.633297] [rscn114:3291561:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.633558] [rscn114:3291560:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.633647] [rscn114:3291564:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.633793] [rscn114:3291563:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.633952] [rscn114:3291562:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.634020] [rscn114:3291565:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.634168] [rscn114:3291566:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.634420] [rscn114:3291549:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.634449] [rscn114:3291544:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.634689] [rscn114:3291570:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.634689] [rscn114:3291575:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.634718] [rscn114:3291568:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.634840] [rscn114:3291574:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.635098] [rscn114:3291572:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.635153] [rscn114:3291573:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.635875] [rscn114:3291571:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.638050] [rscn114:3291567:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.638096] [rscn114:3291577:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.638314] [rscn114:3291576:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.638429] [rscn114:3291569:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.638563] [rscn114:3291583:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.638783] [rscn114:3291582:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.638949] [rscn114:3291580:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.639030] [rscn114:3291579:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.642752] [rscn114:3291578:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.643012] [rscn114:3291584:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.643896] [rscn114:3291581:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.645288] [rscn114:3291587:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.645550] [rscn114:3291585:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.646117] [rscn114:3291586:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.646205] [rscn114:3291589:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.646272] [rscn114:3291588:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.646456] [rscn114:3291590:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.668370] [rscn139:1771324:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.669604] [rscn139:1771325:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.669625] [rscn139:1771318:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.669967] [rscn139:1771329:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.670147] [rscn139:1771327:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.670352] [rscn139:1771322:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.670518] [rscn139:1771319:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.670629] [rscn139:1771317:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.670973] [rscn139:1771326:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.671293] [rscn139:1771328:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.671371] [rscn139:1771321:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.671551] [rscn139:1771331:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.675858] [rscn139:1771330:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.676455] [rscn139:1771332:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.676740] [rscn139:1771337:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.678310] [rscn139:1771333:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.678449] [rscn139:1771336:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.678474] [rscn139:1771335:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.678723] [rscn139:1771338:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.679018] [rscn139:1771339:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.679212] [rscn139:1771334:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.679435] [rscn139:1771323:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.679621] [rscn139:1771340:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.680012] [rscn139:1771320:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.681072] [rscn139:1771342:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.681923] [rscn139:1771344:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.681932] [rscn139:1771341:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.682986] [rscn139:1771345:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.683787] [rscn139:1771347:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.683873] [rscn139:1771354:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.684653] [rscn139:1771352:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.684860] [rscn139:1771355:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.685009] [rscn139:1771350:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.685098] [rscn139:1771346:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.685219] [rscn139:1771357:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.685491] [rscn139:1771356:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.685552] [rscn139:1771348:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.685572] [rscn139:1771351:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.685698] [rscn139:1771359:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.685897] [rscn139:1771363:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.686355] [rscn139:1771364:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.690254] [rscn139:1771343:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.690543] [rscn139:1771353:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.690773] [rscn139:1771349:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.691144] [rscn139:1771361:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.691363] [rscn139:1771362:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.692856] [rscn139:1771358:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1774838413.701287] [rscn139:1771360:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+
+     Program PWSCF v.6.7MaX starts on 30Mar2026 at  8:10:15 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI), running on    96 processors
+
+     MPI processes distributed on     2 nodes
+     K-points division:     npool     =       2
+     R & G space division:  proc/nbgrp/npool/nimage =      48
+     Reading input from pw.in
+Warning: card &CELL ignored
+Warning: card / ignored
+Warning: card &FCP ignored
+Warning: card / ignored
+Warning: card &RISM ignored
+Warning: card / ignored
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+     Message from routine read_pp_mesh:
+     mesh size missing, using the one in header
+
+     IMPORTANT: XC functional enforced from input :
+     Exchange-correlation= PBE
+                           (   1   4   3   4   0   0   0)
+     Any further DFT definition will be discarded
+     Please, verify this is what you really want
+
+
+     Subspace diagonalization in iterative solution of the eigenvalue problem:
+     one sub-group per band group will be used
+     scalapack distributed-memory algorithm (size of sub-group:  6*  6 procs)
+
+
+     Parallelization info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Min         106     106     28                 5631     5631     796
+     Max         108     108     29                 5634     5634     801
+     Sum        5093    5093   1379               270379   270379   38319
+
+
+
+     bravais-lattice index     =            0
+     lattice parameter (alat)  =      15.0830  a.u.
+     unit-cell volume          =    3416.4909 (a.u.)^3
+     number of atoms/cell      =           32
+     number of atomic types    =            1
+     number of electrons       =       576.00
+     number of Kohn-Sham states=          346
+     kinetic-energy cutoff     =      70.0000  Ry
+     charge density cutoff     =     280.0000  Ry
+     scf convergence threshold =      1.0E-06
+     mixing beta               =       0.1000
+     number of iterations used =            8  plain     mixing
+     Exchange-correlation= PBE
+                           (   1   4   3   4   0   0   0)
+
+     celldm(1)=  15.082982  celldm(2)=   0.000000  celldm(3)=   0.000000
+     celldm(4)=   0.000000  celldm(5)=   0.000000  celldm(6)=   0.000000
+
+     crystal axes: (cart. coord. in units of alat)
+               a(1) = (   1.000000   0.000000   0.000000 )  
+               a(2) = (   0.000000   1.004345   0.000000 )  
+               a(3) = (   0.000000   0.000000   0.991370 )  
+
+     reciprocal axes: (cart. coord. in units 2 pi/alat)
+               b(1) = (  1.000000  0.000000  0.000000 )  
+               b(2) = (  0.000000  0.995674  0.000000 )  
+               b(3) = (  0.000000  0.000000  1.008705 )  
+
+
+     PseudoPot. # 1 for Pt read from file:
+     /scratch/ch24d003/pseudo/Pt_ONCV_PBE-1.2.upf
+     MD5 check sum: 8004706280e9ad985b09789750a103d6
+     Pseudo is Norm-conserving, Zval = 18.0
+     Generated using ONCVPSP code by D. R. Hamann
+     Using radial grid of  602 points,  8 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+                l(5) =   2
+                l(6) =   2
+                l(7) =   3
+                l(8) =   3
+
+     atomic species   valence    mass     pseudopotential
+        Pt            18.00   195.08400     Pt( 1.00)
+
+     No symmetry found
+
+
+
+   Cartesian axes
+
+     site n.     atom                  positions (alat units)
+         1           Pt  tau(   1) = (   0.0001242  -0.0002299   0.0004996  )
+         2           Pt  tau(   2) = (  -0.0010052   0.2520242   0.2479083  )
+         3           Pt  tau(   3) = (   0.2484311   0.0003252   0.2471241  )
+         4           Pt  tau(   4) = (   0.2482451   0.2509820   0.0003327  )
+         5           Pt  tau(   5) = (  -0.0003588  -0.0008965   0.4968037  )
+         6           Pt  tau(   6) = (   0.0004844   0.2514745   0.7434720  )
+         7           Pt  tau(   7) = (   0.2480967   0.0011529   0.7438132  )
+         8           Pt  tau(   8) = (   0.2474381   0.2508614   0.4946324  )
+         9           Pt  tau(   9) = (  -0.0011467   0.5007431   0.0003391  )
+        10           Pt  tau(  10) = (  -0.0004599   0.7524827   0.2489397  )
+        11           Pt  tau(  11) = (   0.2483348   0.5021043   0.2474835  )
+        12           Pt  tau(  12) = (   0.2486119   0.7537988  -0.0003379  )
+        13           Pt  tau(  13) = (   0.0005392   0.5027722   0.4948025  )
+        14           Pt  tau(  14) = (   0.0008723   0.7531165   0.7442604  )
+        15           Pt  tau(  15) = (   0.2485902   0.5013231   0.7438975  )
+        16           Pt  tau(  16) = (   0.2469278   0.7530150   0.4967008  )
+        17           Pt  tau(  17) = (   0.4949832   0.0009709  -0.0012304  )
+        18           Pt  tau(  18) = (   0.4960221   0.2506299   0.2480376  )
+        19           Pt  tau(  19) = (   0.7444943  -0.0012453   0.2484499  )
+        20           Pt  tau(  20) = (   0.7433102   0.2502942   0.0001983  )
+        21           Pt  tau(  21) = (   0.4959834  -0.0001749   0.4963759  )
+        22           Pt  tau(  22) = (   0.4952263   0.2517358   0.7432011  )
+        23           Pt  tau(  23) = (   0.7443566  -0.0002333   0.7440700  )
+        24           Pt  tau(  24) = (   0.7434748   0.2510428   0.4946191  )
+        25           Pt  tau(  25) = (   0.4955733   0.5014622  -0.0010018  )
+        26           Pt  tau(  26) = (   0.4952475   0.7519767   0.2485402  )
+        27           Pt  tau(  27) = (   0.7426918   0.5009050   0.2483772  )
+        28           Pt  tau(  28) = (   0.7429815   0.7525633   0.0006235  )
+        29           Pt  tau(  29) = (   0.4951549   0.5006861   0.4958162  )
+        30           Pt  tau(  30) = (   0.4945823   0.7527875   0.7427458  )
+        31           Pt  tau(  31) = (   0.7427877   0.5027772   0.7426810  )
+        32           Pt  tau(  32) = (   0.7441140   0.7518025   0.4964935  )
+
+     number of k points=    36  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+                       cart. coord. in units 2pi/alat
+        k(    1) = (   0.0000000   0.0000000   0.0000000), wk =   0.0312500
+        k(    2) = (   0.0000000   0.0000000   0.2521762), wk =   0.0625000
+        k(    3) = (   0.0000000   0.0000000  -0.5043524), wk =   0.0312500
+        k(    4) = (   0.0000000   0.2489185   0.0000000), wk =   0.0625000
+        k(    5) = (   0.0000000   0.2489185   0.2521762), wk =   0.0625000
+        k(    6) = (   0.0000000   0.2489185  -0.5043524), wk =   0.0625000
+        k(    7) = (   0.0000000  -0.4978370   0.0000000), wk =   0.0312500
+        k(    8) = (   0.0000000  -0.4978370   0.2521762), wk =   0.0625000
+        k(    9) = (   0.0000000  -0.4978370  -0.5043524), wk =   0.0312500
+        k(   10) = (   0.2500000   0.0000000   0.0000000), wk =   0.0625000
+        k(   11) = (   0.2500000   0.0000000   0.2521762), wk =   0.0625000
+        k(   12) = (   0.2500000   0.0000000  -0.5043524), wk =   0.0625000
+        k(   13) = (   0.2500000   0.2489185   0.0000000), wk =   0.0625000
+        k(   14) = (   0.2500000   0.2489185   0.2521762), wk =   0.0625000
+        k(   15) = (   0.2500000   0.2489185  -0.5043524), wk =   0.0625000
+        k(   16) = (   0.2500000  -0.4978370   0.0000000), wk =   0.0625000
+        k(   17) = (   0.2500000  -0.4978370   0.2521762), wk =   0.0625000
+        k(   18) = (   0.2500000  -0.4978370  -0.5043524), wk =   0.0625000
+        k(   19) = (  -0.5000000   0.0000000   0.0000000), wk =   0.0312500
+        k(   20) = (  -0.5000000   0.0000000   0.2521762), wk =   0.0625000
+        k(   21) = (  -0.5000000   0.0000000  -0.5043524), wk =   0.0312500
+        k(   22) = (  -0.5000000   0.2489185   0.0000000), wk =   0.0625000
+        k(   23) = (  -0.5000000   0.2489185   0.2521762), wk =   0.0625000
+        k(   24) = (  -0.5000000   0.2489185  -0.5043524), wk =   0.0625000
+        k(   25) = (  -0.5000000  -0.4978370   0.0000000), wk =   0.0312500
+        k(   26) = (  -0.5000000  -0.4978370   0.2521762), wk =   0.0625000
+        k(   27) = (  -0.5000000  -0.4978370  -0.5043524), wk =   0.0312500
+        k(   28) = (   0.0000000  -0.2489185   0.2521762), wk =   0.0625000
+        k(   29) = (  -0.2500000   0.0000000   0.2521762), wk =   0.0625000
+        k(   30) = (  -0.2500000   0.2489185   0.0000000), wk =   0.0625000
+        k(   31) = (  -0.2500000  -0.2489185   0.2521762), wk =   0.0625000
+        k(   32) = (  -0.2500000   0.2489185  -0.2521762), wk =   0.0625000
+        k(   33) = (   0.2500000  -0.2489185  -0.2521762), wk =   0.0625000
+        k(   34) = (  -0.2500000   0.2489185   0.5043524), wk =   0.0625000
+        k(   35) = (  -0.2500000   0.4978370   0.2521762), wk =   0.0625000
+        k(   36) = (   0.5000000  -0.2489185   0.2521762), wk =   0.0625000
+
+     Dense  grid:   270379 G-vectors     FFT dimensions: (  81,  81,  80)
+
+     Estimated max dynamical RAM per process >     108.83 MB
+
+     Estimated total dynamical RAM >      10.20 GB
+
+     Initial potential from superposition of free atoms
+
+     starting charge  575.13909, renormalised to  576.00000
+     Starting wfcs are random
+
+     total cpu time spent up to now is        7.1 secs
+
+     Self-consistent Calculation
+
+     iteration #  1     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  1.00E-02,  avg # of iterations =  9.2
+
+     Threshold (ethr) on eigenvalues was too large:
+     Diagonalizing with lowered threshold
+
+     Davidson diagonalization with overlap
+     ethr =  4.10E-05,  avg # of iterations = 10.5
+
+     total cpu time spent up to now is      117.0 secs
+
+     total energy              =   -7763.81190588 Ry
+     estimated scf accuracy    <       0.14847038 Ry
+
+     iteration #  2     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  2.58E-05,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is      134.4 secs
+
+     total energy              =   -7763.80666283 Ry
+     estimated scf accuracy    <       0.10161237 Ry
+
+     iteration #  3     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  1.76E-05,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is      151.8 secs
+
+     total energy              =   -7763.79636322 Ry
+     estimated scf accuracy    <       0.07473453 Ry
+
+     iteration #  4     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  1.30E-05,  avg # of iterations =  2.0
+
+     total cpu time spent up to now is      172.9 secs
+
+     total energy              =   -7763.80590602 Ry
+     estimated scf accuracy    <       0.01104814 Ry
+
+     iteration #  5     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     c_bands:  1 eigenvalues not converged
+     ethr =  1.92E-06,  avg # of iterations =  3.6
+
+     total cpu time spent up to now is      194.6 secs
+
+     total energy              =   -7763.80650999 Ry
+     estimated scf accuracy    <       0.00574996 Ry
+
+     iteration #  6     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  9.98E-07,  avg # of iterations =  1.4
+
+     total cpu time spent up to now is      212.6 secs
+
+     total energy              =   -7763.80673607 Ry
+     estimated scf accuracy    <       0.00131514 Ry
+
+     iteration #  7     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  2.28E-07,  avg # of iterations =  1.1
+
+     total cpu time spent up to now is      230.2 secs
+
+     total energy              =   -7763.80680652 Ry
+     estimated scf accuracy    <       0.00008331 Ry
+
+     iteration #  8     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  1.45E-08,  avg # of iterations =  2.0
+
+     total cpu time spent up to now is      249.8 secs
+
+     total energy              =   -7763.80680172 Ry
+     estimated scf accuracy    <       0.00006302 Ry
+
+     iteration #  9     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  1.09E-08,  avg # of iterations =  2.0
+
+     total cpu time spent up to now is      269.4 secs
+
+     total energy              =   -7763.80680822 Ry
+     estimated scf accuracy    <       0.00002508 Ry
+
+     iteration # 10     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  4.35E-09,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is      286.6 secs
+
+     total energy              =   -7763.80680809 Ry
+     estimated scf accuracy    <       0.00000987 Ry
+
+     iteration # 11     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  1.71E-09,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is      303.8 secs
+
+     total energy              =   -7763.80680765 Ry
+     estimated scf accuracy    <       0.00000509 Ry
+
+     iteration # 12     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  8.84E-10,  avg # of iterations =  2.0
+
+     total cpu time spent up to now is      326.4 secs
+
+     total energy              =   -7763.80680847 Ry
+     estimated scf accuracy    <       0.00000148 Ry
+
+     iteration # 13     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  2.57E-10,  avg # of iterations =  2.0
+
+     total cpu time spent up to now is      345.8 secs
+
+     End of self-consistent calculation
+
+          k = 0.0000 0.0000 0.0000 ( 33735 PWs)   bands (ev):
+
+   -76.6633 -76.6535 -76.6505 -76.6489 -76.6480 -76.6466 -76.6439 -76.6415
+   -76.6405 -76.6381 -76.6369 -76.6353 -76.6303 -76.6272 -76.6235 -76.6212
+   -76.5890 -76.5812 -76.5775 -76.5764 -76.5737 -76.5730 -76.5712 -76.5701
+   -76.5680 -76.5673 -76.5653 -76.5634 -76.5611 -76.5601 -76.5583 -76.5543
+   -30.9459 -30.9446 -30.9445 -30.9439 -30.9268 -30.9252 -30.9227 -30.8542
+   -30.8533 -30.8475 -30.8469 -30.8371 -30.8367 -30.8298 -30.8274 -30.8207
+   -30.8194 -30.8190 -30.8167 -30.8152 -30.8138 -30.8120 -30.8107 -30.8091
+   -30.8077 -30.7899 -30.7886 -30.7824 -30.7814 -30.7808 -30.7801 -30.7392
+   -30.7329 -30.7250 -30.7219 -30.7204 -30.7202 -30.7199 -30.7192 -30.7187
+   -30.7172 -30.7167 -30.7111 -30.7081 -30.7077 -30.7072 -30.7069 -30.7062
+   -30.7016 -30.6940 -30.6922 -30.6909 -30.6884 -30.6880 -30.6872 -30.6860
+   -30.6844 -30.6804 -30.6771 -30.6516 -30.6442 -30.6332 -30.6317 -30.6312
+   -30.6306 -30.6274 -30.6246 -30.6227 -30.6219 -30.6174 -30.6171 -30.6063
+   -30.6055 -30.6021 -30.6021 -30.5933 -30.5930 -30.5924 -30.5912 -30.5907
+   -30.5889 -30.5885 -30.5871 -30.5833 -30.5817 -30.5798 -30.5789 -30.5754
+   -30.5750 -30.5590 -30.5583 -30.5580 -30.5573 -30.5319 -30.5271 -30.5246
+    12.1807  14.8018  14.8138  14.8213  14.8627  14.8843  14.8925  15.0399
+    15.0403  15.0405  15.0409  15.3073  15.3206  15.3293  15.7478  15.7505
+    15.7508  16.3992  16.4002  16.4154  16.4204  16.4267  16.4283  16.4351
+    16.4408  16.4482  16.4496  16.4628  16.4672  16.6252  16.6290  16.6521
+    16.6577  16.6820  16.6864  16.8713  16.8836  16.8874  16.9338  16.9428
+    16.9662  17.5373  17.5423  17.5526  17.5580  17.5890  17.5939  17.5959
+    17.5989  17.6051  17.6082  17.6105  17.6176  17.6191  17.6625  17.6664
+    17.6686  17.6787  17.6852  17.7054  17.7304  17.7325  17.7600  17.7791
+    17.7845  17.9572  17.9630  17.9664  17.9734  17.9744  17.9852  17.9890
+    17.9907  17.9939  17.9999  18.0074  18.0094  18.2718  18.2718  18.2724
+    18.2727  18.3228  18.3790  18.3922  18.3931  18.3940  18.3946  18.4637
+    19.0547  19.0720  19.0732  19.1699  19.1731  19.1809  19.5122  19.5180
+    19.5187  19.5207  19.5376  19.5420  19.5455  19.5486  19.5578  19.5620
+    19.5628  19.5648  19.8731  19.8791  19.8858  19.8974  19.9021  19.9235
+    19.9447  19.9460  19.9491  19.9563  19.9684  20.0008  20.0520  20.0548
+    20.0703  20.0749  20.0966  20.0996  20.2361  20.2431  20.2865  20.2950
+    20.3050  20.3079  20.3126  20.3192  20.3229  20.3259  20.3321  20.3655
+    20.3727  20.4561  21.0564  21.0611  21.0771  21.1329  21.1342  21.1457
+    21.5979  21.5980  21.5982  21.5986  21.8953  21.9026  21.9061  21.9068
+    21.9069  21.9071  21.9075  21.9678  21.9683  21.9684  21.9687  22.2925
+    22.3049  22.3062  22.3095  22.3120  22.3387  22.3778  22.3930  22.3984
+    22.4008  22.4132  22.4137  23.5745  23.5790  23.6008  23.6047  23.6419
+    23.6662  23.6674  23.6677  23.6687  23.6928  23.6984  23.7186  23.7248
+    23.7328  23.8888  27.3729  27.3730  27.3733  27.3740  28.5589  28.5593
+    28.6854  28.6905  28.7606  28.7609  29.7592  29.8472  29.8513  29.8955
+    29.9231  29.9305  29.9750  29.9927  29.9948  29.9972  30.0062  30.1119
+    30.1145  30.2113  30.4348  32.1716  32.1791  32.2157  32.2235  32.2801
+    32.2814  32.2830
+
+          k = 0.0000 0.0000 0.2522 ( 33792 PWs)   bands (ev):
+
+   -76.6624 -76.6556 -76.6503 -76.6484 -76.6477 -76.6465 -76.6438 -76.6412
+   -76.6405 -76.6384 -76.6369 -76.6350 -76.6302 -76.6271 -76.6237 -76.6213
+   -76.5887 -76.5816 -76.5778 -76.5762 -76.5748 -76.5719 -76.5715 -76.5700
+   -76.5683 -76.5666 -76.5650 -76.5632 -76.5611 -76.5600 -76.5587 -76.5545
+   -30.9355 -30.9344 -30.9333 -30.9329 -30.9169 -30.9153 -30.9148 -30.8686
+   -30.8668 -30.8649 -30.8635 -30.8615 -30.8571 -30.8548 -30.8429 -30.8233
+   -30.8217 -30.8209 -30.8154 -30.8088 -30.8058 -30.8047 -30.7982 -30.7975
+   -30.7941 -30.7922 -30.7915 -30.7884 -30.7839 -30.7766 -30.7675 -30.7559
+   -30.7553 -30.7421 -30.7413 -30.7393 -30.7328 -30.7323 -30.7276 -30.7237
+   -30.7203 -30.7144 -30.7087 -30.7037 -30.6965 -30.6943 -30.6933 -30.6924
+   -30.6907 -30.6899 -30.6845 -30.6774 -30.6764 -30.6738 -30.6734 -30.6572
+   -30.6566 -30.6564 -30.6508 -30.6499 -30.6465 -30.6458 -30.6431 -30.6423
+   -30.6368 -30.6323 -30.6309 -30.6293 -30.6198 -30.6193 -30.6177 -30.6047
+   -30.6005 -30.6001 -30.5990 -30.5973 -30.5956 -30.5928 -30.5908 -30.5899
+   -30.5887 -30.5879 -30.5844 -30.5835 -30.5821 -30.5809 -30.5764 -30.5745
+   -30.5710 -30.5704 -30.5638 -30.5590 -30.5587 -30.5373 -30.5371 -30.5331
+    12.3847  13.8802  14.9509  14.9641  14.9703  15.0220  15.1577  15.1585
+    15.1605  15.1616  15.4028  15.4561  15.4687  15.5109  15.8334  15.8682
+    15.8724  15.9126  15.9369  15.9396  15.9684  16.0266  16.0294  16.0494
+    16.0517  16.3942  16.4015  16.4578  16.7436  16.7460  16.7629  16.7698
+    16.7748  16.7942  16.8069  16.8149  16.8318  16.9103  16.9386  16.9612
+    16.9641  17.0263  17.3479  17.3746  17.3987  17.4012  17.5178  17.5360
+    17.5486  17.5502  17.5958  17.6002  17.6067  17.6164  17.6200  17.6271
+    17.6391  17.6760  17.6780  17.6976  17.6997  17.7164  17.7179  17.9328
+    17.9366  17.9717  17.9747  18.1024  18.1241  18.1258  18.1598  18.2884
+    18.2906  18.3094  18.3108  18.3128  18.3158  18.3243  18.3281  18.3343
+    18.3851  18.3869  18.3996  18.4018  18.4224  18.4787  18.7075  18.7220
+    18.7269  18.7555  18.7572  18.8318  19.1481  19.1507  19.1643  19.1668
+    19.2278  19.2593  19.4463  19.6344  19.6986  19.7029  19.7119  19.7275
+    19.8294  19.8305  19.8536  19.8542  19.9149  19.9530  19.9562  19.9967
+    20.0216  20.0598  20.0619  20.0871  20.0990  20.1190  20.1210  20.1309
+    20.1342  20.1415  20.1457  20.1595  20.3095  20.3851  20.4279  20.4399
+    20.5176  20.5224  20.5382  20.5429  20.6683  20.6735  20.6790  20.6823
+    20.7315  20.7366  20.7672  20.7998  20.8219  20.8240  20.8582  21.2688
+    21.2946  21.2980  21.3009  21.3132  21.3528  21.3666  21.6986  21.6990
+    21.7782  21.7808  21.8010  21.8030  21.8276  22.0606  22.1072  22.1163
+    22.1185  22.1271  22.1289  22.2935  22.3016  22.3088  22.3137  22.7362
+    22.7400  22.7639  22.7678  22.7878  22.7882  22.8083  22.8146  22.8782
+    23.5198  23.5241  23.5470  23.5513  24.6133  24.6149  24.6372  24.6943
+    24.8377  24.9086  27.4766  27.4913  27.4928  27.5265  27.8108  27.8127
+    27.8283  27.8305  28.2927  28.3640  28.7092  28.7193  29.7740  29.8450
+    30.1985  30.2848  30.2888  30.3225  30.5004  30.5811  30.5911  30.5920
+    30.9848  30.9855  30.9868  30.9882  31.3225  31.3562  31.3632  31.4471
+    31.4811  31.4827
+
+          k = 0.0000 0.0000-0.5044 ( 33792 PWs)   bands (ev):
+
+   -76.6609 -76.6580 -76.6501 -76.6482 -76.6476 -76.6463 -76.6439 -76.6407
+   -76.6406 -76.6387 -76.6370 -76.6347 -76.6301 -76.6268 -76.6239 -76.6214
+   -76.5883 -76.5820 -76.5781 -76.5760 -76.5753 -76.5720 -76.5710 -76.5701
+   -76.5683 -76.5663 -76.5648 -76.5627 -76.5612 -76.5599 -76.5593 -76.5547
+   -30.9111 -30.9080 -30.9068 -30.9056 -30.9035 -30.9032 -30.9016 -30.9001
+   -30.8944 -30.8939 -30.8906 -30.8883 -30.8837 -30.8797 -30.8381 -30.8358
+   -30.8166 -30.8158 -30.8149 -30.8131 -30.8074 -30.8043 -30.7912 -30.7896
+   -30.7877 -30.7855 -30.7851 -30.7832 -30.7819 -30.7798 -30.7620 -30.7602
+   -30.7582 -30.7562 -30.7546 -30.7526 -30.7522 -30.7505 -30.7340 -30.7296
+   -30.7188 -30.7158 -30.7023 -30.7004 -30.6973 -30.6944 -30.6748 -30.6740
+   -30.6737 -30.6727 -30.6709 -30.6703 -30.6634 -30.6593 -30.6555 -30.6550
+   -30.6530 -30.6517 -30.6510 -30.6498 -30.6492 -30.6480 -30.6470 -30.6456
+   -30.6294 -30.6271 -30.6248 -30.6208 -30.6204 -30.6162 -30.6161 -30.6120
+   -30.6050 -30.6040 -30.6032 -30.6030 -30.5977 -30.5975 -30.5956 -30.5944
+   -30.5874 -30.5865 -30.5863 -30.5835 -30.5820 -30.5818 -30.5718 -30.5704
+   -30.5697 -30.5688 -30.5646 -30.5623 -30.5523 -30.5517 -30.5494 -30.5484
+    12.9726  12.9809  15.3387  15.3486  15.3552  15.3590  15.3668  15.3762
+    15.4268  15.4282  15.5038  15.5069  15.5115  15.5127  15.5363  15.5413
+    15.5447  15.5476  15.5521  15.5590  15.8628  15.8711  15.8750  15.8823
+    16.0719  16.0804  16.2255  16.2316  16.2343  16.2401  17.0015  17.0077
+    17.0122  17.0148  17.0213  17.0229  17.0302  17.0336  17.1083  17.1237
+    17.1486  17.1496  17.1546  17.1586  17.1960  17.1989  17.2764  17.2786
+    17.2889  17.2909  17.2992  17.3012  17.3498  17.3517  17.6366  17.6502
+    17.6971  17.7000  17.7068  17.7078  17.7332  17.7346  17.9783  17.9817
+    18.1231  18.1276  18.1291  18.1338  18.1558  18.1584  18.1598  18.1630
+    18.3070  18.3183  18.3449  18.3502  18.3542  18.3588  18.3879  18.3927
+    18.6817  18.6833  18.6849  18.6871  18.6993  18.7024  18.7055  18.7084
+    18.7380  18.7460  18.7738  18.7807  19.3136  19.3149  19.3187  19.3197
+    19.3333  19.3381  19.3396  19.3440  19.9010  19.9067  19.9191  19.9270
+    19.9338  19.9360  19.9398  19.9450  19.9561  19.9593  19.9603  19.9640
+    20.0031  20.0146  20.0408  20.0436  20.0483  20.0545  20.0578  20.0591
+    20.0885  20.0911  20.1181  20.1234  20.1270  20.1299  20.1375  20.1395
+    20.1421  20.1491  20.5291  20.5363  21.0716  21.0773  21.1306  21.1325
+    21.1371  21.1379  21.2920  21.2958  21.3002  21.3039  21.3394  21.3424
+    21.3434  21.3475  21.4433  21.4484  21.4703  21.4731  21.4746  21.4772
+    21.4922  21.4968  21.5035  21.5047  21.5075  21.5099  21.6386  21.6395
+    21.9233  21.9244  21.9262  21.9308  21.9320  21.9370  21.9438  21.9482
+    22.2957  22.2985  22.3100  22.3126  23.2899  23.2936  23.2980  23.3023
+    23.3223  23.3259  23.3267  23.3304  25.8531  25.8556  25.8653  25.8686
+    25.8718  25.8806  25.9378  25.9441  26.5479  26.5550  26.6184  26.6254
+    29.0994  29.1022  29.1093  29.1126  29.1225  29.1244  29.1282  29.1294
+    29.1574  29.1580  29.1882  29.1903  30.8789  30.8878  30.9435  30.9485
+    31.0093  31.0109  31.0162  31.0189  31.3100  31.3265  31.3932  31.3979
+    31.4048  31.4110
+
+          k = 0.0000 0.2489 0.0000 ( 33774 PWs)   bands (ev):
+
+   -76.6626 -76.6545 -76.6510 -76.6499 -76.6468 -76.6459 -76.6439 -76.6413
+   -76.6403 -76.6385 -76.6366 -76.6351 -76.6302 -76.6274 -76.6235 -76.6213
+   -76.5887 -76.5812 -76.5791 -76.5755 -76.5737 -76.5729 -76.5716 -76.5695
+   -76.5682 -76.5670 -76.5656 -76.5629 -76.5611 -76.5600 -76.5586 -76.5545
+   -30.9361 -30.9347 -30.9340 -30.9335 -30.9188 -30.9155 -30.9136 -30.8708
+   -30.8696 -30.8675 -30.8664 -30.8637 -30.8589 -30.8521 -30.8369 -30.8230
+   -30.8211 -30.8200 -30.8088 -30.8065 -30.8055 -30.8037 -30.7976 -30.7971
+   -30.7938 -30.7925 -30.7867 -30.7855 -30.7790 -30.7764 -30.7729 -30.7549
+   -30.7532 -30.7450 -30.7390 -30.7381 -30.7325 -30.7319 -30.7252 -30.7245
+   -30.7226 -30.7167 -30.7143 -30.7002 -30.6967 -30.6955 -30.6947 -30.6936
+   -30.6914 -30.6865 -30.6849 -30.6797 -30.6767 -30.6759 -30.6725 -30.6598
+   -30.6590 -30.6583 -30.6516 -30.6491 -30.6466 -30.6459 -30.6453 -30.6378
+   -30.6359 -30.6328 -30.6323 -30.6303 -30.6229 -30.6222 -30.6183 -30.6099
+   -30.6015 -30.6011 -30.6005 -30.5998 -30.5957 -30.5922 -30.5909 -30.5908
+   -30.5902 -30.5870 -30.5817 -30.5798 -30.5795 -30.5774 -30.5767 -30.5724
+   -30.5694 -30.5683 -30.5639 -30.5589 -30.5578 -30.5394 -30.5366 -30.5305
+    12.3793  13.8368  14.9543  15.0043  15.0227  15.0329  15.1569  15.1580
+    15.1598  15.1607  15.3742  15.4449  15.4643  15.4717  15.8298  15.8710
+    15.8714  15.9002  15.9358  15.9484  15.9631  16.0261  16.0290  16.0472
+    16.0495  16.3631  16.3635  16.4257  16.7589  16.7648  16.7685  16.7855
+    16.7912  16.7998  16.8102  16.8114  16.8484  16.9102  16.9471  17.0058
+    17.0146  17.0351  17.3519  17.3920  17.4134  17.4183  17.4815  17.5228
+    17.5260  17.5316  17.5694  17.5852  17.5883  17.6078  17.6143  17.6681
+    17.6749  17.6857  17.6974  17.6977  17.7039  17.7689  17.7825  17.8688
+    17.8722  17.9100  17.9131  18.1400  18.1662  18.1726  18.1980  18.2030
+    18.2144  18.2158  18.2278  18.2291  18.3018  18.3044  18.3315  18.3339
+    18.4819  18.4886  18.4897  18.4902  18.4914  18.5585  18.7004  18.7565
+    18.7583  18.8384  18.8462  18.8660  19.2125  19.2144  19.2242  19.2265
+    19.2845  19.3330  19.3368  19.5171  19.6571  19.6632  19.6705  19.6831
+    19.8058  19.8142  19.8201  19.8233  19.8703  19.8842  19.8901  19.9583
+    19.9640  20.0289  20.0429  20.0565  20.0743  20.0910  20.1000  20.1052
+    20.1147  20.1331  20.1392  20.1465  20.1897  20.3963  20.4009  20.5034
+    20.5286  20.5334  20.5466  20.5510  20.6921  20.6979  20.7172  20.7195
+    20.7483  20.7547  20.7681  20.8120  20.8201  20.8313  20.8627  21.2528
+    21.2558  21.2720  21.2831  21.3063  21.3480  21.4178  21.6809  21.6861
+    21.7350  21.7374  21.7587  21.7613  21.8437  22.0539  22.0549  22.0702
+    22.0780  22.1067  22.1473  22.3823  22.3939  22.4041  22.4131  22.6617
+    22.7362  22.7431  22.7823  22.7839  22.7930  22.7970  22.8213  22.8253
+    23.6302  23.6344  23.6572  23.6614  24.4826  24.5395  24.6076  24.6112
+    24.8516  24.9872  27.3270  27.3736  27.3766  27.3771  27.7850  27.7870
+    27.8010  27.8029  28.2400  28.3777  28.8926  28.9172  29.8822  30.0361
+    30.4057  30.4103  30.4185  30.5099  30.5201  30.5368  30.5917  30.6711
+    30.8134  30.8146  30.8172  30.8190  31.2205  31.3733  31.4172  31.4707
+    31.4750  31.6437
+
+          k = 0.0000 0.2489 0.2522 ( 33772 PWs)   bands (ev):
+
+   -76.6618 -76.6559 -76.6520 -76.6486 -76.6469 -76.6459 -76.6441 -76.6412
+   -76.6401 -76.6388 -76.6367 -76.6348 -76.6301 -76.6272 -76.6237 -76.6214
+   -76.5885 -76.5815 -76.5790 -76.5755 -76.5747 -76.5725 -76.5716 -76.5695
+   -76.5676 -76.5667 -76.5654 -76.5626 -76.5611 -76.5600 -76.5589 -76.5546
+   -30.9328 -30.9320 -30.9181 -30.9160 -30.9101 -30.9083 -30.9080 -30.8838
+   -30.8794 -30.8769 -30.8719 -30.8705 -30.8641 -30.8418 -30.8394 -30.8356
+   -30.8322 -30.8273 -30.8262 -30.8213 -30.8192 -30.8103 -30.8015 -30.8006
+   -30.7975 -30.7956 -30.7853 -30.7738 -30.7726 -30.7705 -30.7677 -30.7658
+   -30.7544 -30.7497 -30.7474 -30.7433 -30.7210 -30.7202 -30.7174 -30.7162
+   -30.7132 -30.7124 -30.7086 -30.7078 -30.7029 -30.6953 -30.6914 -30.6865
+   -30.6792 -30.6774 -30.6758 -30.6748 -30.6726 -30.6708 -30.6650 -30.6611
+   -30.6553 -30.6539 -30.6521 -30.6509 -30.6465 -30.6459 -30.6406 -30.6375
+   -30.6353 -30.6326 -30.6289 -30.6250 -30.6231 -30.6226 -30.6209 -30.6088
+   -30.6049 -30.6023 -30.6004 -30.5983 -30.5976 -30.5958 -30.5947 -30.5934
+   -30.5906 -30.5890 -30.5870 -30.5859 -30.5851 -30.5838 -30.5826 -30.5702
+   -30.5695 -30.5647 -30.5622 -30.5578 -30.5559 -30.5460 -30.5419 -30.5282
+    12.5779  13.9949  14.0384  15.0575  15.0809  15.1171  15.1458  15.2230
+    15.3882  15.3885  15.5263  15.5477  15.5773  15.6043  15.6629  15.6659
+    15.6814  15.7013  15.7141  15.9482  15.9511  16.0136  16.3574  16.3772
+    16.3836  16.3862  16.4074  16.4130  16.4756  16.5050  16.5373  16.5674
+    16.6098  16.6383  16.6393  16.8788  16.8796  16.8918  16.9011  16.9435
+    16.9587  17.0544  17.1347  17.2004  17.2116  17.2142  17.2165  17.4329
+    17.5036  17.5345  17.5642  17.5857  17.5976  17.6091  17.6181  17.6851
+    17.7242  17.8032  17.8472  17.8692  17.9117  17.9414  17.9477  18.0682
+    18.0722  18.1373  18.1557  18.1835  18.1956  18.1969  18.2412  18.2678
+    18.2784  18.2813  18.3000  18.3037  18.3160  18.4325  18.4725  18.5214
+    18.5301  18.5395  18.5437  18.5564  18.5945  18.6163  18.6245  18.6539
+    18.6711  18.6980  18.9248  18.9779  19.0073  19.0936  19.1771  19.1779
+    19.2032  19.2564  19.3105  19.3487  19.4615  19.4804  19.5178  19.5306
+    19.5457  19.5616  19.5782  19.6334  19.7075  19.7261  19.9250  19.9551
+    19.9592  19.9931  19.9941  20.0798  20.0832  20.1566  20.1582  20.2014
+    20.3806  20.4079  20.4203  20.4983  20.5186  20.5528  20.5750  20.5856
+    20.6045  20.6303  20.6516  20.6820  20.7117  20.7193  20.7215  20.7989
+    20.8388  20.8429  20.8500  20.8836  20.9140  20.9171  21.0835  21.1193
+    21.1387  21.1691  21.1856  21.3010  21.3258  21.5151  21.6913  21.6946
+    21.7712  21.7959  21.8446  21.8534  21.8757  21.8765  21.9347  21.9353
+    21.9690  22.0535  22.0614  22.0731  22.1216  22.1277  22.1314  22.1558
+    22.1582  22.1965  22.6529  22.6581  22.7207  22.7261  23.7389  23.7405
+    23.8826  23.8829  23.9572  24.0595  24.5370  24.5909  24.6825  24.7367
+    25.4561  25.6333  26.6465  26.7384  27.2668  27.2688  27.4617  27.4682
+    27.8822  27.9999  28.5304  28.5373  28.7109  28.8088  28.9070  28.9307
+    29.4037  29.6500  29.6524  29.8425  29.8439  30.0791  30.1993  30.9838
+    31.1799  31.2173  31.2825  31.3253  31.3503  31.6593  31.8101  32.1688
+    32.1770  32.2690
+
+          k = 0.0000 0.2489-0.5044 ( 33772 PWs)   bands (ev):
+
+   -76.6603 -76.6578 -76.6522 -76.6483 -76.6468 -76.6458 -76.6442 -76.6408
+   -76.6402 -76.6387 -76.6365 -76.6348 -76.6301 -76.6269 -76.6239 -76.6215
+   -76.5882 -76.5818 -76.5786 -76.5769 -76.5744 -76.5727 -76.5710 -76.5696
+   -76.5677 -76.5664 -76.5647 -76.5627 -76.5612 -76.5600 -76.5593 -76.5548
+   -30.9142 -30.9123 -30.9114 -30.9083 -30.8981 -30.8944 -30.8927 -30.8910
+   -30.8896 -30.8882 -30.8845 -30.8805 -30.8792 -30.8768 -30.8440 -30.8422
+   -30.8330 -30.8316 -30.8279 -30.8262 -30.8131 -30.8099 -30.8085 -30.8078
+   -30.8061 -30.8024 -30.7904 -30.7888 -30.7799 -30.7776 -30.7556 -30.7513
+   -30.7428 -30.7402 -30.7380 -30.7363 -30.7358 -30.7345 -30.7140 -30.7129
+   -30.7123 -30.7107 -30.7006 -30.6966 -30.6931 -30.6919 -30.6863 -30.6842
+   -30.6806 -30.6788 -30.6760 -30.6730 -30.6688 -30.6684 -30.6672 -30.6643
+   -30.6582 -30.6541 -30.6429 -30.6399 -30.6317 -30.6311 -30.6288 -30.6269
+   -30.6255 -30.6245 -30.6241 -30.6228 -30.6220 -30.6209 -30.6206 -30.6196
+   -30.6144 -30.6116 -30.6091 -30.6070 -30.6027 -30.6018 -30.5996 -30.5979
+   -30.5943 -30.5921 -30.5884 -30.5871 -30.5847 -30.5833 -30.5826 -30.5817
+   -30.5772 -30.5734 -30.5568 -30.5541 -30.5473 -30.5461 -30.5386 -30.5375
+    13.1501  13.1584  14.4538  14.4617  15.3174  15.3283  15.3357  15.3465
+    15.3518  15.3562  15.3777  15.3792  15.7036  15.7095  15.8081  15.8121
+    15.8140  15.8199  15.9058  15.9102  15.9439  15.9519  16.0631  16.0712
+    16.1768  16.1853  16.2931  16.3014  16.4071  16.4116  16.4647  16.4658
+    16.7310  16.7382  16.7816  16.7861  16.7885  16.7962  16.7985  16.8072
+    17.0198  17.0275  17.1879  17.1938  17.1990  17.2034  17.2353  17.2367
+    17.3642  17.3776  17.4359  17.4385  17.5188  17.5243  17.8063  17.8103
+    17.8153  17.8217  17.8793  17.8803  17.9576  17.9619  18.1338  18.1412
+    18.1580  18.1592  18.2438  18.2514  18.2582  18.2607  18.2972  18.3012
+    18.3091  18.3124  18.3789  18.3832  18.4829  18.4895  18.6632  18.6702
+    18.7130  18.7165  18.7203  18.7239  18.7560  18.7631  18.7766  18.7828
+    18.8473  18.8539  18.8693  18.8767  18.9664  18.9669  18.9744  18.9772
+    19.1669  19.1674  19.1836  19.1886  19.3662  19.3678  19.3953  19.3963
+    19.4408  19.4430  19.5589  19.5621  19.7494  19.7508  19.7842  19.7902
+    19.8766  19.8818  19.8978  19.8993  19.9671  19.9711  20.0088  20.0123
+    20.2519  20.2531  20.5068  20.5107  20.5311  20.5368  20.5882  20.5895
+    20.7060  20.7096  20.7211  20.7263  20.7589  20.7649  21.0273  21.0281
+    21.1792  21.1806  21.2770  21.2790  21.3033  21.3063  21.3340  21.3371
+    21.4351  21.4357  21.4657  21.4682  21.4743  21.4777  21.5667  21.5706
+    21.5819  21.5876  21.6102  21.6122  21.6215  21.6247  21.6468  21.6493
+    21.8344  21.8385  21.8534  21.8566  22.0665  22.0689  22.0779  22.0815
+    22.3981  22.3999  22.4020  22.4029  22.6512  22.6536  22.7497  22.7511
+    24.5294  24.5389  24.5734  24.5781  25.0264  25.0280  25.4347  25.4401
+    26.1123  26.1264  26.1767  26.1825  26.5686  26.5745  27.1426  27.1487
+    27.9435  27.9528  27.9663  27.9671  28.5500  28.5519  28.6683  28.6753
+    28.6931  28.6950  29.8689  29.8728  30.3037  30.3062  30.4585  30.4643
+    30.4709  30.4746  31.2116  31.2138  31.2376  31.2389  31.9521  31.9549
+    32.7884  32.8437
+
+          k = 0.0000-0.4978 0.0000 ( 33768 PWs)   bands (ev):
+
+   -76.6618 -76.6559 -76.6513 -76.6500 -76.6467 -76.6452 -76.6440 -76.6412
+   -76.6398 -76.6392 -76.6364 -76.6349 -76.6301 -76.6275 -76.6236 -76.6213
+   -76.5884 -76.5809 -76.5804 -76.5751 -76.5736 -76.5729 -76.5718 -76.5691
+   -76.5681 -76.5668 -76.5658 -76.5624 -76.5612 -76.5597 -76.5591 -76.5546
+   -30.9146 -30.9116 -30.9107 -30.9090 -30.9033 -30.9017 -30.9005 -30.8997
+   -30.8989 -30.8981 -30.8887 -30.8883 -30.8856 -30.8757 -30.8358 -30.8303
+   -30.8174 -30.8148 -30.8132 -30.8114 -30.8048 -30.8036 -30.7902 -30.7869
+   -30.7849 -30.7820 -30.7798 -30.7793 -30.7781 -30.7764 -30.7612 -30.7565
+   -30.7561 -30.7533 -30.7513 -30.7510 -30.7490 -30.7467 -30.7424 -30.7369
+   -30.7307 -30.7268 -30.7010 -30.6999 -30.6919 -30.6866 -30.6759 -30.6743
+   -30.6728 -30.6721 -30.6719 -30.6692 -30.6606 -30.6592 -30.6586 -30.6573
+   -30.6562 -30.6553 -30.6533 -30.6528 -30.6524 -30.6502 -30.6497 -30.6490
+   -30.6348 -30.6327 -30.6236 -30.6229 -30.6197 -30.6193 -30.6187 -30.6147
+   -30.6089 -30.6083 -30.6076 -30.6069 -30.5962 -30.5956 -30.5926 -30.5922
+   -30.5870 -30.5851 -30.5812 -30.5810 -30.5768 -30.5756 -30.5714 -30.5703
+   -30.5685 -30.5674 -30.5653 -30.5637 -30.5513 -30.5494 -30.5470 -30.5450
+    12.9455  12.9668  15.3427  15.3624  15.3697  15.3779  15.3878  15.3898
+    15.4129  15.4264  15.4986  15.5027  15.5034  15.5069  15.5095  15.5180
+    15.5446  15.5482  15.5484  15.5524  15.8484  15.8517  15.8701  15.8747
+    16.0513  16.0723  16.2225  16.2303  16.2439  16.2529  16.9951  17.0041
+    17.0079  17.0148  17.0206  17.0258  17.0288  17.0364  17.1271  17.1516
+    17.1750  17.1854  17.1951  17.1976  17.2159  17.2275  17.2494  17.2524
+    17.3077  17.3101  17.3180  17.3219  17.3293  17.3321  17.6867  17.6903
+    17.7014  17.7083  17.7118  17.7171  17.7875  17.7978  17.8666  17.8716
+    18.0517  18.0540  18.0584  18.0665  18.0831  18.0842  18.0880  18.0940
+    18.3573  18.3709  18.4133  18.4215  18.4277  18.4296  18.4449  18.4467
+    18.7633  18.7649  18.7671  18.7712  18.7804  18.7895  18.7924  18.7945
+    18.7960  18.8048  18.8563  18.8755  19.3160  19.3208  19.3227  19.3271
+    19.3348  19.3400  19.3452  19.3494  19.7865  19.8001  19.8708  19.8765
+    19.8967  19.9012  19.9039  19.9090  19.9111  19.9162  19.9566  19.9684
+    19.9805  19.9857  19.9878  19.9905  19.9929  19.9999  20.0012  20.0040
+    20.0376  20.0434  20.0797  20.0855  20.0970  20.1010  20.1181  20.1206
+    20.1227  20.1252  20.6342  20.6522  20.9039  20.9133  21.0991  21.1002
+    21.1038  21.1057  21.2761  21.2797  21.2816  21.2854  21.3204  21.3250
+    21.3295  21.3319  21.4455  21.4573  21.4580  21.4602  21.4650  21.4709
+    21.4719  21.4788  21.4902  21.4987  21.5045  21.5112  21.6694  21.6710
+    21.8969  21.9018  21.9161  21.9170  21.9195  21.9221  21.9241  21.9262
+    22.3840  22.3907  22.4060  22.4127  23.3786  23.3822  23.3849  23.3885
+    23.4082  23.4123  23.4170  23.4199  25.6911  25.7100  25.7646  25.7698
+    25.8050  25.8167  25.8244  25.8310  26.5195  26.5376  26.6538  26.6724
+    29.0028  29.0078  29.0098  29.0165  29.0352  29.0423  29.0433  29.0474
+    29.3008  29.3025  29.3719  29.3734  30.9721  30.9804  30.9814  30.9825
+    31.1342  31.1432  31.1997  31.2016  31.4684  31.4818  31.4842  31.4869
+    31.5082  31.5267
+
+          k = 0.0000-0.4978 0.2522 ( 33736 PWs)   bands (ev):
+
+   -76.6610 -76.6562 -76.6532 -76.6486 -76.6469 -76.6452 -76.6442 -76.6412
+   -76.6398 -76.6390 -76.6361 -76.6350 -76.6301 -76.6273 -76.6238 -76.6215
+   -76.5882 -76.5811 -76.5800 -76.5761 -76.5743 -76.5725 -76.5715 -76.5693
+   -76.5674 -76.5667 -76.5653 -76.5624 -76.5611 -76.5599 -76.5592 -76.5548
+   -30.9159 -30.9131 -30.9127 -30.9104 -30.9004 -30.8939 -30.8930 -30.8919
+   -30.8882 -30.8865 -30.8856 -30.8825 -30.8800 -30.8767 -30.8416 -30.8407
+   -30.8328 -30.8295 -30.8281 -30.8262 -30.8146 -30.8096 -30.8086 -30.8052
+   -30.8028 -30.8002 -30.7893 -30.7872 -30.7771 -30.7750 -30.7549 -30.7488
+   -30.7427 -30.7404 -30.7390 -30.7377 -30.7331 -30.7268 -30.7239 -30.7199
+   -30.7134 -30.7119 -30.6956 -30.6915 -30.6908 -30.6885 -30.6868 -30.6845
+   -30.6838 -30.6825 -30.6801 -30.6789 -30.6693 -30.6689 -30.6682 -30.6646
+   -30.6552 -30.6491 -30.6431 -30.6383 -30.6348 -30.6333 -30.6317 -30.6295
+   -30.6287 -30.6279 -30.6259 -30.6243 -30.6236 -30.6234 -30.6226 -30.6196
+   -30.6152 -30.6119 -30.6110 -30.6099 -30.5998 -30.5979 -30.5960 -30.5945
+   -30.5920 -30.5904 -30.5896 -30.5871 -30.5866 -30.5850 -30.5833 -30.5822
+   -30.5736 -30.5690 -30.5565 -30.5525 -30.5472 -30.5463 -30.5379 -30.5364
+    13.1287  13.1497  14.4679  14.4872  15.3106  15.3276  15.3335  15.3444
+    15.3523  15.3553  15.3690  15.3767  15.6619  15.6764  15.8074  15.8095
+    15.8117  15.8175  15.8934  15.9053  15.9392  15.9605  16.0885  16.1076
+    16.1573  16.1782  16.2876  16.3088  16.4067  16.4196  16.4608  16.4628
+    16.7394  16.7558  16.7868  16.7891  16.7982  16.8039  16.8130  16.8279
+    17.0096  17.0280  17.1795  17.1852  17.1968  17.2023  17.2502  17.2546
+    17.3749  17.3937  17.4459  17.4545  17.5536  17.5693  17.7874  17.7925
+    17.7989  17.8045  17.8520  17.8575  17.8800  17.8854  18.1528  18.1648
+    18.1770  18.1828  18.1870  18.1900  18.2319  18.2348  18.3151  18.3208
+    18.3429  18.3534  18.4270  18.4285  18.4873  18.5013  18.7129  18.7168
+    18.7396  18.7408  18.7468  18.7516  18.7733  18.7894  18.8355  18.8530
+    18.9066  18.9133  18.9188  18.9243  18.9625  18.9693  18.9706  18.9734
+    19.1911  19.1968  19.2151  19.2219  19.3167  19.3230  19.3427  19.3452
+    19.3888  19.3922  19.5956  19.6044  19.7093  19.7102  19.7551  19.7672
+    19.8419  19.8527  19.8736  19.8771  19.8893  19.9002  19.9458  19.9536
+    20.2503  20.2543  20.4901  20.4960  20.5615  20.5634  20.5995  20.6143
+    20.6827  20.6854  20.7083  20.7115  20.7421  20.7474  21.0042  21.0073
+    21.1728  21.1747  21.2606  21.2648  21.2831  21.2866  21.3121  21.3139
+    21.4334  21.4343  21.4413  21.4493  21.4622  21.4684  21.5336  21.5443
+    21.5704  21.5802  21.6011  21.6070  21.6198  21.6220  21.6450  21.6467
+    21.8133  21.8167  21.8311  21.8329  22.1216  22.1272  22.1407  22.1495
+    22.4569  22.4589  22.4615  22.4618  22.6354  22.6415  22.7413  22.7449
+    24.6282  24.6389  24.6734  24.6757  24.9943  24.9984  25.5148  25.5291
+    25.9414  25.9588  26.0060  26.0109  26.5229  26.5380  27.0813  27.0970
+    27.8357  27.8503  27.8537  27.8626  28.6194  28.6234  28.8604  28.8702
+    28.8874  28.8911  29.9101  29.9191  30.4015  30.4128  30.4133  30.4236
+    30.4587  30.4656  31.1894  31.1961  31.1978  31.1988  31.9703  31.9755
+    32.6767  32.6946
+
+          k = 0.0000-0.4978-0.5044 ( 33800 PWs)   bands (ev):
+
+   -76.6596 -76.6577 -76.6536 -76.6487 -76.6466 -76.6450 -76.6445 -76.6409
+   -76.6396 -76.6391 -76.6359 -76.6350 -76.6302 -76.6270 -76.6240 -76.6216
+   -76.5880 -76.5814 -76.5794 -76.5771 -76.5747 -76.5727 -76.5709 -76.5692
+   -76.5672 -76.5665 -76.5646 -76.5626 -76.5611 -76.5601 -76.5594 -76.5550
+   -30.9091 -30.9080 -30.9068 -30.9038 -30.9031 -30.9026 -30.8995 -30.8984
+   -30.8825 -30.8817 -30.8764 -30.8692 -30.8494 -30.8477 -30.8455 -30.8433
+   -30.8423 -30.8408 -30.8378 -30.8374 -30.8354 -30.8347 -30.8329 -30.8323
+   -30.8112 -30.8074 -30.8062 -30.8038 -30.7623 -30.7622 -30.7611 -30.7606
+   -30.7191 -30.7185 -30.7178 -30.7172 -30.7152 -30.7135 -30.7124 -30.7108
+   -30.7070 -30.7056 -30.7048 -30.7025 -30.7015 -30.6980 -30.6940 -30.6907
+   -30.6793 -30.6765 -30.6754 -30.6730 -30.6653 -30.6650 -30.6645 -30.6641
+   -30.6479 -30.6447 -30.6415 -30.6406 -30.6405 -30.6392 -30.6369 -30.6348
+   -30.6237 -30.6223 -30.6213 -30.6209 -30.6207 -30.6185 -30.6181 -30.6174
+   -30.6159 -30.6155 -30.6142 -30.6132 -30.6116 -30.6110 -30.6086 -30.6080
+   -30.5977 -30.5961 -30.5943 -30.5926 -30.5826 -30.5807 -30.5793 -30.5779
+   -30.5731 -30.5686 -30.5668 -30.5640 -30.5374 -30.5355 -30.5348 -30.5331
+    13.6529  13.6612  13.6729  13.6895  15.2742  15.2854  15.2897  15.3020
+    15.3109  15.3188  15.3198  15.3248  16.0731  16.0814  16.0831  16.0919
+    16.0993  16.1096  16.1136  16.1173  16.1206  16.1317  16.1392  16.1506
+    16.2382  16.2399  16.2507  16.2511  16.2524  16.2560  16.2660  16.2692
+    16.4930  16.5014  16.5097  16.5150  16.5172  16.5253  16.5300  16.5385
+    16.8145  16.8218  16.8240  16.8314  17.4380  17.4391  17.4426  17.4524
+    17.4538  17.4567  17.4649  17.4772  17.8056  17.8090  17.8167  17.8260
+    17.9930  18.0055  18.0087  18.0206  18.0512  18.0611  18.0652  18.0758
+    18.2728  18.2804  18.2827  18.2902  18.3502  18.3549  18.3563  18.3617
+    18.6902  18.6986  18.7024  18.7045  18.7105  18.7126  18.7144  18.7200
+    18.7814  18.7842  18.7929  18.7962  18.8057  18.8184  18.8212  18.8295
+    18.8534  18.8554  18.8646  18.8697  18.8758  18.8862  18.8894  18.8970
+    18.9888  18.9938  18.9957  18.9989  19.0641  19.0734  19.0755  19.0809
+    19.2483  19.2530  19.2603  19.2676  19.4094  19.4095  19.4222  19.4223
+    19.4246  19.4262  19.4389  19.4403  19.8391  19.8436  19.8455  19.8496
+    20.6905  20.6940  20.6950  20.6978  20.7648  20.7757  20.7786  20.7890
+    21.0305  21.0343  21.0399  21.0423  21.0479  21.0502  21.0569  21.0613
+    21.4464  21.4498  21.4511  21.4582  21.4653  21.4671  21.4742  21.4786
+    21.4997  21.5096  21.5111  21.5212  21.5442  21.5545  21.5560  21.5652
+    21.6086  21.6147  21.6166  21.6210  21.6267  21.6289  21.6306  21.6351
+    21.7212  21.7277  21.7282  21.7325  21.7332  21.7356  21.7383  21.7394
+    21.7496  21.7542  21.7597  21.7676  23.8973  23.9006  23.9059  23.9090
+    23.9185  23.9260  23.9294  23.9374  26.1759  26.1779  26.1838  26.1903
+    26.1960  26.2026  26.2091  26.2142  27.1166  27.1209  27.1263  27.1275
+    27.1319  27.1341  27.1365  27.1407  27.4366  27.4486  27.4540  27.4687
+    28.3605  28.3702  28.3755  28.3887  31.5479  31.5526  31.5537  31.5594
+    31.9881  31.9923  31.9984  32.0001  32.0081  32.0167  32.0208  32.0290
+    32.0375  32.0401
+
+          k = 0.2500 0.0000 0.0000 ( 33762 PWs)   bands (ev):
+
+   -76.6632 -76.6535 -76.6505 -76.6489 -76.6480 -76.6466 -76.6439 -76.6415
+   -76.6405 -76.6381 -76.6369 -76.6353 -76.6303 -76.6272 -76.6235 -76.6212
+   -76.5889 -76.5812 -76.5774 -76.5764 -76.5737 -76.5730 -76.5712 -76.5701
+   -76.5680 -76.5674 -76.5653 -76.5634 -76.5611 -76.5601 -76.5583 -76.5543
+   -30.9385 -30.9369 -30.9368 -30.9362 -30.9215 -30.9202 -30.9124 -30.8560
+   -30.8549 -30.8490 -30.8483 -30.8403 -30.8396 -30.8381 -30.8377 -30.8371
+   -30.8364 -30.8318 -30.8302 -30.8242 -30.8232 -30.8141 -30.8128 -30.8085
+   -30.8075 -30.7932 -30.7875 -30.7868 -30.7823 -30.7820 -30.7574 -30.7540
+   -30.7393 -30.7388 -30.7367 -30.7356 -30.7335 -30.7323 -30.7305 -30.7288
+   -30.7280 -30.7233 -30.7056 -30.6976 -30.6923 -30.6868 -30.6858 -30.6851
+   -30.6845 -30.6841 -30.6781 -30.6773 -30.6748 -30.6742 -30.6686 -30.6683
+   -30.6666 -30.6661 -30.6552 -30.6515 -30.6443 -30.6406 -30.6361 -30.6323
+   -30.6315 -30.6306 -30.6299 -30.6240 -30.6238 -30.6203 -30.6200 -30.6113
+   -30.6108 -30.6076 -30.6070 -30.6000 -30.5990 -30.5982 -30.5976 -30.5942
+   -30.5925 -30.5894 -30.5886 -30.5798 -30.5795 -30.5769 -30.5762 -30.5725
+   -30.5720 -30.5591 -30.5584 -30.5581 -30.5574 -30.5453 -30.5305 -30.5286
+    12.3797  13.8582  14.9593  14.9598  15.0214  15.0253  15.1574  15.1579
+    15.1581  15.1587  15.3700  15.4507  15.4707  15.4896  15.8253  15.8688
+    15.8727  15.9211  15.9226  15.9531  15.9558  16.0438  16.0442  16.0449
+    16.0454  16.3820  16.3894  16.4506  16.7404  16.7408  16.7826  16.7853
+    16.8046  16.8061  16.8185  16.8221  16.8412  16.8679  16.9519  16.9527
+    16.9961  17.0011  17.3864  17.3912  17.4135  17.4215  17.4376  17.5263
+    17.5281  17.5434  17.5489  17.5881  17.5891  17.6086  17.6136  17.6279
+    17.6289  17.6646  17.6669  17.7488  17.7526  17.8042  17.8102  17.9074
+    17.9079  17.9094  17.9111  18.1505  18.1527  18.1653  18.1674  18.2335
+    18.2342  18.2370  18.2373  18.2532  18.3184  18.3186  18.3207  18.3215
+    18.4249  18.4532  18.4547  18.4554  18.4566  18.5590  18.6890  18.7612
+    18.7759  18.7782  18.8280  18.8335  19.2032  19.2047  19.2050  19.2060
+    19.2526  19.3340  19.3671  19.5800  19.6691  19.6697  19.6908  19.6923
+    19.8143  19.8162  19.8379  19.8392  19.9012  19.9061  19.9342  19.9388
+    20.0106  20.0126  20.0450  20.0505  20.0776  20.0818  20.0908  20.0961
+    20.1417  20.1451  20.1582  20.1626  20.2197  20.4098  20.4164  20.4567
+    20.5344  20.5348  20.5354  20.5361  20.6974  20.7061  20.7172  20.7183
+    20.7203  20.7226  20.7972  20.7981  20.8279  20.8313  20.8361  21.2531
+    21.2548  21.2713  21.3006  21.3016  21.3737  21.4034  21.6862  21.6919
+    21.7643  21.7649  21.7656  21.7665  21.8385  22.0526  22.0560  22.0562
+    22.1256  22.1257  22.1550  22.3123  22.3380  22.3932  22.4132  22.7347
+    22.7412  22.7427  22.7866  22.7879  22.7883  22.7906  22.8087  22.8091
+    23.6070  23.6078  23.6086  23.6096  24.5113  24.5126  24.6601  24.6635
+    24.7978  25.0043  27.3904  27.3919  27.4229  27.4260  27.7998  27.8006
+    27.8010  27.8022  28.2099  28.4189  28.8187  28.8533  29.7971  30.0217
+    30.3386  30.3460  30.4264  30.4298  30.4956  30.5018  30.6589  30.6610
+    30.8687  30.8691  30.8698  30.8700  31.2075  31.3767  31.3804  31.4323
+    31.5242  31.6757
+
+          k = 0.2500 0.0000 0.2522 ( 33797 PWs)   bands (ev):
+
+   -76.6623 -76.6556 -76.6503 -76.6484 -76.6477 -76.6465 -76.6439 -76.6412
+   -76.6405 -76.6384 -76.6369 -76.6350 -76.6302 -76.6271 -76.6237 -76.6213
+   -76.5886 -76.5816 -76.5778 -76.5762 -76.5748 -76.5719 -76.5715 -76.5700
+   -76.5683 -76.5666 -76.5650 -76.5632 -76.5611 -76.5600 -76.5587 -76.5545
+   -30.9330 -30.9319 -30.9233 -30.9223 -30.9119 -30.9116 -30.9065 -30.8723
+   -30.8713 -30.8657 -30.8612 -30.8599 -30.8557 -30.8515 -30.8439 -30.8419
+   -30.8395 -30.8365 -30.8302 -30.8266 -30.8172 -30.8159 -30.8069 -30.8053
+   -30.8002 -30.7951 -30.7801 -30.7793 -30.7749 -30.7707 -30.7657 -30.7619
+   -30.7537 -30.7506 -30.7424 -30.7417 -30.7227 -30.7216 -30.7167 -30.7161
+   -30.7121 -30.7107 -30.7055 -30.7022 -30.7012 -30.6976 -30.6860 -30.6857
+   -30.6805 -30.6785 -30.6764 -30.6747 -30.6736 -30.6732 -30.6602 -30.6594
+   -30.6505 -30.6498 -30.6476 -30.6466 -30.6461 -30.6441 -30.6431 -30.6408
+   -30.6389 -30.6347 -30.6331 -30.6312 -30.6303 -30.6190 -30.6187 -30.6120
+   -30.6102 -30.6074 -30.6062 -30.6019 -30.6014 -30.5989 -30.5915 -30.5910
+   -30.5890 -30.5873 -30.5853 -30.5817 -30.5805 -30.5779 -30.5769 -30.5716
+   -30.5707 -30.5669 -30.5593 -30.5589 -30.5558 -30.5516 -30.5366 -30.5306
+    12.5782  14.0153  14.0384  15.0621  15.0635  15.1409  15.1446  15.1671
+    15.3782  15.3795  15.5226  15.5474  15.5648  15.6453  15.6647  15.6841
+    15.6863  15.7034  15.7065  15.9427  15.9488  16.0126  16.3864  16.3903
+    16.3924  16.4041  16.4073  16.4117  16.4939  16.5052  16.5368  16.5462
+    16.5946  16.6505  16.6571  16.8568  16.8576  16.8649  16.8857  16.9695
+    16.9820  17.0697  17.0714  17.1919  17.2046  17.2143  17.2153  17.4568
+    17.4680  17.5850  17.5882  17.5957  17.5999  17.6138  17.6180  17.6917
+    17.7211  17.8351  17.8391  17.8545  17.8591  17.9554  17.9569  18.0994
+    18.1017  18.1294  18.1503  18.1517  18.1897  18.1911  18.2276  18.2451
+    18.2482  18.3000  18.3034  18.3155  18.3187  18.4166  18.4589  18.5033
+    18.5249  18.5625  18.5654  18.5670  18.5768  18.5781  18.6177  18.6206
+    18.6419  18.6594  18.9061  18.9454  19.0481  19.0886  19.2087  19.2102
+    19.2588  19.2686  19.2742  19.3328  19.4629  19.4658  19.5052  19.5079
+    19.5554  19.5847  19.6399  19.6425  19.7115  19.7336  19.9449  19.9460
+    19.9558  19.9945  19.9955  20.0766  20.0780  20.1574  20.1601  20.2489
+    20.3712  20.3875  20.4060  20.5178  20.5339  20.5765  20.5825  20.5989
+    20.6056  20.6201  20.6229  20.6679  20.6960  20.7106  20.7241  20.8025
+    20.8088  20.8191  20.8441  20.8989  20.9231  20.9366  21.0938  21.1503
+    21.1517  21.1637  21.1657  21.3241  21.3246  21.5184  21.6907  21.6946
+    21.7835  21.8002  21.8333  21.8335  21.8932  21.8937  21.9577  21.9583
+    21.9754  22.0520  22.0542  22.0602  22.0652  22.1011  22.1165  22.1590
+    22.1594  22.2065  22.6570  22.6572  22.7011  22.7013  23.7775  23.7837
+    23.8728  23.8730  24.0160  24.0814  24.5652  24.5667  24.6618  24.6634
+    25.5102  25.5735  26.7086  26.7702  27.2692  27.2702  27.4928  27.4929
+    27.9115  27.9877  28.5198  28.5202  28.6751  28.7399  28.9186  28.9207
+    29.3564  29.7207  29.7227  29.8422  29.8427  30.0564  30.1289  31.0477
+    31.0726  31.2038  31.2599  31.2877  31.2981  31.6375  31.7376  32.1895
+    32.2031  32.2188
+
+          k = 0.2500 0.0000-0.5044 ( 33798 PWs)   bands (ev):
+
+   -76.6608 -76.6579 -76.6501 -76.6482 -76.6476 -76.6463 -76.6439 -76.6407
+   -76.6406 -76.6387 -76.6370 -76.6347 -76.6301 -76.6269 -76.6239 -76.6214
+   -76.5883 -76.5820 -76.5781 -76.5760 -76.5753 -76.5720 -76.5711 -76.5701
+   -76.5683 -76.5663 -76.5648 -76.5627 -76.5612 -76.5599 -76.5593 -76.5547
+   -30.9119 -30.9100 -30.9084 -30.9073 -30.8977 -30.8960 -30.8944 -30.8935
+   -30.8903 -30.8890 -30.8863 -30.8853 -30.8802 -30.8788 -30.8427 -30.8404
+   -30.8318 -30.8308 -30.8299 -30.8291 -30.8168 -30.8139 -30.8102 -30.8062
+   -30.7960 -30.7933 -30.7877 -30.7868 -30.7852 -30.7844 -30.7409 -30.7402
+   -30.7396 -30.7389 -30.7359 -30.7343 -30.7338 -30.7305 -30.7295 -30.7260
+   -30.7229 -30.7211 -30.6974 -30.6936 -30.6908 -30.6883 -30.6787 -30.6778
+   -30.6769 -30.6760 -30.6711 -30.6677 -30.6669 -30.6649 -30.6641 -30.6622
+   -30.6558 -30.6551 -30.6537 -30.6535 -30.6441 -30.6435 -30.6414 -30.6402
+   -30.6341 -30.6310 -30.6306 -30.6277 -30.6255 -30.6219 -30.6096 -30.6081
+   -30.6074 -30.6066 -30.6057 -30.6053 -30.6039 -30.6027 -30.5956 -30.5950
+   -30.5941 -30.5937 -30.5856 -30.5847 -30.5822 -30.5812 -30.5727 -30.5717
+   -30.5713 -30.5703 -30.5560 -30.5530 -30.5521 -30.5519 -30.5431 -30.5424
+    13.1501  13.1585  14.4737  14.4813  15.2911  15.2962  15.3005  15.3077
+    15.3660  15.3711  15.3775  15.3812  15.7032  15.7098  15.8252  15.8270
+    15.8288  15.8309  15.8938  15.8999  15.9408  15.9522  16.0856  16.0949
+    16.1756  16.1842  16.2876  16.2972  16.3683  16.3722  16.5123  16.5137
+    16.7552  16.7618  16.7819  16.7853  16.7884  16.7919  16.7979  16.8062
+    17.0130  17.0208  17.1743  17.1756  17.1862  17.1880  17.2611  17.2623
+    17.3941  17.3950  17.3983  17.4015  17.5242  17.5294  17.8257  17.8277
+    17.8347  17.8359  17.8765  17.8777  17.9607  17.9655  18.1391  18.1399
+    18.1477  18.1487  18.2275  18.2326  18.2352  18.2389  18.2605  18.2651
+    18.3296  18.3366  18.3405  18.3456  18.4643  18.4695  18.6515  18.6540
+    18.7432  18.7459  18.7488  18.7510  18.7582  18.7641  18.7939  18.8007
+    18.8607  18.8633  18.8646  18.8668  18.9461  18.9485  18.9496  18.9517
+    19.1743  19.1752  19.1800  19.1803  19.3711  19.3747  19.4378  19.4391
+    19.4441  19.4453  19.5702  19.5751  19.7547  19.7580  19.7611  19.7637
+    19.8841  19.8851  19.8868  19.8884  19.9810  19.9852  19.9977  20.0015
+    20.2581  20.2599  20.5095  20.5130  20.5229  20.5253  20.5937  20.5963
+    20.6936  20.6944  20.7393  20.7410  20.7440  20.7456  21.0271  21.0282
+    21.1880  21.1890  21.2708  21.2718  21.3070  21.3082  21.3123  21.3132
+    21.4267  21.4277  21.4425  21.4461  21.4642  21.4676  21.5629  21.5666
+    21.5945  21.5964  21.6044  21.6067  21.6481  21.6500  21.6536  21.6554
+    21.8376  21.8389  21.8433  21.8441  22.0530  22.0553  22.0884  22.0917
+    22.4023  22.4028  22.4035  22.4039  22.6775  22.6803  22.7742  22.7755
+    24.5517  24.5530  24.5604  24.5624  25.0719  25.0736  25.4968  25.5022
+    26.1013  26.1035  26.1164  26.1194  26.6046  26.6100  27.0771  27.0834
+    27.9479  27.9486  27.9542  27.9558  28.5505  28.5523  28.7293  28.7304
+    28.7335  28.7354  29.8250  29.8289  30.3143  30.3172  30.4747  30.4757
+    30.4794  30.4809  31.0964  31.1031  31.1680  31.1727  31.9362  31.9386
+    32.7687  32.7772
+
+          k = 0.2500 0.2489 0.0000 ( 33794 PWs)   bands (ev):
+
+   -76.6626 -76.6545 -76.6510 -76.6499 -76.6468 -76.6459 -76.6439 -76.6414
+   -76.6403 -76.6386 -76.6366 -76.6351 -76.6302 -76.6274 -76.6236 -76.6213
+   -76.5886 -76.5811 -76.5791 -76.5755 -76.5737 -76.5729 -76.5716 -76.5695
+   -76.5682 -76.5670 -76.5656 -76.5629 -76.5611 -76.5600 -76.5586 -76.5545
+   -30.9326 -30.9316 -30.9246 -30.9231 -30.9135 -30.9101 -30.9068 -30.8732
+   -30.8724 -30.8691 -30.8609 -30.8593 -30.8549 -30.8510 -30.8423 -30.8412
+   -30.8399 -30.8323 -30.8289 -30.8218 -30.8188 -30.8164 -30.8080 -30.8061
+   -30.7992 -30.7962 -30.7776 -30.7773 -30.7766 -30.7726 -30.7719 -30.7556
+   -30.7549 -30.7484 -30.7432 -30.7417 -30.7312 -30.7185 -30.7168 -30.7140
+   -30.7134 -30.7108 -30.7104 -30.7004 -30.6996 -30.6956 -30.6862 -30.6818
+   -30.6802 -30.6789 -30.6757 -30.6746 -30.6726 -30.6715 -30.6620 -30.6610
+   -30.6537 -30.6507 -30.6482 -30.6476 -30.6461 -30.6456 -30.6448 -30.6382
+   -30.6372 -30.6345 -30.6329 -30.6316 -30.6291 -30.6187 -30.6179 -30.6147
+   -30.6129 -30.6071 -30.6062 -30.6040 -30.6031 -30.5985 -30.5910 -30.5908
+   -30.5875 -30.5872 -30.5865 -30.5816 -30.5773 -30.5757 -30.5742 -30.5704
+   -30.5696 -30.5685 -30.5594 -30.5592 -30.5579 -30.5518 -30.5345 -30.5328
+    12.5732  13.9922  14.0186  15.1125  15.1163  15.1411  15.1481  15.1511
+    15.3751  15.3765  15.5170  15.5212  15.5803  15.6014  15.6429  15.6987
+    15.7019  15.7130  15.7181  15.9462  15.9491  16.0062  16.3814  16.3831
+    16.3872  16.4001  16.4018  16.4155  16.4606  16.4872  16.5167  16.5454
+    16.6121  16.6212  16.6242  16.8880  16.8902  16.8919  16.9155  16.9401
+    16.9530  17.1085  17.1136  17.2093  17.2102  17.2305  17.2325  17.4191
+    17.4729  17.5342  17.5771  17.5797  17.5877  17.5924  17.5946  17.7103
+    17.7211  17.8278  17.8302  17.8562  17.8600  17.9468  17.9484  18.0244
+    18.0252  18.1758  18.1966  18.1973  18.2062  18.2143  18.2159  18.2999
+    18.3011  18.3095  18.3102  18.3573  18.3595  18.3991  18.4160  18.4646
+    18.4656  18.4910  18.5713  18.6331  18.6610  18.6618  18.6914  18.6992
+    18.7168  18.7193  18.9691  18.9730  19.0200  19.0793  19.2097  19.2110
+    19.2327  19.2344  19.2478  19.2783  19.4924  19.4967  19.5007  19.5109
+    19.5157  19.5246  19.5704  19.5747  19.6870  19.7027  19.9320  19.9341
+    19.9348  20.0149  20.0156  20.0884  20.0892  20.1377  20.1386  20.1468
+    20.3762  20.3874  20.4692  20.4939  20.5064  20.5882  20.5912  20.6037
+    20.6057  20.6106  20.6138  20.6955  20.7006  20.7054  20.7163  20.8084
+    20.8355  20.8539  20.8649  20.8944  20.9155  20.9269  21.0600  21.1439
+    21.1453  21.1504  21.1543  21.2894  21.2910  21.5060  21.6940  21.6947
+    21.7681  21.7753  21.8470  21.8473  21.8777  21.8782  21.9066  21.9069
+    21.9583  22.0734  22.1023  22.1190  22.1361  22.1458  22.1529  22.1565
+    22.1582  22.2097  22.6971  22.6972  22.7216  22.7222  23.6598  23.6613
+    23.8949  23.8960  23.9092  23.9470  24.6519  24.6552  24.7011  24.7047
+    25.3529  25.7425  26.5829  26.6144  27.2608  27.2615  27.4300  27.4303
+    27.8974  27.9406  28.5386  28.5389  28.8424  28.8775  28.8917  28.8939
+    29.4959  29.6607  29.6611  29.7323  29.7332  30.1894  30.2365  31.0092
+    31.0866  31.3692  31.3837  31.4143  31.4655  31.8049  31.8559  32.1599
+    32.1629  32.2111
+
+          k = 0.2500 0.2489 0.2522 ( 33787 PWs)   bands (ev):
+
+   -76.6617 -76.6559 -76.6520 -76.6486 -76.6469 -76.6459 -76.6441 -76.6412
+   -76.6401 -76.6388 -76.6367 -76.6348 -76.6301 -76.6272 -76.6237 -76.6214
+   -76.5884 -76.5815 -76.5790 -76.5755 -76.5747 -76.5725 -76.5716 -76.5695
+   -76.5676 -76.5667 -76.5654 -76.5626 -76.5611 -76.5601 -76.5589 -76.5546
+   -30.9273 -30.9256 -30.9207 -30.9080 -30.9056 -30.9043 -30.9016 -30.8832
+   -30.8778 -30.8758 -30.8750 -30.8700 -30.8686 -30.8498 -30.8477 -30.8382
+   -30.8377 -30.8369 -30.8351 -30.8345 -30.8307 -30.8273 -30.8100 -30.8062
+   -30.8030 -30.7838 -30.7818 -30.7775 -30.7609 -30.7580 -30.7567 -30.7546
+   -30.7531 -30.7498 -30.7407 -30.7385 -30.7323 -30.7212 -30.7184 -30.7140
+   -30.6982 -30.6973 -30.6958 -30.6943 -30.6922 -30.6909 -30.6902 -30.6885
+   -30.6870 -30.6859 -30.6776 -30.6744 -30.6728 -30.6719 -30.6685 -30.6674
+   -30.6574 -30.6553 -30.6514 -30.6463 -30.6440 -30.6432 -30.6422 -30.6396
+   -30.6363 -30.6346 -30.6303 -30.6291 -30.6263 -30.6259 -30.6216 -30.6147
+   -30.6092 -30.6075 -30.6060 -30.6037 -30.6018 -30.6006 -30.5997 -30.5981
+   -30.5952 -30.5853 -30.5837 -30.5822 -30.5803 -30.5782 -30.5770 -30.5688
+   -30.5658 -30.5610 -30.5598 -30.5590 -30.5560 -30.5463 -30.5391 -30.5312
+    12.7646  14.1256  14.1509  14.1719  14.9643  15.0669  15.0857  15.0939
+    15.4807  15.4864  15.4969  15.6244  15.6323  15.6540  15.6927  15.7347
+    15.7515  16.0844  16.0875  16.0892  16.2056  16.2101  16.2166  16.2326
+    16.2349  16.2445  16.3946  16.4126  16.4263  16.4460  16.4517  16.4611
+    16.4710  16.4752  16.4829  16.6695  16.6824  16.6989  16.9840  16.9865
+    16.9949  17.0029  17.0147  17.0248  17.4954  17.5000  17.5075  17.5193
+    17.5342  17.5611  17.6161  17.6280  17.6322  17.6353  17.6512  17.6543
+    17.8176  17.8371  17.8532  17.8664  17.8818  17.8893  17.8995  17.9120
+    17.9291  17.9818  17.9959  18.0536  18.1643  18.4106  18.4202  18.4345
+    18.4462  18.4545  18.4658  18.4852  18.4940  18.5092  18.5302  18.5396
+    18.5476  18.5553  18.5609  18.5877  18.6343  18.6937  18.7291  18.7663
+    18.7773  18.7887  18.8352  18.8507  18.8841  18.8922  18.9752  19.0543
+    19.0591  19.0844  19.1490  19.1693  19.5477  19.5591  19.5608  19.6079
+    19.6265  19.6394  19.6452  19.6523  19.6639  19.6723  19.6827  19.6882
+    19.7078  19.9707  19.9864  20.0093  20.1190  20.1543  20.1633  20.1855
+    20.1996  20.2077  20.2424  20.3562  20.3594  20.3685  20.3740  20.3777
+    20.3930  20.3959  20.4539  20.4792  20.5334  20.8602  20.9050  20.9265
+    21.2081  21.2135  21.2211  21.2278  21.2387  21.2431  21.2679  21.2896
+    21.2961  21.3495  21.3609  21.3681  21.4401  21.4681  21.6555  21.6614
+    21.6789  21.7055  21.7145  21.7191  21.8612  21.8767  21.8853  21.9404
+    21.9427  21.9500  21.9606  21.9655  21.9734  21.9866  21.9935  21.9969
+    22.1719  22.1725  22.1805  23.6639  23.6650  23.7312  23.7348  23.7721
+    23.7787  23.8101  23.8113  23.8316  24.5982  24.6460  24.7343  25.5250
+    25.6233  25.6747  26.9200  26.9578  26.9611  27.0182  27.0748  27.0949
+    27.7100  27.7359  27.7471  28.6664  28.6977  28.7033  28.7048  28.7589
+    28.7762  28.7978  28.8115  28.9117  30.3277  30.3892  30.4157  30.4598
+    30.7732  30.7861  30.8232  30.8413  30.9287  30.9356  32.6623  32.6946
+    32.6991  32.7567
+
+          k = 0.2500 0.2489-0.5044 ( 33774 PWs)   bands (ev):
+
+   -76.6603 -76.6578 -76.6522 -76.6483 -76.6468 -76.6458 -76.6442 -76.6408
+   -76.6402 -76.6387 -76.6365 -76.6348 -76.6302 -76.6269 -76.6240 -76.6215
+   -76.5881 -76.5817 -76.5786 -76.5769 -76.5744 -76.5727 -76.5710 -76.5696
+   -76.5678 -76.5664 -76.5647 -76.5627 -76.5612 -76.5600 -76.5593 -76.5548
+   -30.9127 -30.9117 -30.9069 -30.9030 -30.8979 -30.8960 -30.8939 -30.8917
+   -30.8900 -30.8888 -30.8878 -30.8820 -30.8757 -30.8753 -30.8440 -30.8419
+   -30.8390 -30.8385 -30.8318 -30.8308 -30.8294 -30.8288 -30.8208 -30.8182
+   -30.8122 -30.8106 -30.7586 -30.7576 -30.7574 -30.7561 -30.7465 -30.7456
+   -30.7367 -30.7351 -30.7299 -30.7287 -30.7277 -30.7257 -30.7252 -30.7238
+   -30.7169 -30.7149 -30.6999 -30.6969 -30.6936 -30.6924 -30.6869 -30.6854
+   -30.6765 -30.6754 -30.6722 -30.6697 -30.6689 -30.6677 -30.6623 -30.6609
+   -30.6596 -30.6578 -30.6559 -30.6548 -30.6497 -30.6470 -30.6420 -30.6392
+   -30.6289 -30.6274 -30.6265 -30.6254 -30.6245 -30.6233 -30.6220 -30.6210
+   -30.6192 -30.6184 -30.6113 -30.6089 -30.6044 -30.6037 -30.6024 -30.5987
+   -30.5928 -30.5914 -30.5888 -30.5874 -30.5805 -30.5798 -30.5718 -30.5684
+   -30.5640 -30.5632 -30.5515 -30.5493 -30.5481 -30.5471 -30.5392 -30.5388
+    13.3150  13.3233  14.5070  14.5161  14.5335  14.5389  14.9740  14.9782
+    15.7616  15.7635  15.7743  15.7765  15.7985  15.8049  15.8969  15.9015
+    15.9168  15.9230  15.9541  15.9594  15.9898  15.9959  16.0018  16.0072
+    16.3005  16.3106  16.3751  16.3792  16.4194  16.4204  16.4858  16.4910
+    16.4971  16.5034  16.5167  16.5220  16.5507  16.5525  17.0739  17.0772
+    17.0855  17.0892  17.1898  17.1991  17.2066  17.2143  17.2488  17.2548
+    17.2740  17.2771  17.6746  17.6819  17.6912  17.6938  17.7057  17.7111
+    17.8276  17.8332  17.8538  17.8596  17.9678  17.9727  18.0910  18.0949
+    18.1020  18.1040  18.2425  18.2452  18.2586  18.2608  18.4792  18.4848
+    18.4917  18.4950  18.5361  18.5388  18.6064  18.6067  18.6361  18.6381
+    18.6430  18.6499  18.6876  18.6908  18.6975  18.6982  18.7153  18.7229
+    18.7494  18.7552  18.7865  18.7920  19.0252  19.0289  19.0421  19.0464
+    19.0821  19.0839  19.1078  19.1082  19.1361  19.1377  19.1644  19.1669
+    19.4349  19.4383  19.4612  19.4656  19.6494  19.6529  19.8935  19.8980
+    19.9248  19.9279  20.0096  20.0145  20.0371  20.0387  20.0755  20.0790
+    20.1327  20.1362  20.1426  20.1453  20.1646  20.1672  20.1797  20.1849
+    20.4919  20.4979  20.7358  20.7369  20.8465  20.8472  20.8904  20.8914
+    20.8945  20.8952  21.1952  21.1961  21.2087  21.2101  21.4624  21.4628
+    21.4637  21.4647  21.6134  21.6150  21.6768  21.6826  21.6937  21.6963
+    21.7031  21.7051  21.7098  21.7140  21.7754  21.7775  21.8024  21.8040
+    21.8066  21.8085  22.0203  22.0212  22.0429  22.0453  22.0501  22.0526
+    22.7256  22.7279  22.7515  22.7528  23.0959  23.0989  23.6923  23.6951
+    23.6989  23.7010  25.2317  25.2330  25.2702  25.2716  25.4795  25.4819
+    25.8526  25.8574  25.9102  25.9149  26.9085  26.9141  26.9400  26.9450
+    27.2001  27.2034  27.8513  27.8546  27.8921  27.8950  29.0548  29.0624
+    29.0676  29.0735  29.3747  29.3757  29.3961  29.3981  29.5277  29.5328
+    29.5857  29.5886  31.9427  31.9474  32.1386  32.1396  32.2391  32.2407
+    32.2783  32.2796
+
+          k = 0.2500-0.4978 0.0000 ( 33740 PWs)   bands (ev):
+
+   -76.6617 -76.6559 -76.6513 -76.6500 -76.6468 -76.6452 -76.6440 -76.6413
+   -76.6398 -76.6392 -76.6364 -76.6349 -76.6301 -76.6275 -76.6236 -76.6214
+   -76.5883 -76.5809 -76.5803 -76.5751 -76.5737 -76.5729 -76.5718 -76.5691
+   -76.5681 -76.5668 -76.5658 -76.5624 -76.5612 -76.5598 -76.5591 -76.5546
+   -30.9138 -30.9110 -30.9095 -30.9077 -30.8977 -30.8961 -30.8948 -30.8932
+   -30.8928 -30.8916 -30.8853 -30.8837 -30.8831 -30.8750 -30.8408 -30.8350
+   -30.8312 -30.8302 -30.8297 -30.8288 -30.8137 -30.8123 -30.8089 -30.8042
+   -30.7951 -30.7939 -30.7900 -30.7881 -30.7863 -30.7856 -30.7440 -30.7429
+   -30.7409 -30.7386 -30.7367 -30.7354 -30.7349 -30.7336 -30.7302 -30.7239
+   -30.7172 -30.7165 -30.6969 -30.6930 -30.6875 -30.6837 -30.6814 -30.6801
+   -30.6789 -30.6770 -30.6724 -30.6689 -30.6672 -30.6660 -30.6651 -30.6599
+   -30.6569 -30.6560 -30.6537 -30.6531 -30.6446 -30.6436 -30.6407 -30.6398
+   -30.6364 -30.6344 -30.6333 -30.6306 -30.6240 -30.6198 -30.6106 -30.6093
+   -30.6079 -30.6077 -30.6063 -30.6046 -30.6029 -30.6025 -30.5963 -30.5958
+   -30.5945 -30.5938 -30.5829 -30.5826 -30.5791 -30.5781 -30.5724 -30.5712
+   -30.5696 -30.5689 -30.5565 -30.5552 -30.5537 -30.5494 -30.5449 -30.5430
+    13.1246  13.1459  14.4579  14.4760  15.3070  15.3139  15.3209  15.3255
+    15.3854  15.3912  15.3957  15.4015  15.6565  15.6716  15.8188  15.8217
+    15.8233  15.8262  15.8954  15.9081  15.9169  15.9396  16.0622  16.0798
+    16.1601  16.1812  16.2936  16.3166  16.3599  16.3702  16.5141  16.5168
+    16.7233  16.7381  16.7790  16.7809  16.7838  16.7877  16.8100  16.8289
+    17.0363  17.0537  17.1776  17.1828  17.1982  17.2020  17.2221  17.2260
+    17.4176  17.4278  17.4350  17.4361  17.5350  17.5516  17.7687  17.7708
+    17.7799  17.7838  17.8580  17.8586  17.8808  17.8869  18.1464  18.1512
+    18.1569  18.1600  18.2566  18.2628  18.2674  18.2693  18.2925  18.2988
+    18.4116  18.4186  18.4228  18.4265  18.5423  18.5565  18.6986  18.7008
+    18.7046  18.7072  18.7413  18.7449  18.7739  18.7909  18.8570  18.8724
+    18.8912  18.8924  18.8964  18.8975  19.0046  19.0063  19.0096  19.0123
+    19.1951  19.1970  19.2025  19.2056  19.2910  19.2990  19.3453  19.3463
+    19.3501  19.3529  19.5358  19.5458  19.6886  19.6915  19.8201  19.8335
+    19.8623  19.8724  19.8825  19.8835  19.8875  19.8890  19.9204  19.9275
+    20.2382  20.2422  20.4894  20.4923  20.5552  20.5602  20.6350  20.6498
+    20.6888  20.6898  20.7223  20.7250  20.7262  20.7307  21.0018  21.0043
+    21.1679  21.1702  21.2884  21.2912  21.3083  21.3112  21.3128  21.3145
+    21.4448  21.4456  21.4563  21.4675  21.4977  21.5053  21.5340  21.5448
+    21.5650  21.5702  21.5749  21.5761  21.6152  21.6166  21.6215  21.6247
+    21.8298  21.8322  21.8350  21.8366  22.1245  22.1331  22.1438  22.1494
+    22.4577  22.4588  22.4591  22.4598  22.5810  22.5873  22.6944  22.6976
+    24.6379  24.6452  24.6479  24.6522  24.9064  24.9105  25.3935  25.4076
+    26.0407  26.0515  26.0589  26.0653  26.4537  26.4684  27.2046  27.2209
+    27.8511  27.8557  27.8643  27.8671  28.6168  28.6209  28.7656  28.7703
+    28.7740  28.7760  30.0080  30.0175  30.3967  30.3993  30.4091  30.4102
+    30.4376  30.4441  31.3304  31.3369  31.4013  31.4029  32.0359  32.0428
+    32.8351  32.8531
+
+          k = 0.2500-0.4978 0.2522 ( 33812 PWs)   bands (ev):
+
+   -76.6610 -76.6562 -76.6532 -76.6486 -76.6469 -76.6452 -76.6442 -76.6412
+   -76.6398 -76.6390 -76.6361 -76.6350 -76.6301 -76.6273 -76.6238 -76.6215
+   -76.5881 -76.5811 -76.5800 -76.5760 -76.5743 -76.5725 -76.5715 -76.5693
+   -76.5674 -76.5667 -76.5653 -76.5624 -76.5612 -76.5599 -76.5592 -76.5548
+   -30.9131 -30.9109 -30.9086 -30.9060 -30.8988 -30.8950 -30.8940 -30.8916
+   -30.8910 -30.8885 -30.8854 -30.8834 -30.8778 -30.8722 -30.8426 -30.8402
+   -30.8373 -30.8360 -30.8318 -30.8312 -30.8291 -30.8264 -30.8237 -30.8205
+   -30.8131 -30.8106 -30.7580 -30.7572 -30.7559 -30.7536 -30.7464 -30.7441
+   -30.7387 -30.7371 -30.7324 -30.7296 -30.7284 -30.7259 -30.7243 -30.7207
+   -30.7191 -30.7166 -30.6977 -30.6968 -30.6951 -30.6897 -30.6865 -30.6824
+   -30.6776 -30.6750 -30.6739 -30.6707 -30.6698 -30.6680 -30.6643 -30.6624
+   -30.6611 -30.6575 -30.6550 -30.6506 -30.6493 -30.6478 -30.6429 -30.6413
+   -30.6326 -30.6299 -30.6255 -30.6246 -30.6235 -30.6228 -30.6217 -30.6208
+   -30.6202 -30.6177 -30.6121 -30.6105 -30.6031 -30.6015 -30.5990 -30.5978
+   -30.5939 -30.5911 -30.5884 -30.5863 -30.5832 -30.5818 -30.5692 -30.5661
+   -30.5656 -30.5629 -30.5517 -30.5486 -30.5478 -30.5473 -30.5399 -30.5391
+    13.2949  13.3157  14.5133  14.5263  14.5304  14.5466  14.9771  14.9856
+    15.7580  15.7630  15.7642  15.7733  15.7805  15.7827  15.9001  15.9095
+    15.9142  15.9193  15.9617  15.9732  15.9882  15.9969  16.0042  16.0141
+    16.2881  16.3096  16.3807  16.3866  16.4176  16.4186  16.4835  16.4861
+    16.4950  16.4992  16.5062  16.5128  16.5415  16.5452  17.0855  17.0899
+    17.0924  17.0992  17.1946  17.2058  17.2142  17.2259  17.2485  17.2566
+    17.2650  17.2748  17.6584  17.6715  17.6904  17.7029  17.7141  17.7283
+    17.8295  17.8408  17.8653  17.8785  17.9106  17.9165  18.0636  18.0658
+    18.0834  18.0863  18.2837  18.2886  18.3222  18.3251  18.4362  18.4374
+    18.4917  18.5012  18.5408  18.5509  18.6529  18.6560  18.6638  18.6656
+    18.6889  18.6923  18.7059  18.7091  18.7178  18.7213  18.7428  18.7456
+    18.7496  18.7599  18.8417  18.8573  18.9748  18.9819  19.0003  19.0066
+    19.0326  19.0423  19.1194  19.1206  19.1857  19.1884  19.1937  19.1974
+    19.4412  19.4513  19.4931  19.5023  19.5647  19.5728  19.8424  19.8455
+    19.8765  19.8778  19.9831  19.9943  20.0024  20.0091  20.0189  20.0265
+    20.1229  20.1269  20.1338  20.1371  20.1481  20.1527  20.1614  20.1641
+    20.5735  20.5884  20.7890  20.7919  20.8482  20.8493  20.8750  20.8773
+    20.8881  20.8898  21.1925  21.1949  21.2140  21.2160  21.4812  21.4817
+    21.4836  21.4842  21.6283  21.6314  21.6624  21.6654  21.6702  21.6779
+    21.6919  21.6947  21.6986  21.7040  21.7606  21.7621  21.7787  21.7810
+    21.8104  21.8128  22.0145  22.0167  22.0777  22.0823  22.0852  22.0896
+    22.6787  22.6830  22.7255  22.7302  23.0245  23.0317  23.7610  23.7649
+    23.7761  23.7812  25.1132  25.1166  25.1837  25.1871  25.5285  25.5337
+    25.8482  25.8602  25.9598  25.9724  26.7945  26.8082  26.8567  26.8707
+    27.1416  27.1484  27.9251  27.9328  28.0180  28.0256  28.9621  28.9728
+    28.9996  29.0104  29.3963  29.3983  29.4460  29.4479  29.6117  29.6169
+    29.7016  29.7078  31.8943  31.9054  32.1716  32.1725  32.2344  32.2370
+    32.3077  32.3104
+
+          k = 0.2500-0.4978-0.5044 ( 33820 PWs)   bands (ev):
+
+   -76.6596 -76.6577 -76.6536 -76.6487 -76.6467 -76.6450 -76.6445 -76.6409
+   -76.6396 -76.6391 -76.6359 -76.6350 -76.6302 -76.6270 -76.6240 -76.6216
+   -76.5880 -76.5814 -76.5793 -76.5771 -76.5747 -76.5727 -76.5709 -76.5693
+   -76.5672 -76.5665 -76.5646 -76.5626 -76.5612 -76.5601 -76.5594 -76.5550
+   -30.9083 -30.9072 -30.9063 -30.9027 -30.9021 -30.9013 -30.8986 -30.8972
+   -30.8878 -30.8872 -30.8821 -30.8755 -30.8611 -30.8594 -30.8572 -30.8548
+   -30.8435 -30.8426 -30.8404 -30.8394 -30.8376 -30.8372 -30.8351 -30.8338
+   -30.7846 -30.7824 -30.7812 -30.7796 -30.7440 -30.7430 -30.7428 -30.7415
+   -30.7203 -30.7192 -30.7185 -30.7180 -30.7166 -30.7142 -30.7127 -30.7120
+   -30.7058 -30.7041 -30.7031 -30.7003 -30.6994 -30.6967 -30.6937 -30.6913
+   -30.6860 -30.6851 -30.6848 -30.6841 -30.6776 -30.6749 -30.6741 -30.6716
+   -30.6480 -30.6473 -30.6466 -30.6445 -30.6438 -30.6416 -30.6394 -30.6385
+   -30.6369 -30.6362 -30.6354 -30.6327 -30.6280 -30.6257 -30.6248 -30.6238
+   -30.6226 -30.6213 -30.6194 -30.6188 -30.6170 -30.6145 -30.6132 -30.6099
+   -30.5800 -30.5790 -30.5787 -30.5769 -30.5753 -30.5747 -30.5731 -30.5722
+   -30.5643 -30.5603 -30.5584 -30.5561 -30.5391 -30.5373 -30.5365 -30.5348
+    13.7793  13.7866  13.7984  13.8146  14.6888  14.6974  14.7034  14.7140
+    15.8043  15.8094  15.8118  15.8176  16.0421  16.0458  16.0530  16.0589
+    16.0661  16.0727  16.0769  16.0823  16.0984  16.1074  16.1107  16.1189
+    16.1655  16.1684  16.1753  16.1785  16.1835  16.1882  16.1938  16.1985
+    16.7295  16.7329  16.7377  16.7419  16.7431  16.7495  16.7525  16.7561
+    16.8935  16.9008  16.9033  16.9109  17.4407  17.4465  17.4516  17.4598
+    17.4646  17.4678  17.4740  17.4886  17.6097  17.6207  17.6237  17.6346
+    17.8874  17.8904  17.8973  17.9074  18.1287  18.1394  18.1422  18.1520
+    18.2906  18.2968  18.2984  18.3054  18.5467  18.5540  18.5587  18.5623
+    18.5680  18.5714  18.5739  18.5808  18.6023  18.6047  18.6082  18.6101
+    18.7415  18.7467  18.7478  18.7554  18.7578  18.7626  18.7646  18.7738
+    18.7796  18.7853  18.7907  18.7959  18.8183  18.8214  18.8290  18.8330
+    18.8608  18.8703  18.8773  18.8807  19.0488  19.0517  19.0579  19.0647
+    19.3891  19.3921  19.3950  19.3971  19.5392  19.5481  19.5499  19.5507
+    19.5786  19.5801  19.5848  19.5907  20.0623  20.0676  20.0700  20.0752
+    20.4106  20.4119  20.4135  20.4150  20.4250  20.4268  20.4291  20.4303
+    20.4649  20.4672  20.4705  20.4751  20.6648  20.6777  20.6823  20.6967
+    20.7201  20.7244  20.7299  20.7372  21.1157  21.1224  21.1245  21.1305
+    21.8496  21.8529  21.8546  21.8572  21.8690  21.8715  21.8739  21.8769
+    21.8945  21.8954  21.8996  21.9007  21.9037  21.9052  21.9083  21.9120
+    21.9275  21.9291  21.9321  21.9346  21.9604  21.9625  21.9642  21.9666
+    22.9467  22.9561  22.9585  22.9686  24.1171  24.1201  24.1253  24.1284
+    24.1614  24.1686  24.1721  24.1805  25.5889  25.5918  25.5933  25.5958
+    25.7053  25.7094  25.7128  25.7166  26.8242  26.8300  26.8341  26.8422
+    27.7110  27.7128  27.7239  27.7256  27.8307  27.8332  27.8370  27.8434
+    28.0021  28.0183  28.0227  28.0413  30.4918  30.5018  30.5048  30.5155
+    30.6925  30.6941  30.6953  30.6963  30.7290  30.7303  30.7335  30.7342
+    33.0947  33.0971
+
+          k =-0.5000 0.0000 0.0000 ( 33788 PWs)   bands (ev):
+
+   -76.6631 -76.6535 -76.6505 -76.6489 -76.6480 -76.6466 -76.6439 -76.6415
+   -76.6405 -76.6381 -76.6369 -76.6353 -76.6303 -76.6273 -76.6235 -76.6212
+   -76.5887 -76.5812 -76.5774 -76.5764 -76.5737 -76.5730 -76.5712 -76.5701
+   -76.5680 -76.5674 -76.5654 -76.5634 -76.5611 -76.5601 -76.5583 -76.5543
+   -30.9285 -30.9265 -30.9263 -30.9256 -30.9144 -30.9134 -30.8969 -30.8610
+   -30.8603 -30.8596 -30.8584 -30.8563 -30.8555 -30.8532 -30.8526 -30.8474
+   -30.8464 -30.8332 -30.8309 -30.8292 -30.8237 -30.8209 -30.8093 -30.8080
+   -30.8044 -30.8032 -30.7827 -30.7818 -30.7777 -30.7773 -30.7538 -30.7527
+   -30.7518 -30.7496 -30.7476 -30.7460 -30.7404 -30.7396 -30.7333 -30.7321
+   -30.7296 -30.7236 -30.7026 -30.7021 -30.6974 -30.6940 -30.6643 -30.6637
+   -30.6626 -30.6615 -30.6602 -30.6589 -30.6556 -30.6550 -30.6533 -30.6522
+   -30.6518 -30.6516 -30.6489 -30.6478 -30.6445 -30.6429 -30.6367 -30.6355
+   -30.6328 -30.6323 -30.6306 -30.6299 -30.6294 -30.6287 -30.6191 -30.6187
+   -30.6160 -30.6150 -30.6133 -30.6124 -30.6120 -30.6116 -30.6089 -30.5930
+   -30.5924 -30.5884 -30.5879 -30.5784 -30.5770 -30.5734 -30.5725 -30.5689
+   -30.5682 -30.5677 -30.5592 -30.5585 -30.5580 -30.5575 -30.5350 -30.5340
+    12.8861  13.0458  15.2994  15.3027  15.3478  15.3534  15.4323  15.4353
+    15.4362  15.4393  15.4405  15.4473  15.4746  15.4908  15.4962  15.5810
+    15.5860  15.5881  15.5884  15.5909  15.7772  15.7912  15.9442  15.9581
+    15.9958  16.1459  16.1600  16.1719  16.3135  16.3302  16.9611  16.9656
+    16.9763  16.9839  17.0345  17.0371  17.0536  17.0584  17.0894  17.0920
+    17.1089  17.1134  17.2157  17.2186  17.2362  17.2397  17.2770  17.2784
+    17.2825  17.2847  17.3213  17.3280  17.3439  17.3480  17.6214  17.6272
+    17.6795  17.6803  17.7602  17.7641  17.8160  17.8219  17.8830  17.9352
+    18.0629  18.0647  18.0700  18.0716  18.1228  18.1257  18.1301  18.1323
+    18.3495  18.3505  18.3743  18.3798  18.4057  18.4098  18.4305  18.4348
+    18.6584  18.6597  18.6621  18.6644  18.6706  18.7839  18.8180  18.8371
+    18.8379  18.8400  18.8422  18.9290  19.2934  19.2957  19.2960  19.2978
+    19.3655  19.3659  19.3663  19.3681  19.7971  19.8593  19.8969  19.9032
+    19.9081  19.9262  19.9311  19.9427  19.9454  19.9499  19.9545  19.9592
+    19.9631  19.9989  20.0016  20.0053  20.0079  20.0206  20.0241  20.0276
+    20.0295  20.0559  20.0827  20.0847  20.0993  20.1012  20.1156  20.1186
+    20.1391  20.1402  20.5345  20.6647  20.9280  21.0037  21.0935  21.1004
+    21.1324  21.1329  21.2719  21.2747  21.2778  21.2796  21.3465  21.3484
+    21.3503  21.3544  21.4251  21.4266  21.4317  21.4456  21.4466  21.4739
+    21.4812  21.5040  21.5079  21.5244  21.5311  21.5401  21.6533  21.6697
+    21.9037  21.9060  21.9187  21.9199  21.9249  21.9272  21.9342  21.9379
+    22.3128  22.3374  22.3934  22.4132  23.3404  23.3427  23.3461  23.3484
+    23.3881  23.3915  23.3936  23.3967  25.7003  25.7043  25.7895  25.7966
+    25.8268  25.8349  25.9204  25.9292  26.4148  26.5624  26.6194  26.7679
+    28.9406  28.9447  28.9519  28.9570  29.1551  29.1604  29.1670  29.1715
+    29.2268  29.2268  29.3261  29.3352  30.8741  30.8785  30.9103  30.9151
+    31.1669  31.1686  31.1990  31.2036  31.3834  31.3892  31.4422  31.4499
+    31.5040  31.5082
+
+          k =-0.5000 0.0000 0.2522 ( 33754 PWs)   bands (ev):
+
+   -76.6623 -76.6556 -76.6503 -76.6484 -76.6477 -76.6465 -76.6439 -76.6412
+   -76.6405 -76.6384 -76.6369 -76.6350 -76.6302 -76.6271 -76.6237 -76.6214
+   -76.5885 -76.5815 -76.5778 -76.5762 -76.5747 -76.5719 -76.5715 -76.5700
+   -76.5683 -76.5666 -76.5650 -76.5633 -76.5611 -76.5600 -76.5587 -76.5545
+   -30.9239 -30.9229 -30.9172 -30.9165 -30.9074 -30.9055 -30.8945 -30.8727
+   -30.8695 -30.8668 -30.8657 -30.8640 -30.8550 -30.8541 -30.8518 -30.8516
+   -30.8469 -30.8438 -30.8414 -30.8407 -30.8332 -30.8326 -30.8277 -30.8012
+   -30.7952 -30.7938 -30.7896 -30.7792 -30.7787 -30.7648 -30.7617 -30.7459
+   -30.7450 -30.7431 -30.7402 -30.7342 -30.7333 -30.7308 -30.7288 -30.7194
+   -30.7085 -30.7076 -30.7021 -30.6964 -30.6959 -30.6852 -30.6817 -30.6776
+   -30.6762 -30.6696 -30.6642 -30.6633 -30.6614 -30.6594 -30.6574 -30.6544
+   -30.6539 -30.6509 -30.6499 -30.6490 -30.6453 -30.6443 -30.6439 -30.6404
+   -30.6390 -30.6326 -30.6322 -30.6293 -30.6265 -30.6205 -30.6194 -30.6185
+   -30.6163 -30.6142 -30.6137 -30.6057 -30.6036 -30.6020 -30.6015 -30.5965
+   -30.5949 -30.5921 -30.5911 -30.5870 -30.5780 -30.5771 -30.5743 -30.5707
+   -30.5705 -30.5614 -30.5590 -30.5577 -30.5523 -30.5471 -30.5413 -30.5338
+    13.0699  13.2273  14.4160  14.5577  15.2770  15.2794  15.3090  15.3129
+    15.3515  15.3547  15.3896  15.3941  15.6355  15.7401  15.8151  15.8166
+    15.8394  15.8454  15.8477  15.8740  15.9447  16.0215  16.0449  16.1035
+    16.1741  16.2283  16.2516  16.3807  16.3897  16.4406  16.4615  16.4780
+    16.7036  16.7331  16.7836  16.7863  16.7900  16.7921  16.8177  16.8771
+    16.9396  17.0648  17.1145  17.1154  17.2466  17.2492  17.2590  17.2914
+    17.3512  17.3538  17.4563  17.4614  17.4916  17.6249  17.7695  17.7705
+    17.8499  17.8509  17.8634  17.8650  17.8806  17.9414  18.1271  18.1288
+    18.1736  18.1746  18.2017  18.2052  18.2179  18.2218  18.2831  18.3295
+    18.3310  18.3341  18.3868  18.3919  18.4151  18.5307  18.6727  18.7015
+    18.7032  18.7309  18.7341  18.7510  18.7536  18.7885  18.8035  18.8718
+    18.8748  18.8889  18.8926  18.9228  18.9579  18.9599  19.0040  19.0065
+    19.1769  19.1781  19.2236  19.2243  19.3093  19.3687  19.3924  19.3933
+    19.4116  19.4125  19.5752  19.6507  19.6911  19.7303  19.7363  19.7902
+    19.8324  19.8499  19.8522  19.8882  19.8893  19.9691  19.9781  19.9937
+    20.2376  20.2708  20.4959  20.5166  20.5245  20.5623  20.5743  20.6320
+    20.6722  20.6792  20.7197  20.7237  20.7349  20.7362  21.0002  21.0258
+    21.1793  21.1901  21.2516  21.2700  21.2905  21.2910  21.2991  21.3019
+    21.4117  21.4209  21.4295  21.4323  21.4723  21.4800  21.5049  21.5689
+    21.5698  21.5885  21.6291  21.6312  21.6451  21.6464  21.6484  21.6494
+    21.8214  21.8227  21.8328  21.8343  22.0635  22.0914  22.1164  22.1674
+    22.4366  22.4371  22.4434  22.4444  22.6450  22.6952  22.7559  22.7846
+    24.5983  24.6007  24.6441  24.6487  25.0362  25.0671  25.4972  25.6119
+    25.9533  25.9569  26.0356  26.0422  26.5215  26.6389  26.9791  27.1065
+    27.8306  27.8323  27.9223  27.9247  28.5783  28.6133  28.8379  28.8394
+    28.8882  28.8914  29.8201  29.8926  30.3887  30.3955  30.3962  30.4410
+    30.4859  30.4869  31.0890  31.1169  31.1224  31.1435  31.9293  31.9707
+    32.5988  32.7383
+
+          k =-0.5000 0.0000-0.5044 ( 33864 PWs)   bands (ev):
+
+   -76.6608 -76.6579 -76.6501 -76.6482 -76.6477 -76.6463 -76.6439 -76.6408
+   -76.6406 -76.6387 -76.6370 -76.6347 -76.6301 -76.6269 -76.6240 -76.6215
+   -76.5882 -76.5819 -76.5781 -76.5760 -76.5753 -76.5720 -76.5711 -76.5702
+   -76.5683 -76.5663 -76.5648 -76.5627 -76.5612 -76.5599 -76.5593 -76.5547
+   -30.9073 -30.9055 -30.9044 -30.9025 -30.8976 -30.8970 -30.8956 -30.8940
+   -30.8864 -30.8858 -30.8848 -30.8806 -30.8788 -30.8748 -30.8459 -30.8432
+   -30.8345 -30.8329 -30.8289 -30.8283 -30.8270 -30.8265 -30.8237 -30.8208
+   -30.8088 -30.8083 -30.8066 -30.8049 -30.7771 -30.7742 -30.7570 -30.7559
+   -30.7292 -30.7235 -30.7131 -30.7112 -30.7064 -30.7052 -30.7048 -30.7034
+   -30.7021 -30.7003 -30.6999 -30.6984 -30.6935 -30.6877 -30.6838 -30.6816
+   -30.6806 -30.6786 -30.6774 -30.6762 -30.6742 -30.6726 -30.6641 -30.6635
+   -30.6610 -30.6585 -30.6574 -30.6567 -30.6519 -30.6515 -30.6423 -30.6415
+   -30.6410 -30.6404 -30.6311 -30.6282 -30.6280 -30.6272 -30.6237 -30.6236
+   -30.6063 -30.6060 -30.6048 -30.6036 -30.5966 -30.5945 -30.5932 -30.5922
+   -30.5916 -30.5909 -30.5861 -30.5850 -30.5823 -30.5814 -30.5749 -30.5743
+   -30.5733 -30.5730 -30.5615 -30.5571 -30.5432 -30.5420 -30.5408 -30.5391
+    13.5930  13.6116  13.7443  13.7616  15.2501  15.2550  15.2597  15.2668
+    15.3186  15.3243  15.3311  15.3346  16.0398  16.0502  16.0613  16.0679
+    16.0758  16.0880  16.0961  16.1045  16.1823  16.1977  16.2227  16.2374
+    16.2464  16.2494  16.2500  16.2544  16.2747  16.2777  16.2811  16.2846
+    16.4118  16.4207  16.4308  16.4405  16.5556  16.5677  16.5736  16.5859
+    16.8332  16.8454  16.8493  16.8591  17.3836  17.3891  17.3994  17.4039
+    17.5029  17.5117  17.5170  17.5233  17.7710  17.7815  17.8660  17.8772
+    18.0034  18.0055  18.0170  18.0202  18.0227  18.0275  18.0393  18.0424
+    18.2645  18.2742  18.2755  18.2829  18.2842  18.2928  18.2985  18.3045
+    18.6808  18.6872  18.6926  18.6997  18.7084  18.7130  18.7310  18.7379
+    18.7444  18.7450  18.7550  18.7558  18.8044  18.8142  18.8247  18.8364
+    18.8769  18.8854  18.8892  18.8958  18.9094  18.9280  19.0034  19.0167
+    19.0259  19.0293  19.0352  19.0398  19.0451  19.0473  19.0537  19.0592
+    19.1687  19.1753  19.2729  19.2781  19.3897  19.3906  19.3958  19.3968
+    19.4293  19.4345  19.4356  19.4401  19.8643  19.8695  19.8707  19.8771
+    20.6909  20.6968  20.6978  20.7020  20.7340  20.7511  20.7563  20.7718
+    21.0374  21.0388  21.0429  21.0453  21.0541  21.0557  21.0617  21.0641
+    21.4132  21.4153  21.4379  21.4431  21.4588  21.4633  21.4731  21.4754
+    21.5185  21.5204  21.5251  21.5299  21.5327  21.5360  21.5401  21.5445
+    21.6017  21.6035  21.6103  21.6142  21.6176  21.6248  21.6261  21.6321
+    21.7065  21.7150  21.7267  21.7300  21.7331  21.7381  21.7594  21.7627
+    21.7648  21.7657  21.7916  21.7999  23.9221  23.9269  23.9331  23.9371
+    23.9599  23.9667  24.0031  24.0067  26.1707  26.1753  26.1783  26.1846
+    26.1908  26.1985  26.2027  26.2073  27.1125  27.1152  27.1190  27.1217
+    27.1501  27.1540  27.1573  27.1600  27.4223  27.4416  27.5115  27.5301
+    28.2619  28.2777  28.3582  28.3740  31.4837  31.4861  31.4933  31.4955
+    31.9434  31.9468  31.9582  31.9624  31.9766  31.9835  32.0133  32.0171
+    32.0271  32.0435
+
+          k =-0.5000 0.2489 0.0000 ( 33772 PWs)   bands (ev):
+
+   -76.6625 -76.6545 -76.6510 -76.6499 -76.6469 -76.6459 -76.6439 -76.6414
+   -76.6403 -76.6386 -76.6366 -76.6351 -76.6302 -76.6274 -76.6236 -76.6213
+   -76.5885 -76.5811 -76.5790 -76.5755 -76.5737 -76.5729 -76.5716 -76.5695
+   -76.5682 -76.5670 -76.5656 -76.5629 -76.5612 -76.5600 -76.5586 -76.5545
+   -30.9239 -30.9220 -30.9173 -30.9166 -30.9068 -30.9056 -30.8942 -30.8723
+   -30.8691 -30.8673 -30.8659 -30.8637 -30.8537 -30.8525 -30.8521 -30.8500
+   -30.8490 -30.8450 -30.8423 -30.8412 -30.8323 -30.8279 -30.8235 -30.8036
+   -30.7979 -30.7964 -30.7914 -30.7825 -30.7814 -30.7681 -30.7620 -30.7515
+   -30.7471 -30.7462 -30.7441 -30.7322 -30.7306 -30.7262 -30.7247 -30.7144
+   -30.7135 -30.7092 -30.7017 -30.6914 -30.6903 -30.6869 -30.6808 -30.6773
+   -30.6764 -30.6698 -30.6684 -30.6650 -30.6639 -30.6580 -30.6566 -30.6551
+   -30.6525 -30.6505 -30.6483 -30.6472 -30.6459 -30.6446 -30.6411 -30.6403
+   -30.6383 -30.6309 -30.6303 -30.6288 -30.6251 -30.6202 -30.6192 -30.6177
+   -30.6167 -30.6138 -30.6132 -30.6085 -30.6081 -30.6017 -30.5990 -30.5981
+   -30.5970 -30.5891 -30.5882 -30.5848 -30.5774 -30.5766 -30.5741 -30.5703
+   -30.5692 -30.5646 -30.5597 -30.5587 -30.5545 -30.5494 -30.5402 -30.5360
+    13.0659  13.2234  14.3850  14.5279  15.3067  15.3134  15.3213  15.3256
+    15.3601  15.3614  15.4250  15.4288  15.6302  15.7353  15.8125  15.8133
+    15.8422  15.8433  15.8528  15.8571  15.9553  15.9704  16.0250  16.1075
+    16.1225  16.2378  16.2556  16.3727  16.3952  16.4476  16.4639  16.4794
+    16.6624  16.7262  16.7719  16.7774  16.7786  16.7816  16.7855  16.8755
+    16.9724  17.0974  17.1296  17.1342  17.2037  17.2330  17.2581  17.2636
+    17.3720  17.3759  17.4646  17.4748  17.4782  17.6080  17.7318  17.7351
+    17.8193  17.8224  17.8600  17.8623  17.8769  17.9405  18.1121  18.1155
+    18.1859  18.1893  18.2529  18.2668  18.2714  18.3060  18.3152  18.3181
+    18.3753  18.3814  18.4245  18.4318  18.4883  18.6060  18.6621  18.6637
+    18.6792  18.6844  18.6893  18.7279  18.7424  18.7897  18.8200  18.8636
+    18.8661  18.8751  18.8759  18.9131  19.0104  19.0121  19.0529  19.0532
+    19.1628  19.1661  19.2172  19.2202  19.2803  19.3393  19.3503  19.3537
+    19.3642  19.3678  19.5056  19.5814  19.7010  19.7053  19.7827  19.8064
+    19.8725  19.8736  19.8887  19.9096  19.9131  19.9244  19.9641  19.9803
+    20.2196  20.2532  20.4832  20.5074  20.5534  20.5779  20.5800  20.6540
+    20.6909  20.6997  20.7227  20.7261  20.7333  20.7371  21.0007  21.0203
+    21.1609  21.1815  21.2818  21.3042  21.3131  21.3163  21.3216  21.3250
+    21.4425  21.4477  21.4485  21.4742  21.5040  21.5159  21.5330  21.5489
+    21.5535  21.5914  21.6060  21.6079  21.6148  21.6163  21.6196  21.6222
+    21.8374  21.8402  21.8449  21.8476  22.0658  22.0927  22.1463  22.1507
+    22.4329  22.4333  22.4408  22.4414  22.5660  22.6124  22.6854  22.7119
+    24.5875  24.5922  24.6334  24.6382  24.9027  24.9337  25.3138  25.4283
+    26.0632  26.0710  26.1508  26.1592  26.4180  26.5319  27.1670  27.2967
+    27.8440  27.8463  27.9379  27.9406  28.5759  28.6098  28.6828  28.6848
+    28.7339  28.7362  29.9596  30.0359  30.3639  30.3751  30.3767  30.4033
+    30.4663  30.4680  31.3594  31.3750  31.3814  31.4073  32.0061  32.0579
+    32.8325  32.8975
+
+          k =-0.5000 0.2489 0.2522 ( 33830 PWs)   bands (ev):
+
+   -76.6617 -76.6559 -76.6519 -76.6486 -76.6469 -76.6459 -76.6441 -76.6412
+   -76.6401 -76.6388 -76.6367 -76.6348 -76.6301 -76.6272 -76.6238 -76.6214
+   -76.5883 -76.5815 -76.5789 -76.5754 -76.5747 -76.5725 -76.5717 -76.5696
+   -76.5676 -76.5667 -76.5654 -76.5626 -76.5611 -76.5601 -76.5589 -76.5547
+   -30.9195 -30.9182 -30.9134 -30.9076 -30.9040 -30.9018 -30.8929 -30.8819
+   -30.8802 -30.8761 -30.8739 -30.8724 -30.8672 -30.8558 -30.8539 -30.8513
+   -30.8508 -30.8465 -30.8453 -30.8333 -30.8308 -30.8259 -30.8204 -30.8181
+   -30.8125 -30.8099 -30.7548 -30.7541 -30.7532 -30.7528 -30.7514 -30.7503
+   -30.7452 -30.7424 -30.7366 -30.7351 -30.7308 -30.7299 -30.7239 -30.7197
+   -30.7082 -30.7033 -30.7002 -30.6910 -30.6872 -30.6804 -30.6793 -30.6770
+   -30.6754 -30.6740 -30.6738 -30.6710 -30.6702 -30.6685 -30.6662 -30.6646
+   -30.6621 -30.6606 -30.6569 -30.6495 -30.6425 -30.6420 -30.6410 -30.6395
+   -30.6378 -30.6352 -30.6341 -30.6337 -30.6327 -30.6295 -30.6265 -30.6226
+   -30.6203 -30.6164 -30.6121 -30.6087 -30.6047 -30.6016 -30.5997 -30.5974
+   -30.5967 -30.5850 -30.5829 -30.5821 -30.5792 -30.5784 -30.5692 -30.5679
+   -30.5626 -30.5588 -30.5570 -30.5540 -30.5470 -30.5467 -30.5441 -30.5354
+    13.2372  13.3915  14.4485  14.4792  14.5770  14.6111  14.9368  15.0064
+    15.7080  15.7100  15.7303  15.8356  15.8393  15.8415  15.8863  15.9047
+    15.9191  15.9265  15.9407  15.9668  15.9784  15.9947  16.0103  16.0155
+    16.2533  16.3970  16.4039  16.4087  16.4251  16.4275  16.4441  16.4577
+    16.4655  16.4750  16.5266  16.5335  16.5433  16.5513  17.0531  17.0686
+    17.1054  17.1192  17.1249  17.1462  17.2109  17.2488  17.2661  17.2864
+    17.2890  17.3256  17.6204  17.6342  17.6627  17.7303  17.7450  17.7669
+    17.7740  17.8228  17.8650  17.8953  17.9276  17.9627  18.0583  18.0761
+    18.0810  18.1035  18.2433  18.2772  18.2945  18.3224  18.4522  18.4576
+    18.4701  18.5095  18.5284  18.5905  18.6475  18.6485  18.6519  18.6540
+    18.6704  18.6820  18.6862  18.6941  18.7000  18.7040  18.7067  18.7135
+    18.7270  18.7841  18.7889  18.8994  18.9990  19.0158  19.0185  19.0481
+    19.0614  19.0650  19.0708  19.0729  19.1618  19.1925  19.2007  19.2087
+    19.3856  19.4585  19.4706  19.5441  19.5645  19.6297  19.8488  19.8507
+    19.9044  19.9074  19.9762  19.9892  20.0200  20.0242  20.0522  20.0653
+    20.1040  20.1173  20.1249  20.1315  20.1527  20.1660  20.1692  20.1905
+    20.4966  20.5848  20.7809  20.7852  20.8433  20.8563  20.8724  20.8765
+    20.8927  20.8986  21.1780  21.1969  21.2097  21.2300  21.4702  21.4730
+    21.4744  21.4791  21.6283  21.6409  21.6497  21.6543  21.6589  21.6772
+    21.6936  21.7163  21.7232  21.7326  21.7545  21.7651  21.7676  21.7755
+    21.8237  21.8372  22.0096  22.0264  22.0367  22.0479  22.0908  22.0987
+    22.6645  22.6991  22.7341  22.7707  23.0233  23.0812  23.7117  23.7213
+    23.7699  23.7809  25.1171  25.1420  25.2248  25.2513  25.4895  25.5356
+    25.7677  25.8645  25.9366  26.0353  26.7642  26.8555  26.8706  26.9653
+    27.1336  27.1898  27.8471  27.9058  27.9787  28.0402  28.9110  28.9279
+    29.1001  29.1180  29.3644  29.3799  29.4358  29.4523  29.5324  29.5727
+    29.6719  29.7165  31.8719  31.9584  32.1619  32.1650  32.2062  32.2188
+    32.3184  32.3328
+
+          k =-0.5000 0.2489-0.5044 ( 33812 PWs)   bands (ev):
+
+   -76.6603 -76.6577 -76.6522 -76.6483 -76.6468 -76.6458 -76.6442 -76.6409
+   -76.6403 -76.6387 -76.6365 -76.6348 -76.6302 -76.6269 -76.6240 -76.6215
+   -76.5880 -76.5817 -76.5786 -76.5769 -76.5744 -76.5727 -76.5710 -76.5696
+   -76.5678 -76.5664 -76.5647 -76.5627 -76.5612 -76.5600 -76.5593 -76.5548
+   -30.9092 -30.9084 -30.9044 -30.8998 -30.8969 -30.8950 -30.8940 -30.8921
+   -30.8917 -30.8884 -30.8867 -30.8842 -30.8817 -30.8781 -30.8462 -30.8443
+   -30.8434 -30.8423 -30.8404 -30.8388 -30.8347 -30.8322 -30.8316 -30.8292
+   -30.7927 -30.7904 -30.7706 -30.7696 -30.7537 -30.7505 -30.7458 -30.7452
+   -30.7200 -30.7167 -30.7117 -30.7107 -30.7103 -30.7082 -30.7066 -30.7060
+   -30.7050 -30.7043 -30.7023 -30.7006 -30.6972 -30.6959 -30.6957 -30.6918
+   -30.6834 -30.6823 -30.6808 -30.6770 -30.6728 -30.6708 -30.6691 -30.6667
+   -30.6659 -30.6648 -30.6632 -30.6614 -30.6594 -30.6586 -30.6536 -30.6500
+   -30.6371 -30.6338 -30.6303 -30.6291 -30.6273 -30.6269 -30.6249 -30.6235
+   -30.6199 -30.6163 -30.6144 -30.6116 -30.6059 -30.6050 -30.6037 -30.6005
+   -30.5860 -30.5846 -30.5812 -30.5795 -30.5768 -30.5758 -30.5676 -30.5644
+   -30.5612 -30.5580 -30.5501 -30.5493 -30.5459 -30.5437 -30.5400 -30.5387
+    13.7219  13.7398  13.8672  13.8839  14.6347  14.6480  14.7366  14.7484
+    15.7808  15.7894  15.8127  15.8210  16.0143  16.0202  16.0399  16.0494
+    16.0710  16.0860  16.0967  16.1038  16.1102  16.1134  16.1201  16.1251
+    16.1482  16.1528  16.1888  16.1907  16.1927  16.1987  16.2160  16.2192
+    16.6610  16.6655  16.7191  16.7274  16.7567  16.7663  16.8049  16.8092
+    16.9173  16.9228  16.9284  16.9357  17.3799  17.3932  17.4015  17.4157
+    17.5069  17.5175  17.5229  17.5307  17.5765  17.5937  17.6366  17.6521
+    17.8548  17.8656  17.9402  17.9518  18.0897  18.1037  18.1540  18.1671
+    18.2577  18.2667  18.2731  18.2837  18.5183  18.5227  18.5543  18.5648
+    18.5725  18.5812  18.5899  18.5974  18.6034  18.6054  18.6104  18.6220
+    18.6906  18.6949  18.7287  18.7297  18.7428  18.7496  18.7850  18.7966
+    18.8111  18.8204  18.8317  18.8368  18.8398  18.8447  18.8471  18.8516
+    18.8560  18.8653  18.9127  18.9289  18.9781  18.9855  19.0631  19.0691
+    19.4025  19.4063  19.4084  19.4123  19.5306  19.5378  19.5384  19.5449
+    19.5636  19.5693  19.5787  19.5853  20.0759  20.0836  20.1015  20.1104
+    20.4071  20.4122  20.4155  20.4200  20.4255  20.4292  20.4306  20.4331
+    20.4440  20.4487  20.4690  20.4730  20.6590  20.6770  20.6924  20.7000
+    20.7028  20.7118  20.7158  20.7185  21.1040  21.1135  21.1373  21.1469
+    21.8566  21.8582  21.8640  21.8674  21.8706  21.8717  21.8780  21.8798
+    21.8817  21.8838  21.8938  21.8961  21.8976  21.9006  21.9086  21.9115
+    21.9229  21.9241  21.9395  21.9442  21.9535  21.9568  21.9613  21.9649
+    22.9195  22.9335  22.9579  22.9723  24.1456  24.1501  24.1546  24.1596
+    24.1774  24.1840  24.2322  24.2364  25.6035  25.6087  25.6167  25.6212
+    25.6659  25.6695  25.7180  25.7223  26.7442  26.7542  26.8090  26.8187
+    27.6883  27.6921  27.7807  27.7853  27.7966  27.8031  27.8299  27.8352
+    28.0099  28.0358  28.0788  28.1038  30.4947  30.5102  30.5459  30.5611
+    30.6667  30.6681  30.6689  30.6708  30.6780  30.6795  30.7099  30.7121
+    32.9989  33.0091
+
+          k =-0.5000-0.4978 0.0000 ( 33784 PWs)   bands (ev):
+
+   -76.6617 -76.6559 -76.6513 -76.6500 -76.6468 -76.6452 -76.6440 -76.6413
+   -76.6398 -76.6393 -76.6364 -76.6349 -76.6301 -76.6276 -76.6236 -76.6214
+   -76.5882 -76.5808 -76.5803 -76.5750 -76.5737 -76.5729 -76.5718 -76.5691
+   -76.5681 -76.5668 -76.5658 -76.5624 -76.5612 -76.5598 -76.5591 -76.5546
+   -30.9088 -30.9052 -30.9037 -30.9015 -30.8963 -30.8946 -30.8934 -30.8923
+   -30.8889 -30.8877 -30.8845 -30.8795 -30.8772 -30.8739 -30.8446 -30.8386
+   -30.8333 -30.8321 -30.8306 -30.8288 -30.8272 -30.8253 -30.8249 -30.8207
+   -30.8131 -30.8107 -30.8087 -30.8078 -30.7819 -30.7790 -30.7588 -30.7559
+   -30.7372 -30.7305 -30.7118 -30.7077 -30.7063 -30.7047 -30.7041 -30.7034
+   -30.7018 -30.7011 -30.7010 -30.6991 -30.6938 -30.6875 -30.6825 -30.6822
+   -30.6782 -30.6770 -30.6765 -30.6763 -30.6735 -30.6700 -30.6653 -30.6628
+   -30.6606 -30.6585 -30.6546 -30.6531 -30.6461 -30.6456 -30.6406 -30.6400
+   -30.6384 -30.6375 -30.6358 -30.6347 -30.6246 -30.6239 -30.6208 -30.6198
+   -30.6083 -30.6078 -30.6049 -30.6047 -30.5972 -30.5952 -30.5945 -30.5934
+   -30.5921 -30.5894 -30.5857 -30.5854 -30.5814 -30.5802 -30.5760 -30.5755
+   -30.5729 -30.5718 -30.5597 -30.5559 -30.5459 -30.5455 -30.5437 -30.5430
+    13.5737  13.6002  13.7316  13.7455  15.2680  15.2751  15.2822  15.2871
+    15.3401  15.3451  15.3478  15.3539  16.0164  16.0351  16.0498  16.0561
+    16.0736  16.0775  16.1070  16.1134  16.1617  16.1793  16.1911  16.1997
+    16.2378  16.2426  16.2520  16.2551  16.2657  16.2697  16.2750  16.2789
+    16.4166  16.4255  16.4428  16.4527  16.5715  16.5782  16.5856  16.5951
+    16.8031  16.8081  16.8191  16.8218  17.3637  17.3721  17.3908  17.3925
+    17.4855  17.4888  17.4950  17.5013  17.7494  17.7652  17.8568  17.8651
+    18.0211  18.0276  18.0332  18.0367  18.0449  18.0478  18.0510  18.0570
+    18.3611  18.3681  18.3743  18.3788  18.3826  18.3879  18.3906  18.3932
+    18.6934  18.6962  18.6987  18.7002  18.7395  18.7418  18.7487  18.7559
+    18.7793  18.7880  18.7889  18.7925  18.7986  18.8101  18.8313  18.8357
+    18.8392  18.8443  18.8491  18.8560  18.9219  18.9234  18.9293  18.9319
+    18.9374  18.9382  18.9391  18.9431  18.9503  18.9523  18.9561  18.9623
+    19.2535  19.2688  19.3627  19.3734  19.4228  19.4257  19.4383  19.4393
+    19.4646  19.4666  19.4764  19.4770  19.7821  19.7850  19.7876  19.7901
+    20.6760  20.6778  20.6856  20.6891  20.8005  20.8111  20.8161  20.8228
+    21.0340  21.0362  21.0404  21.0427  21.0504  21.0525  21.0543  21.0588
+    21.4525  21.4596  21.4677  21.4814  21.4836  21.4967  21.5178  21.5244
+    21.5252  21.5290  21.5335  21.5359  21.5379  21.5387  21.5432  21.5462
+    21.6207  21.6212  21.6221  21.6244  21.6301  21.6337  21.6377  21.6394
+    21.6869  21.7003  21.7030  21.7077  21.7098  21.7126  21.7295  21.7330
+    21.7386  21.7408  21.7811  21.7884  23.7841  23.7972  23.8200  23.8327
+    23.8426  23.8561  23.8645  23.8747  26.1837  26.1929  26.2030  26.2082
+    26.2136  26.2151  26.2208  26.2238  27.0736  27.0766  27.0793  27.0818
+    27.1239  27.1267  27.1315  27.1368  27.3476  27.3672  27.4431  27.4499
+    28.4225  28.4418  28.5287  28.5356  31.7262  31.7290  31.7315  31.7348
+    31.9553  31.9580  31.9751  31.9790  32.0156  32.0171  32.0334  32.0359
+    32.0413  32.0533
+
+          k =-0.5000-0.4978 0.2522 ( 33824 PWs)   bands (ev):
+
+   -76.6609 -76.6562 -76.6532 -76.6486 -76.6469 -76.6452 -76.6442 -76.6412
+   -76.6399 -76.6390 -76.6361 -76.6350 -76.6301 -76.6273 -76.6238 -76.6215
+   -76.5881 -76.5811 -76.5799 -76.5760 -76.5743 -76.5725 -76.5716 -76.5693
+   -76.5674 -76.5667 -76.5654 -76.5624 -76.5612 -76.5599 -76.5592 -76.5548
+   -30.9093 -30.9069 -30.9040 -30.9019 -30.8975 -30.8938 -30.8928 -30.8919
+   -30.8902 -30.8885 -30.8858 -30.8844 -30.8833 -30.8771 -30.8452 -30.8445
+   -30.8426 -30.8407 -30.8387 -30.8370 -30.8353 -30.8343 -30.8326 -30.8318
+   -30.7947 -30.7910 -30.7730 -30.7711 -30.7564 -30.7509 -30.7467 -30.7447
+   -30.7257 -30.7196 -30.7122 -30.7109 -30.7091 -30.7081 -30.7073 -30.7068
+   -30.7051 -30.7036 -30.7026 -30.7002 -30.6986 -30.6960 -30.6941 -30.6930
+   -30.6819 -30.6804 -30.6781 -30.6755 -30.6701 -30.6692 -30.6688 -30.6675
+   -30.6663 -30.6612 -30.6605 -30.6587 -30.6570 -30.6555 -30.6547 -30.6538
+   -30.6352 -30.6336 -30.6324 -30.6315 -30.6280 -30.6272 -30.6244 -30.6195
+   -30.6177 -30.6154 -30.6123 -30.6114 -30.6072 -30.6067 -30.6059 -30.6020
+   -30.5880 -30.5852 -30.5811 -30.5792 -30.5779 -30.5759 -30.5666 -30.5612
+   -30.5599 -30.5561 -30.5494 -30.5487 -30.5481 -30.5465 -30.5420 -30.5415
+    13.7071  13.7326  13.8586  13.8719  14.6443  14.6627  14.7499  14.7588
+    15.8021  15.8103  15.8366  15.8387  16.0026  16.0078  16.0199  16.0255
+    16.0712  16.0880  16.0924  16.1015  16.1113  16.1183  16.1193  16.1246
+    16.1482  16.1508  16.1753  16.1802  16.1862  16.1880  16.2131  16.2150
+    16.6607  16.6687  16.7124  16.7321  16.7604  16.7773  16.8060  16.8120
+    16.8902  16.8938  16.9026  16.9058  17.3804  17.3877  17.4046  17.4121
+    17.4982  17.5113  17.5196  17.5305  17.5918  17.6075  17.6542  17.6590
+    17.8367  17.8516  17.9332  17.9399  18.1139  18.1274  18.1765  18.1801
+    18.3331  18.3362  18.3492  18.3529  18.5164  18.5208  18.5487  18.5508
+    18.5641  18.5700  18.5759  18.5841  18.6692  18.6719  18.6739  18.6765
+    18.7185  18.7205  18.7276  18.7312  18.7323  18.7360  18.7421  18.7463
+    18.7694  18.7771  18.7828  18.7902  18.7956  18.7992  18.8029  18.8136
+    18.8219  18.8368  18.9011  18.9057  19.0585  19.0716  19.1480  19.1557
+    19.3166  19.3181  19.3256  19.3285  19.5693  19.5719  19.5898  19.5911
+    19.6048  19.6099  19.6163  19.6232  20.0170  20.0191  20.0329  20.0413
+    20.3705  20.3722  20.3916  20.3953  20.4261  20.4332  20.4584  20.4604
+    20.4636  20.4678  20.4728  20.4753  20.7048  20.7078  20.7125  20.7169
+    20.7274  20.7384  20.7518  20.7563  21.0998  21.1015  21.1284  21.1368
+    21.8270  21.8283  21.8510  21.8562  21.8596  21.8652  21.8678  21.8695
+    21.8739  21.8792  21.8917  21.8995  21.9070  21.9086  21.9146  21.9199
+    21.9330  21.9379  21.9483  21.9539  21.9810  21.9819  21.9830  21.9852
+    22.9578  22.9690  23.0031  23.0067  24.0306  24.0434  24.0691  24.0811
+    24.0986  24.1063  24.1112  24.1173  25.5975  25.5989  25.6466  25.6499
+    25.6556  25.6606  25.6669  25.6745  26.8954  26.9083  26.9665  26.9711
+    27.7343  27.7441  27.7501  27.7512  27.7669  27.7798  27.8411  27.8476
+    27.9070  27.9265  27.9816  27.9885  30.4268  30.4392  30.4836  30.4873
+    30.7529  30.7536  30.7775  30.7791  30.7814  30.7829  30.7850  30.7865
+    33.2962  33.3019
+
+          k =-0.5000-0.4978-0.5044 ( 33848 PWs)   bands (ev):
+
+   -76.6596 -76.6576 -76.6536 -76.6487 -76.6467 -76.6451 -76.6445 -76.6410
+   -76.6396 -76.6391 -76.6359 -76.6350 -76.6302 -76.6270 -76.6240 -76.6216
+   -76.5879 -76.5814 -76.5793 -76.5770 -76.5747 -76.5727 -76.5709 -76.5693
+   -76.5672 -76.5665 -76.5646 -76.5626 -76.5612 -76.5601 -76.5594 -76.5550
+   -30.9074 -30.9063 -30.9056 -30.9017 -30.9010 -30.9002 -30.8979 -30.8961
+   -30.8921 -30.8916 -30.8867 -30.8803 -30.8688 -30.8668 -30.8649 -30.8626
+   -30.8447 -30.8444 -30.8424 -30.8416 -30.8398 -30.8388 -30.8373 -30.8350
+   -30.7502 -30.7477 -30.7466 -30.7459 -30.7280 -30.7270 -30.7260 -30.7241
+   -30.7207 -30.7201 -30.7194 -30.7185 -30.7174 -30.7155 -30.7136 -30.7130
+   -30.7072 -30.7049 -30.7037 -30.7020 -30.7015 -30.7010 -30.6996 -30.6985
+   -30.6967 -30.6948 -30.6944 -30.6913 -30.6830 -30.6818 -30.6813 -30.6803
+   -30.6757 -30.6725 -30.6723 -30.6695 -30.6428 -30.6392 -30.6371 -30.6361
+   -30.6350 -30.6346 -30.6339 -30.6332 -30.6318 -30.6298 -30.6284 -30.6268
+   -30.6251 -30.6243 -30.6217 -30.6200 -30.6193 -30.6168 -30.6155 -30.6118
+   -30.5736 -30.5717 -30.5712 -30.5700 -30.5689 -30.5686 -30.5677 -30.5650
+   -30.5576 -30.5538 -30.5518 -30.5496 -30.5411 -30.5394 -30.5385 -30.5369
+    14.0807  14.0872  14.0995  14.1209  14.2055  14.2232  14.2306  14.2396
+    16.0200  16.0250  16.0261  16.0301  16.0372  16.0422  16.0456  16.0497
+    16.0520  16.0532  16.0604  16.0678  16.0806  16.0849  16.0894  16.0946
+    16.0971  16.0986  16.1063  16.1102  16.1128  16.1190  16.1208  16.1292
+    17.0903  17.0939  17.1028  17.1147  17.1383  17.1401  17.1459  17.1491
+    17.1535  17.1589  17.1679  17.1736  17.1881  17.1928  17.1982  17.2042
+    17.2062  17.2101  17.2172  17.2232  17.2409  17.2499  17.2564  17.2644
+    18.0243  18.0288  18.0364  18.0510  18.0892  18.1003  18.1095  18.1156
+    18.5517  18.5631  18.5660  18.5713  18.5749  18.5818  18.5865  18.5890
+    18.5919  18.5980  18.6016  18.6115  18.6208  18.6255  18.6335  18.6424
+    18.6523  18.6569  18.6585  18.6655  18.6676  18.6720  18.6736  18.6834
+    18.6921  18.6959  18.7017  18.7056  18.7095  18.7108  18.7185  18.7217
+    18.7636  18.7724  18.7772  18.7870  18.8135  18.8196  18.8246  18.8317
+    19.8133  19.8143  19.8212  19.8224  19.8333  19.8357  19.8432  19.8461
+    19.8646  19.8702  19.8729  19.8778  19.8904  19.8981  19.9009  19.9046
+    19.9049  19.9090  19.9112  19.9143  19.9188  19.9268  19.9286  19.9387
+    20.5056  20.5180  20.5190  20.5207  20.5315  20.5353  20.5430  20.5487
+    20.5848  20.5867  20.5926  20.5952  20.6006  20.6035  20.6077  20.6129
+    22.0177  22.0216  22.0229  22.0249  22.0366  22.0375  22.0393  22.0419
+    22.0435  22.0451  22.0477  22.0505  22.0539  22.0559  22.0588  22.0613
+    22.0667  22.0696  22.0711  22.0724  22.0869  22.0899  22.0920  22.0935
+    24.7221  24.7374  24.7408  24.7436  24.7736  24.7791  24.7825  24.7868
+    24.7882  24.7968  24.7980  24.8049  24.8064  24.8096  24.8126  24.8244
+    24.8373  24.8393  24.8444  24.8538  24.8922  24.8998  24.9029  24.9052
+    28.9438  28.9598  28.9619  28.9732  28.9941  28.9977  29.0040  29.0148
+    29.0341  29.0377  29.0429  29.0534  29.0674  29.0849  29.0867  29.0894
+    29.0929  29.1029  29.1054  29.1136  29.1269  29.1311  29.1468  29.1516
+    34.8742  34.8840
+
+          k = 0.0000-0.2489 0.2522 ( 33772 PWs)   bands (ev):
+
+   -76.6618 -76.6556 -76.6524 -76.6484 -76.6469 -76.6459 -76.6440 -76.6412
+   -76.6404 -76.6385 -76.6362 -76.6352 -76.6302 -76.6271 -76.6237 -76.6214
+   -76.5885 -76.5813 -76.5788 -76.5768 -76.5740 -76.5722 -76.5714 -76.5696
+   -76.5681 -76.5666 -76.5649 -76.5631 -76.5611 -76.5599 -76.5589 -76.5546
+   -30.9330 -30.9316 -30.9182 -30.9168 -30.9102 -30.9083 -30.9078 -30.8806
+   -30.8803 -30.8775 -30.8744 -30.8669 -30.8664 -30.8426 -30.8400 -30.8344
+   -30.8327 -30.8273 -30.8254 -30.8206 -30.8186 -30.8117 -30.8011 -30.7996
+   -30.7986 -30.7970 -30.7851 -30.7737 -30.7720 -30.7706 -30.7677 -30.7660
+   -30.7529 -30.7506 -30.7481 -30.7428 -30.7200 -30.7190 -30.7186 -30.7161
+   -30.7147 -30.7129 -30.7107 -30.7058 -30.7019 -30.6955 -30.6901 -30.6875
+   -30.6786 -30.6773 -30.6760 -30.6750 -30.6730 -30.6711 -30.6635 -30.6625
+   -30.6549 -30.6536 -30.6520 -30.6504 -30.6472 -30.6459 -30.6406 -30.6373
+   -30.6344 -30.6335 -30.6293 -30.6257 -30.6242 -30.6226 -30.6195 -30.6079
+   -30.6040 -30.6033 -30.6003 -30.5989 -30.5966 -30.5961 -30.5950 -30.5943
+   -30.5907 -30.5887 -30.5871 -30.5858 -30.5848 -30.5839 -30.5829 -30.5699
+   -30.5681 -30.5660 -30.5615 -30.5586 -30.5557 -30.5463 -30.5419 -30.5280
+    12.5779  13.9981  14.0350  15.0565  15.0816  15.1167  15.1465  15.2235
+    15.3878  15.3885  15.5263  15.5477  15.5773  15.6056  15.6614  15.6713
+    15.6775  15.7041  15.7100  15.9481  15.9509  16.0139  16.3672  16.3699
+    16.3884  16.3928  16.3991  16.4063  16.4780  16.5034  16.5391  16.5657
+    16.6103  16.6378  16.6390  16.8786  16.8793  16.8945  16.8977  16.9497
+    16.9522  17.0545  17.1349  17.2010  17.2107  17.2148  17.2176  17.4340
+    17.5033  17.5344  17.5643  17.5908  17.6004  17.6051  17.6120  17.6854
+    17.7242  17.8063  17.8447  17.8706  17.9094  17.9415  17.9474  18.0688
+    18.0729  18.1399  18.1538  18.1822  18.1942  18.2005  18.2403  18.2671
+    18.2796  18.2833  18.2998  18.3034  18.3145  18.4363  18.4686  18.5234
+    18.5281  18.5385  18.5429  18.5567  18.5975  18.6161  18.6222  18.6537
+    18.6706  18.6978  18.9245  18.9775  19.0092  19.0923  19.1769  19.1796
+    19.2030  19.2562  19.3116  19.3471  19.4655  19.4847  19.5135  19.5276
+    19.5438  19.5612  19.5789  19.6330  19.7132  19.7219  19.9250  19.9551
+    19.9589  19.9933  19.9939  20.0794  20.0827  20.1571  20.1588  20.2014
+    20.3815  20.4067  20.4195  20.5051  20.5111  20.5596  20.5762  20.5814
+    20.6080  20.6243  20.6538  20.6819  20.7096  20.7182  20.7235  20.8024
+    20.8375  20.8406  20.8510  20.8836  20.9107  20.9188  21.0833  21.1206
+    21.1382  21.1692  21.1851  21.3010  21.3257  21.5151  21.6914  21.6946
+    21.7710  21.7959  21.8445  21.8530  21.8755  21.8762  21.9346  21.9362
+    21.9690  22.0538  22.0613  22.0730  22.1214  22.1273  22.1310  22.1564
+    22.1587  22.1967  22.6534  22.6585  22.7202  22.7257  23.7387  23.7405
+    23.8823  23.8827  23.9578  24.0594  24.5371  24.5910  24.6823  24.7366
+    25.4564  25.6332  26.6469  26.7379  27.2671  27.2693  27.4620  27.4684
+    27.8827  27.9990  28.5306  28.5372  28.7116  28.8078  28.9066  28.9303
+    29.4038  29.6500  29.6524  29.8423  29.8439  30.0792  30.1992  30.9840
+    31.1800  31.2174  31.2853  31.3224  31.3503  31.6591  31.8099  32.1724
+    32.1813  32.2682
+
+          k =-0.2500 0.0000 0.2522 ( 33797 PWs)   bands (ev):
+
+   -76.6623 -76.6556 -76.6503 -76.6484 -76.6477 -76.6465 -76.6439 -76.6412
+   -76.6405 -76.6384 -76.6369 -76.6350 -76.6302 -76.6271 -76.6237 -76.6213
+   -76.5886 -76.5815 -76.5778 -76.5762 -76.5748 -76.5719 -76.5715 -76.5700
+   -76.5683 -76.5666 -76.5650 -76.5632 -76.5611 -76.5600 -76.5587 -76.5545
+   -30.9334 -30.9325 -30.9227 -30.9216 -30.9120 -30.9117 -30.9066 -30.8714
+   -30.8696 -30.8686 -30.8626 -30.8586 -30.8550 -30.8516 -30.8434 -30.8422
+   -30.8400 -30.8373 -30.8301 -30.8268 -30.8168 -30.8154 -30.8065 -30.8059
+   -30.7997 -30.7959 -30.7795 -30.7787 -30.7757 -30.7706 -30.7661 -30.7618
+   -30.7538 -30.7492 -30.7427 -30.7423 -30.7228 -30.7212 -30.7171 -30.7159
+   -30.7117 -30.7107 -30.7061 -30.7024 -30.7016 -30.6977 -30.6870 -30.6848
+   -30.6799 -30.6785 -30.6774 -30.6746 -30.6737 -30.6722 -30.6600 -30.6596
+   -30.6506 -30.6500 -30.6467 -30.6463 -30.6459 -30.6436 -30.6428 -30.6408
+   -30.6399 -30.6350 -30.6333 -30.6312 -30.6299 -30.6196 -30.6187 -30.6114
+   -30.6102 -30.6077 -30.6062 -30.6018 -30.6014 -30.5984 -30.5922 -30.5913
+   -30.5885 -30.5875 -30.5853 -30.5817 -30.5807 -30.5779 -30.5770 -30.5714
+   -30.5705 -30.5673 -30.5593 -30.5587 -30.5557 -30.5519 -30.5366 -30.5305
+    12.5782  14.0157  14.0380  15.0627  15.0634  15.1402  15.1446  15.1669
+    15.3789  15.3801  15.5225  15.5472  15.5647  15.6465  15.6638  15.6812
+    15.6869  15.7042  15.7075  15.9429  15.9487  16.0127  16.3879  16.3905
+    16.3950  16.4035  16.4046  16.4110  16.4949  16.5046  16.5367  16.5461
+    16.5938  16.6525  16.6554  16.8566  16.8574  16.8655  16.8854  16.9701
+    16.9811  17.0697  17.0713  17.1926  17.2048  17.2138  17.2144  17.4558
+    17.4686  17.5850  17.5883  17.5964  17.6000  17.6147  17.6171  17.6925
+    17.7203  17.8341  17.8403  17.8551  17.8606  17.9547  17.9559  18.0994
+    18.1011  18.1294  18.1489  18.1508  18.1908  18.1925  18.2271  18.2455
+    18.2482  18.2989  18.3029  18.3162  18.3180  18.4159  18.4593  18.5032
+    18.5244  18.5629  18.5654  18.5681  18.5758  18.5794  18.6180  18.6206
+    18.6418  18.6594  18.9058  18.9452  19.0493  19.0884  19.2078  19.2105
+    19.2578  19.2687  19.2751  19.3323  19.4636  19.4663  19.5054  19.5061
+    19.5560  19.5850  19.6408  19.6424  19.7125  19.7326  19.9448  19.9459
+    19.9559  19.9949  19.9953  20.0771  20.0780  20.1570  20.1593  20.2486
+    20.3707  20.3881  20.4055  20.5195  20.5347  20.5780  20.5809  20.6000
+    20.6028  20.6202  20.6224  20.6684  20.6939  20.7149  20.7214  20.8005
+    20.8092  20.8218  20.8431  20.8984  20.9240  20.9361  21.0941  21.1492
+    21.1523  21.1643  21.1656  21.3240  21.3247  21.5185  21.6912  21.6940
+    21.7835  21.8004  21.8334  21.8336  21.8935  21.8937  21.9575  21.9582
+    21.9754  22.0506  22.0545  22.0595  22.0675  22.1005  22.1164  22.1590
+    22.1592  22.2065  22.6569  22.6574  22.7009  22.7013  23.7802  23.7810
+    23.8729  23.8730  24.0163  24.0811  24.5650  24.5667  24.6621  24.6634
+    25.5100  25.5736  26.7085  26.7702  27.2693  27.2697  27.4927  27.4928
+    27.9118  27.9877  28.5197  28.5201  28.6752  28.7399  28.9193  28.9220
+    29.3565  29.7197  29.7217  29.8423  29.8428  30.0566  30.1290  31.0474
+    31.0728  31.2028  31.2611  31.2871  31.2988  31.6373  31.7375  32.1942
+    32.1989  32.2200
+
+          k =-0.2500 0.2489 0.0000 ( 33794 PWs)   bands (ev):
+
+   -76.6626 -76.6545 -76.6510 -76.6499 -76.6468 -76.6459 -76.6439 -76.6414
+   -76.6403 -76.6386 -76.6366 -76.6351 -76.6302 -76.6274 -76.6236 -76.6213
+   -76.5886 -76.5811 -76.5791 -76.5755 -76.5737 -76.5729 -76.5716 -76.5695
+   -76.5682 -76.5670 -76.5656 -76.5629 -76.5611 -76.5600 -76.5586 -76.5545
+   -30.9336 -30.9322 -30.9234 -30.9224 -30.9137 -30.9100 -30.9068 -30.8736
+   -30.8714 -30.8659 -30.8631 -30.8616 -30.8544 -30.8515 -30.8421 -30.8413
+   -30.8401 -30.8318 -30.8296 -30.8221 -30.8179 -30.8174 -30.8074 -30.8056
+   -30.7994 -30.7963 -30.7786 -30.7775 -30.7758 -30.7724 -30.7708 -30.7560
+   -30.7542 -30.7485 -30.7437 -30.7420 -30.7308 -30.7176 -30.7171 -30.7148
+   -30.7137 -30.7117 -30.7096 -30.7013 -30.6987 -30.6965 -30.6862 -30.6814
+   -30.6799 -30.6797 -30.6759 -30.6740 -30.6734 -30.6715 -30.6615 -30.6611
+   -30.6527 -30.6497 -30.6493 -30.6482 -30.6461 -30.6454 -30.6439 -30.6381
+   -30.6371 -30.6346 -30.6331 -30.6313 -30.6291 -30.6186 -30.6176 -30.6142
+   -30.6129 -30.6072 -30.6061 -30.6041 -30.6039 -30.5987 -30.5910 -30.5901
+   -30.5882 -30.5874 -30.5859 -30.5817 -30.5777 -30.5751 -30.5746 -30.5704
+   -30.5699 -30.5684 -30.5596 -30.5589 -30.5580 -30.5520 -30.5345 -30.5325
+    12.5732  13.9945  14.0163  15.1126  15.1156  15.1419  15.1476  15.1503
+    15.3765  15.3775  15.5172  15.5211  15.5801  15.6015  15.6429  15.6997
+    15.7027  15.7121  15.7145  15.9455  15.9495  16.0069  16.3859  16.3871
+    16.3891  16.3967  16.3990  16.4130  16.4619  16.4867  16.5176  16.5447
+    16.6096  16.6197  16.6272  16.8883  16.8900  16.8924  16.9147  16.9415
+    16.9513  17.1087  17.1135  17.2085  17.2094  17.2298  17.2339  17.4178
+    17.4725  17.5346  17.5809  17.5828  17.5866  17.5900  17.5926  17.7088
+    17.7235  17.8305  17.8337  17.8564  17.8587  17.9453  17.9466  18.0235
+    18.0244  18.1735  18.1961  18.2015  18.2072  18.2102  18.2164  18.3025
+    18.3045  18.3070  18.3082  18.3564  18.3588  18.4019  18.4106  18.4646
+    18.4659  18.4921  18.5723  18.6331  18.6613  18.6636  18.6911  18.6982
+    18.7160  18.7200  18.9695  18.9720  19.0211  19.0792  19.2096  19.2111
+    19.2317  19.2340  19.2501  19.2749  19.4945  19.5002  19.5016  19.5084
+    19.5120  19.5248  19.5714  19.5765  19.6896  19.7000  19.9320  19.9341
+    19.9349  20.0154  20.0155  20.0882  20.0893  20.1359  20.1378  20.1472
+    20.3770  20.3863  20.4672  20.4996  20.5042  20.5912  20.5953  20.5998
+    20.6020  20.6097  20.6142  20.6927  20.7001  20.7095  20.7149  20.8106
+    20.8348  20.8528  20.8646  20.8945  20.9178  20.9247  21.0603  21.1437
+    21.1471  21.1504  21.1532  21.2893  21.2912  21.5062  21.6928  21.6962
+    21.7676  21.7759  21.8471  21.8475  21.8779  21.8786  21.9063  21.9067
+    21.9583  22.0724  22.1038  22.1189  22.1353  22.1447  22.1527  22.1567
+    22.1587  22.2102  22.6971  22.6975  22.7213  22.7215  23.6562  23.6653
+    23.8925  23.8961  23.9121  23.9458  24.6520  24.6556  24.7013  24.7046
+    25.3522  25.7425  26.5834  26.6136  27.2605  27.2607  27.4299  27.4301
+    27.8987  27.9401  28.5382  28.5385  28.8437  28.8767  28.8939  28.8963
+    29.4958  29.6610  29.6611  29.7304  29.7314  30.1898  30.2364  31.0085
+    31.0865  31.3723  31.3817  31.4129  31.4656  31.8049  31.8559  32.1647
+    32.1656  32.2085
+
+          k =-0.2500-0.2489 0.2522 ( 33787 PWs)   bands (ev):
+
+   -76.6618 -76.6556 -76.6524 -76.6484 -76.6469 -76.6459 -76.6440 -76.6413
+   -76.6404 -76.6385 -76.6362 -76.6352 -76.6302 -76.6271 -76.6237 -76.6214
+   -76.5884 -76.5813 -76.5788 -76.5768 -76.5740 -76.5722 -76.5714 -76.5696
+   -76.5681 -76.5666 -76.5649 -76.5631 -76.5611 -76.5599 -76.5589 -76.5546
+   -30.9276 -30.9251 -30.9215 -30.9076 -30.9056 -30.9045 -30.9016 -30.8799
+   -30.8791 -30.8762 -30.8745 -30.8705 -30.8692 -30.8495 -30.8485 -30.8393
+   -30.8383 -30.8359 -30.8342 -30.8341 -30.8298 -30.8284 -30.8092 -30.8058
+   -30.8047 -30.7837 -30.7817 -30.7780 -30.7605 -30.7586 -30.7556 -30.7548
+   -30.7526 -30.7509 -30.7402 -30.7379 -30.7316 -30.7220 -30.7186 -30.7145
+   -30.6982 -30.6965 -30.6959 -30.6945 -30.6928 -30.6910 -30.6900 -30.6886
+   -30.6874 -30.6864 -30.6775 -30.6736 -30.6722 -30.6717 -30.6686 -30.6682
+   -30.6573 -30.6547 -30.6515 -30.6454 -30.6443 -30.6436 -30.6418 -30.6403
+   -30.6360 -30.6342 -30.6314 -30.6279 -30.6272 -30.6261 -30.6211 -30.6144
+   -30.6094 -30.6083 -30.6049 -30.6036 -30.6029 -30.6011 -30.5996 -30.5973
+   -30.5961 -30.5849 -30.5834 -30.5821 -30.5803 -30.5786 -30.5777 -30.5684
+   -30.5642 -30.5622 -30.5600 -30.5585 -30.5564 -30.5467 -30.5390 -30.5309
+    12.7646  14.1285  14.1512  14.1686  14.9639  15.0722  15.0832  15.0918
+    15.4804  15.4866  15.4965  15.6243  15.6321  15.6538  15.6944  15.7365
+    15.7485  16.0844  16.0873  16.0888  16.2109  16.2145  16.2179  16.2264
+    16.2338  16.2423  16.3986  16.4123  16.4240  16.4494  16.4545  16.4586
+    16.4679  16.4733  16.4828  16.6698  16.6830  16.6967  16.9833  16.9916
+    16.9951  17.0014  17.0129  17.0229  17.4986  17.5006  17.5096  17.5146
+    17.5348  17.5602  17.6167  17.6287  17.6322  17.6374  17.6488  17.6524
+    17.8221  17.8370  17.8520  17.8672  17.8796  17.8903  17.9016  17.9080
+    17.9291  17.9821  17.9965  18.0532  18.1646  18.4117  18.4242  18.4338
+    18.4460  18.4511  18.4633  18.4830  18.4954  18.5103  18.5309  18.5403
+    18.5475  18.5557  18.5621  18.5867  18.6343  18.6937  18.7272  18.7669
+    18.7783  18.7893  18.8354  18.8515  18.8822  18.8915  18.9750  19.0537
+    19.0588  19.0851  19.1487  19.1690  19.5487  19.5582  19.5603  19.6119
+    19.6268  19.6421  19.6478  19.6599  19.6634  19.6641  19.6757  19.6880
+    19.7074  19.9739  19.9897  20.0042  20.1217  20.1574  20.1646  20.1836
+    20.1973  20.2044  20.2430  20.3566  20.3590  20.3682  20.3738  20.3794
+    20.3905  20.3956  20.4542  20.4792  20.5333  20.8616  20.9047  20.9255
+    21.2094  21.2158  21.2219  21.2291  21.2316  21.2434  21.2684  21.2886
+    21.2976  21.3513  21.3608  21.3677  21.4404  21.4671  21.6574  21.6624
+    21.6770  21.7054  21.7134  21.7193  21.8630  21.8764  21.8845  21.9405
+    21.9430  21.9488  21.9621  21.9660  21.9712  21.9878  21.9921  21.9976
+    22.1718  22.1726  22.1803  23.6641  23.6652  23.7302  23.7354  23.7731
+    23.7760  23.8105  23.8118  23.8325  24.5984  24.6460  24.7342  25.5250
+    25.6235  25.6743  26.9200  26.9574  26.9620  27.0179  27.0745  27.0948
+    27.7102  27.7355  27.7477  28.6666  28.6987  28.7017  28.7065  28.7604
+    28.7776  28.7949  28.8105  28.9114  30.3267  30.3890  30.4163  30.4597
+    30.7731  30.7875  30.8228  30.8417  30.9285  30.9352  32.6607  32.6926
+    32.7003  32.7519
+
+          k =-0.2500 0.2489-0.2522 ( 33787 PWs)   bands (ev):
+
+   -76.6618 -76.6556 -76.6524 -76.6484 -76.6470 -76.6459 -76.6440 -76.6413
+   -76.6404 -76.6385 -76.6362 -76.6352 -76.6302 -76.6271 -76.6237 -76.6214
+   -76.5884 -76.5813 -76.5788 -76.5767 -76.5740 -76.5722 -76.5714 -76.5696
+   -76.5681 -76.5666 -76.5649 -76.5631 -76.5611 -76.5600 -76.5589 -76.5546
+   -30.9269 -30.9259 -30.9218 -30.9074 -30.9068 -30.9036 -30.9009 -30.8802
+   -30.8794 -30.8756 -30.8733 -30.8715 -30.8695 -30.8501 -30.8479 -30.8385
+   -30.8381 -30.8362 -30.8354 -30.8342 -30.8298 -30.8287 -30.8093 -30.8054
+   -30.8045 -30.7838 -30.7814 -30.7785 -30.7602 -30.7583 -30.7554 -30.7551
+   -30.7526 -30.7508 -30.7401 -30.7380 -30.7315 -30.7221 -30.7189 -30.7143
+   -30.6980 -30.6971 -30.6956 -30.6945 -30.6924 -30.6913 -30.6902 -30.6888
+   -30.6879 -30.6869 -30.6778 -30.6738 -30.6711 -30.6703 -30.6693 -30.6690
+   -30.6574 -30.6543 -30.6515 -30.6460 -30.6439 -30.6431 -30.6419 -30.6397
+   -30.6361 -30.6346 -30.6306 -30.6282 -30.6274 -30.6262 -30.6214 -30.6136
+   -30.6093 -30.6074 -30.6050 -30.6043 -30.6027 -30.6014 -30.6001 -30.5974
+   -30.5965 -30.5853 -30.5829 -30.5822 -30.5804 -30.5784 -30.5770 -30.5688
+   -30.5641 -30.5629 -30.5596 -30.5587 -30.5561 -30.5466 -30.5388 -30.5310
+    12.7646  14.1309  14.1484  14.1690  14.9632  15.0719  15.0857  15.0907
+    15.4810  15.4859  15.4959  15.6246  15.6323  15.6536  15.6944  15.7339
+    15.7503  16.0844  16.0865  16.0893  16.2103  16.2143  16.2219  16.2267
+    16.2318  16.2427  16.4019  16.4102  16.4221  16.4500  16.4547  16.4596
+    16.4675  16.4737  16.4811  16.6715  16.6815  16.6961  16.9850  16.9920
+    16.9952  16.9996  17.0122  17.0231  17.4989  17.5017  17.5104  17.5135
+    17.5339  17.5594  17.6163  17.6299  17.6329  17.6386  17.6488  17.6499
+    17.8240  17.8345  17.8533  17.8671  17.8793  17.8938  17.9009  17.9099
+    17.9286  17.9789  17.9960  18.0534  18.1637  18.4107  18.4226  18.4384
+    18.4454  18.4467  18.4657  18.4884  18.4932  18.5111  18.5328  18.5389
+    18.5484  18.5512  18.5596  18.5871  18.6340  18.6939  18.7316  18.7713
+    18.7740  18.7885  18.8355  18.8514  18.8813  18.8905  18.9753  19.0528
+    19.0581  19.0853  19.1495  19.1701  19.5471  19.5560  19.5642  19.6118
+    19.6266  19.6400  19.6490  19.6579  19.6605  19.6685  19.6755  19.6939
+    19.7023  19.9776  19.9852  20.0047  20.1217  20.1573  20.1661  20.1890
+    20.1956  20.2009  20.2407  20.3566  20.3618  20.3660  20.3769  20.3778
+    20.3894  20.3959  20.4536  20.4794  20.5337  20.8614  20.9066  20.9238
+    21.2082  21.2169  21.2226  21.2284  21.2318  21.2414  21.2704  21.2889
+    21.2962  21.3536  21.3624  21.3680  21.4375  21.4674  21.6589  21.6617
+    21.6768  21.7053  21.7152  21.7174  21.8644  21.8772  21.8815  21.9404
+    21.9435  21.9491  21.9629  21.9658  21.9727  21.9872  21.9924  21.9957
+    22.1713  22.1728  22.1804  23.6609  23.6686  23.7310  23.7340  23.7716
+    23.7774  23.8110  23.8136  23.8306  24.5983  24.6458  24.7343  25.5244
+    25.6238  25.6747  26.9203  26.9569  26.9623  27.0176  27.0746  27.0945
+    27.7111  27.7354  27.7471  28.6697  28.6989  28.7000  28.7061  28.7580
+    28.7775  28.7947  28.8114  28.9126  30.3264  30.3889  30.4159  30.4594
+    30.7740  30.7879  30.8219  30.8414  30.9279  30.9359  32.6602  32.6876
+    32.7058  32.7522
+
+          k = 0.2500-0.2489-0.2522 ( 33787 PWs)   bands (ev):
+
+   -76.6617 -76.6559 -76.6519 -76.6486 -76.6469 -76.6459 -76.6441 -76.6412
+   -76.6401 -76.6388 -76.6367 -76.6348 -76.6301 -76.6272 -76.6237 -76.6214
+   -76.5884 -76.5815 -76.5790 -76.5755 -76.5747 -76.5725 -76.5716 -76.5696
+   -76.5676 -76.5667 -76.5654 -76.5626 -76.5611 -76.5601 -76.5589 -76.5546
+   -30.9271 -30.9259 -30.9219 -30.9074 -30.9055 -30.9035 -30.9013 -30.8827
+   -30.8778 -30.8762 -30.8752 -30.8700 -30.8680 -30.8498 -30.8474 -30.8382
+   -30.8375 -30.8364 -30.8356 -30.8350 -30.8319 -30.8272 -30.8095 -30.8072
+   -30.8023 -30.7836 -30.7819 -30.7777 -30.7607 -30.7580 -30.7562 -30.7550
+   -30.7529 -30.7503 -30.7397 -30.7380 -30.7320 -30.7211 -30.7192 -30.7140
+   -30.6988 -30.6969 -30.6962 -30.6946 -30.6925 -30.6914 -30.6903 -30.6894
+   -30.6873 -30.6865 -30.6780 -30.6736 -30.6718 -30.6709 -30.6689 -30.6677
+   -30.6576 -30.6542 -30.6513 -30.6458 -30.6444 -30.6428 -30.6424 -30.6397
+   -30.6358 -30.6340 -30.6303 -30.6292 -30.6264 -30.6256 -30.6217 -30.6145
+   -30.6095 -30.6077 -30.6054 -30.6042 -30.6022 -30.6010 -30.6002 -30.5985
+   -30.5953 -30.5851 -30.5835 -30.5822 -30.5800 -30.5779 -30.5771 -30.5688
+   -30.5657 -30.5619 -30.5602 -30.5592 -30.5551 -30.5464 -30.5388 -30.5312
+    12.7646  14.1281  14.1487  14.1717  14.9626  15.0688  15.0865  15.0938
+    15.4808  15.4861  15.4954  15.6245  15.6322  15.6536  15.6928  15.7359
+    15.7498  16.0855  16.0865  16.0899  16.2064  16.2120  16.2229  16.2298
+    16.2356  16.2405  16.3972  16.4109  16.4263  16.4464  16.4511  16.4614
+    16.4717  16.4731  16.4820  16.6705  16.6810  16.6977  16.9848  16.9890
+    16.9933  17.0039  17.0132  17.0234  17.4987  17.5014  17.5042  17.5192
+    17.5338  17.5603  17.6159  17.6286  17.6314  17.6355  17.6499  17.6555
+    17.8206  17.8345  17.8574  17.8665  17.8783  17.8917  17.9023  17.9113
+    17.9308  17.9782  17.9960  18.0524  18.1628  18.4100  18.4201  18.4376
+    18.4419  18.4497  18.4678  18.4844  18.4946  18.5100  18.5321  18.5397
+    18.5488  18.5534  18.5605  18.5878  18.6347  18.6945  18.7330  18.7696
+    18.7723  18.7920  18.8345  18.8520  18.8809  18.8900  18.9755  19.0530
+    19.0580  19.0858  19.1493  19.1706  19.5482  19.5553  19.5634  19.6080
+    19.6260  19.6418  19.6491  19.6541  19.6614  19.6649  19.6841  19.6945
+    19.7009  19.9775  19.9815  20.0081  20.1201  20.1548  20.1659  20.1901
+    20.1983  20.2027  20.2413  20.3562  20.3620  20.3664  20.3730  20.3777
+    20.3915  20.3974  20.4533  20.4795  20.5335  20.8603  20.9065  20.9248
+    21.2104  21.2140  21.2203  21.2295  21.2351  21.2424  21.2681  21.2892
+    21.2967  21.3548  21.3610  21.3687  21.4374  21.4665  21.6571  21.6604
+    21.6788  21.7057  21.7153  21.7185  21.8625  21.8768  21.8835  21.9414
+    21.9429  21.9491  21.9609  21.9663  21.9736  21.9861  21.9915  21.9974
+    22.1713  22.1727  22.1804  23.6605  23.6685  23.7310  23.7340  23.7734
+    23.7766  23.8106  23.8127  23.8314  24.5985  24.6460  24.7341  25.5247
+    25.6236  25.6746  26.9201  26.9576  26.9610  27.0179  27.0749  27.0945
+    27.7105  27.7352  27.7470  28.6702  28.6956  28.6978  28.7078  28.7604
+    28.7777  28.7979  28.8108  28.9127  30.3260  30.3890  30.4157  30.4594
+    30.7743  30.7868  30.8221  30.8412  30.9288  30.9357  32.6599  32.6927
+    32.6996  32.7545
+
+          k =-0.2500 0.2489 0.5044 ( 33774 PWs)   bands (ev):
+
+   -76.6603 -76.6578 -76.6522 -76.6483 -76.6468 -76.6458 -76.6442 -76.6408
+   -76.6402 -76.6387 -76.6365 -76.6348 -76.6302 -76.6269 -76.6240 -76.6215
+   -76.5881 -76.5817 -76.5786 -76.5769 -76.5744 -76.5727 -76.5710 -76.5696
+   -76.5678 -76.5664 -76.5647 -76.5627 -76.5612 -76.5600 -76.5593 -76.5548
+   -30.9127 -30.9110 -30.9067 -30.9038 -30.8989 -30.8970 -30.8940 -30.8916
+   -30.8904 -30.8883 -30.8861 -30.8839 -30.8765 -30.8716 -30.8431 -30.8427
+   -30.8390 -30.8374 -30.8321 -30.8309 -30.8300 -30.8290 -30.8207 -30.8190
+   -30.8133 -30.8103 -30.7593 -30.7580 -30.7573 -30.7554 -30.7468 -30.7456
+   -30.7360 -30.7345 -30.7296 -30.7277 -30.7273 -30.7259 -30.7253 -30.7241
+   -30.7176 -30.7160 -30.6997 -30.6955 -30.6945 -30.6909 -30.6879 -30.6859
+   -30.6764 -30.6751 -30.6724 -30.6704 -30.6691 -30.6685 -30.6624 -30.6610
+   -30.6587 -30.6574 -30.6558 -30.6550 -30.6488 -30.6467 -30.6427 -30.6396
+   -30.6288 -30.6271 -30.6259 -30.6248 -30.6242 -30.6235 -30.6222 -30.6208
+   -30.6199 -30.6190 -30.6107 -30.6088 -30.6046 -30.6033 -30.6023 -30.5988
+   -30.5929 -30.5914 -30.5895 -30.5874 -30.5810 -30.5796 -30.5716 -30.5689
+   -30.5642 -30.5626 -30.5516 -30.5489 -30.5478 -30.5472 -30.5393 -30.5389
+    13.3150  13.3233  14.5089  14.5173  14.5318  14.5373  14.9740  14.9784
+    15.7609  15.7642  15.7746  15.7759  15.7984  15.8046  15.8973  15.9021
+    15.9156  15.9208  15.9543  15.9587  15.9928  15.9975  16.0011  16.0052
+    16.3019  16.3132  16.3784  16.3797  16.4198  16.4205  16.4858  16.4901
+    16.4986  16.5032  16.5126  16.5179  16.5484  16.5551  17.0743  17.0779
+    17.0851  17.0883  17.1907  17.2009  17.2060  17.2120  17.2500  17.2545
+    17.2742  17.2770  17.6772  17.6849  17.6894  17.6924  17.7047  17.7106
+    17.8270  17.8328  17.8549  17.8602  17.9669  17.9724  18.0931  18.0962
+    18.1008  18.1018  18.2459  18.2476  18.2569  18.2590  18.4807  18.4844
+    18.4872  18.4890  18.5389  18.5408  18.6075  18.6085  18.6374  18.6389
+    18.6430  18.6463  18.6863  18.6903  18.6974  18.6988  18.7161  18.7220
+    18.7495  18.7553  18.7856  18.7917  19.0313  19.0331  19.0426  19.0469
+    19.0830  19.0850  19.1074  19.1087  19.1349  19.1362  19.1597  19.1624
+    19.4345  19.4378  19.4618  19.4665  19.6491  19.6528  19.8963  19.9006
+    19.9225  19.9249  20.0117  20.0163  20.0360  20.0377  20.0731  20.0778
+    20.1331  20.1352  20.1428  20.1446  20.1664  20.1700  20.1778  20.1862
+    20.4916  20.4974  20.7362  20.7372  20.8464  20.8476  20.8880  20.8917
+    20.8942  20.8983  21.1949  21.1975  21.2069  21.2099  21.4623  21.4629
+    21.4645  21.4648  21.6162  21.6207  21.6770  21.6813  21.6934  21.6967
+    21.7029  21.7050  21.7064  21.7097  21.7747  21.7759  21.8035  21.8044
+    21.8066  21.8099  22.0204  22.0212  22.0428  22.0452  22.0497  22.0521
+    22.7266  22.7287  22.7508  22.7522  23.0958  23.0989  23.6904  23.6950
+    23.6996  23.7024  25.2313  25.2332  25.2703  25.2719  25.4789  25.4816
+    25.8526  25.8574  25.9102  25.9148  26.9090  26.9145  26.9401  26.9450
+    27.2001  27.2034  27.8516  27.8549  27.8922  27.8954  29.0515  29.0607
+    29.0678  29.0742  29.3740  29.3752  29.3956  29.3967  29.5299  29.5332
+    29.5878  29.5899  31.9414  31.9462  32.1394  32.1404  32.2393  32.2406
+    32.2792  32.2807
+
+          k =-0.2500 0.4978 0.2522 ( 33812 PWs)   bands (ev):
+
+   -76.6610 -76.6562 -76.6532 -76.6486 -76.6469 -76.6452 -76.6442 -76.6412
+   -76.6398 -76.6390 -76.6361 -76.6350 -76.6301 -76.6273 -76.6238 -76.6215
+   -76.5881 -76.5811 -76.5800 -76.5760 -76.5743 -76.5725 -76.5715 -76.5693
+   -76.5674 -76.5667 -76.5653 -76.5624 -76.5611 -76.5599 -76.5592 -76.5548
+   -30.9130 -30.9105 -30.9083 -30.9067 -30.8994 -30.8958 -30.8950 -30.8922
+   -30.8903 -30.8877 -30.8856 -30.8806 -30.8774 -30.8735 -30.8413 -30.8406
+   -30.8385 -30.8363 -30.8317 -30.8308 -30.8292 -30.8260 -30.8238 -30.8195
+   -30.8143 -30.8109 -30.7583 -30.7571 -30.7562 -30.7537 -30.7465 -30.7442
+   -30.7384 -30.7370 -30.7320 -30.7295 -30.7282 -30.7256 -30.7238 -30.7215
+   -30.7200 -30.7160 -30.6975 -30.6966 -30.6950 -30.6893 -30.6865 -30.6831
+   -30.6774 -30.6750 -30.6740 -30.6704 -30.6696 -30.6678 -30.6650 -30.6624
+   -30.6607 -30.6573 -30.6554 -30.6512 -30.6495 -30.6471 -30.6431 -30.6413
+   -30.6324 -30.6301 -30.6258 -30.6249 -30.6241 -30.6230 -30.6212 -30.6196
+   -30.6192 -30.6176 -30.6122 -30.6109 -30.6031 -30.6016 -30.5996 -30.5977
+   -30.5937 -30.5908 -30.5886 -30.5864 -30.5837 -30.5818 -30.5689 -30.5660
+   -30.5653 -30.5633 -30.5517 -30.5490 -30.5476 -30.5470 -30.5400 -30.5391
+    13.2949  13.3157  14.5121  14.5278  14.5325  14.5442  14.9772  14.9856
+    15.7571  15.7622  15.7644  15.7740  15.7812  15.7827  15.8986  15.9094
+    15.9135  15.9212  15.9616  15.9725  15.9893  15.9980  16.0054  16.0115
+    16.2887  16.3104  16.3817  16.3865  16.4184  16.4188  16.4831  16.4863
+    16.4941  16.4998  16.5057  16.5117  16.5415  16.5439  17.0849  17.0905
+    17.0920  17.0992  17.1912  17.2079  17.2187  17.2235  17.2476  17.2569
+    17.2649  17.2749  17.6583  17.6714  17.6901  17.7052  17.7144  17.7273
+    17.8294  17.8411  17.8654  17.8782  17.9107  17.9164  18.0644  18.0665
+    18.0828  18.0856  18.2833  18.2892  18.3229  18.3256  18.4348  18.4367
+    18.4915  18.5018  18.5406  18.5498  18.6540  18.6571  18.6634  18.6656
+    18.6887  18.6921  18.7074  18.7104  18.7179  18.7212  18.7408  18.7460
+    18.7483  18.7593  18.8418  18.8578  18.9755  18.9824  19.0004  19.0069
+    19.0324  19.0421  19.1193  19.1202  19.1855  19.1883  19.1931  19.1971
+    19.4414  19.4515  19.4926  19.5020  19.5648  19.5726  19.8442  19.8462
+    19.8747  19.8778  19.9839  19.9921  20.0042  20.0081  20.0210  20.0271
+    20.1214  20.1275  20.1310  20.1369  20.1491  20.1507  20.1631  20.1657
+    20.5736  20.5883  20.7893  20.7920  20.8463  20.8486  20.8755  20.8772
+    20.8894  20.8906  21.1909  21.1953  21.2148  21.2162  21.4793  21.4813
+    21.4845  21.4862  21.6302  21.6335  21.6628  21.6666  21.6688  21.6777
+    21.6885  21.6943  21.6984  21.7032  21.7602  21.7621  21.7782  21.7812
+    21.8104  21.8135  22.0144  22.0166  22.0777  22.0821  22.0851  22.0895
+    22.6788  22.6832  22.7256  22.7300  23.0245  23.0319  23.7605  23.7639
+    23.7779  23.7813  25.1131  25.1161  25.1838  25.1875  25.5284  25.5334
+    25.8482  25.8602  25.9598  25.9724  26.7945  26.8080  26.8567  26.8709
+    27.1416  27.1486  27.9252  27.9329  28.0180  28.0259  28.9615  28.9699
+    29.0022  29.0107  29.3960  29.3978  29.4456  29.4475  29.6133  29.6178
+    29.7011  29.7072  31.8945  31.9057  32.1720  32.1724  32.2338  32.2365
+    32.3083  32.3107
+
+          k = 0.5000-0.2489 0.2522 ( 33830 PWs)   bands (ev):
+
+   -76.6617 -76.6555 -76.6524 -76.6484 -76.6470 -76.6459 -76.6440 -76.6413
+   -76.6404 -76.6385 -76.6362 -76.6352 -76.6302 -76.6271 -76.6238 -76.6214
+   -76.5883 -76.5813 -76.5787 -76.5767 -76.5740 -76.5722 -76.5714 -76.5696
+   -76.5681 -76.5666 -76.5649 -76.5631 -76.5611 -76.5600 -76.5589 -76.5546
+   -30.9199 -30.9177 -30.9135 -30.9085 -30.9037 -30.9014 -30.8929 -30.8801
+   -30.8788 -30.8765 -30.8753 -30.8714 -30.8687 -30.8560 -30.8544 -30.8522
+   -30.8511 -30.8456 -30.8446 -30.8347 -30.8296 -30.8250 -30.8222 -30.8174
+   -30.8130 -30.8096 -30.7544 -30.7536 -30.7533 -30.7527 -30.7511 -30.7506
+   -30.7448 -30.7432 -30.7365 -30.7354 -30.7307 -30.7300 -30.7235 -30.7203
+   -30.7081 -30.7032 -30.7005 -30.6910 -30.6867 -30.6815 -30.6795 -30.6775
+   -30.6751 -30.6746 -30.6725 -30.6705 -30.6695 -30.6680 -30.6672 -30.6638
+   -30.6625 -30.6607 -30.6574 -30.6499 -30.6427 -30.6418 -30.6408 -30.6381
+   -30.6370 -30.6362 -30.6350 -30.6333 -30.6326 -30.6309 -30.6260 -30.6224
+   -30.6194 -30.6170 -30.6122 -30.6092 -30.6037 -30.6014 -30.6002 -30.5980
+   -30.5967 -30.5850 -30.5826 -30.5818 -30.5792 -30.5788 -30.5707 -30.5668
+   -30.5615 -30.5579 -30.5575 -30.5551 -30.5472 -30.5469 -30.5440 -30.5351
+    13.2372  13.3915  14.4511  14.4766  14.5817  14.6061  14.9368  15.0066
+    15.7071  15.7108  15.7302  15.8355  15.8382  15.8422  15.8870  15.9055
+    15.9190  15.9279  15.9374  15.9702  15.9781  15.9968  16.0077  16.0144
+    16.2528  16.3966  16.4080  16.4102  16.4217  16.4241  16.4496  16.4528
+    16.4656  16.4753  16.5317  16.5342  16.5396  16.5503  17.0542  17.0675
+    17.1085  17.1151  17.1295  17.1413  17.2117  17.2479  17.2713  17.2776
+    17.2933  17.3244  17.6208  17.6355  17.6614  17.7309  17.7499  17.7669
+    17.7691  17.8230  17.8650  17.8957  17.9271  17.9629  18.0595  18.0790
+    18.0797  18.1005  18.2448  18.2795  18.2930  18.3198  18.4527  18.4592
+    18.4703  18.5083  18.5301  18.5889  18.6454  18.6500  18.6508  18.6520
+    18.6725  18.6854  18.6913  18.6941  18.7009  18.7039  18.7055  18.7064
+    18.7268  18.7836  18.7904  18.8994  18.9991  19.0151  19.0166  19.0488
+    19.0562  19.0692  19.0709  19.0736  19.1614  19.1923  19.2009  19.2096
+    19.3855  19.4586  19.4706  19.5442  19.5647  19.6300  19.8524  19.8586
+    19.8998  19.9021  19.9759  19.9904  20.0209  20.0245  20.0520  20.0595
+    20.1058  20.1217  20.1287  20.1338  20.1501  20.1608  20.1697  20.1882
+    20.4966  20.5848  20.7807  20.7848  20.8436  20.8566  20.8722  20.8770
+    20.8919  20.8986  21.1804  21.1975  21.2077  21.2290  21.4703  21.4727
+    21.4749  21.4783  21.6273  21.6397  21.6506  21.6533  21.6611  21.6774
+    21.6941  21.7176  21.7232  21.7328  21.7535  21.7641  21.7684  21.7757
+    21.8236  21.8372  22.0096  22.0264  22.0367  22.0478  22.0908  22.0987
+    22.6651  22.6999  22.7333  22.7697  23.0233  23.0812  23.7108  23.7227
+    23.7685  23.7817  25.1173  25.1424  25.2249  25.2511  25.4896  25.5356
+    25.7677  25.8646  25.9367  26.0353  26.7640  26.8553  26.8704  26.9650
+    27.1336  27.1895  27.8473  27.9061  27.9785  28.0397  28.9096  28.9305
+    29.0979  29.1200  29.3643  29.3800  29.4360  29.4525  29.5329  29.5757
+    29.6709  29.7134  31.8704  31.9567  32.1629  32.1663  32.2059  32.2188
+    32.3186  32.3330
+
+     the Fermi energy is    21.9117 ev
+
+!    total energy              =   -7763.80680845 Ry
+     estimated scf accuracy    <       0.00000026 Ry
+     smearing contrib. (-TS)   =      -0.01176123 Ry
+     internal energy E=F+TS    =   -7763.79504722 Ry
+
+     The total energy is F=E-TS. E is the sum of the following terms:
+     one-electron contribution =   -2032.70170054 Ry
+     hartree contribution      =    1322.29647282 Ry
+     xc contribution           =    -742.54354540 Ry
+     ewald contribution        =   -6310.84627410 Ry
+
+     convergence has been achieved in  13 iterations
+
+     Forces acting on atoms (cartesian axes, Ry/au):
+
+     atom    1 type  1   force =    -0.01438734   -0.00028282    0.00036421
+     atom    2 type  1   force =    -0.01116426   -0.00423467    0.00019554
+     atom    3 type  1   force =    -0.00233359   -0.00212894    0.00337510
+     atom    4 type  1   force =    -0.00266132    0.00093533    0.00085500
+     atom    5 type  1   force =    -0.01225978    0.00317428   -0.00252122
+     atom    6 type  1   force =    -0.01618283    0.00024991   -0.00107725
+     atom    7 type  1   force =    -0.00180937   -0.00185036   -0.00159359
+     atom    8 type  1   force =    -0.00112351   -0.00119082    0.00093448
+     atom    9 type  1   force =    -0.01140785    0.00435773   -0.00144339
+     atom   10 type  1   force =    -0.01149473    0.00114448   -0.00431745
+     atom   11 type  1   force =    -0.00144379    0.00062886   -0.00105235
+     atom   12 type  1   force =    -0.00310967   -0.00222789    0.00247550
+     atom   13 type  1   force =    -0.01473935   -0.00269877    0.00409018
+     atom   14 type  1   force =    -0.01549942   -0.00210186    0.00178650
+     atom   15 type  1   force =    -0.00486942    0.00131910   -0.00024188
+     atom   16 type  1   force =     0.00301485    0.00155434   -0.00341975
+     atom   17 type  1   force =     0.00519871   -0.00373208    0.00352890
+     atom   18 type  1   force =    -0.00038466   -0.00154893   -0.00096450
+     atom   19 type  1   force =     0.01014984   -0.00039439   -0.00108784
+     atom   20 type  1   force =     0.01413696    0.00040524   -0.00157446
+     atom   21 type  1   force =     0.00014327   -0.00139315   -0.00175597
+     atom   22 type  1   force =     0.00343956   -0.00280813   -0.00130702
+     atom   23 type  1   force =     0.01165055    0.00012099   -0.00072050
+     atom   24 type  1   force =     0.01567268   -0.00198466    0.00450746
+     atom   25 type  1   force =     0.00117254    0.00169557    0.00319135
+     atom   26 type  1   force =     0.00107572    0.00329943   -0.00071320
+     atom   27 type  1   force =     0.01385176    0.00317898   -0.00238877
+     atom   28 type  1   force =     0.01371968    0.00100411   -0.00105219
+     atom   29 type  1   force =     0.00008316    0.00319816   -0.00073810
+     atom   30 type  1   force =     0.00340919    0.00200611    0.00136482
+     atom   31 type  1   force =     0.01690478   -0.00273515    0.00221962
+     atom   32 type  1   force =     0.01124765    0.00303999   -0.00091922
+
+     Total force =     0.058072     Total SCF correction =     0.004330
+
+     init_run     :      6.56s CPU      6.96s WALL (       1 calls)
+     electrons    :    330.62s CPU    338.74s WALL (       1 calls)
+     forces       :      6.03s CPU      6.08s WALL (       1 calls)
+
+     Called by init_run:
+     wfcinit      :      6.41s CPU      6.78s WALL (       1 calls)
+     potinit      :      0.06s CPU      0.07s WALL (       1 calls)
+     hinit0       :      0.03s CPU      0.05s WALL (       1 calls)
+
+     Called by electrons:
+     c_bands      :    308.99s CPU    316.42s WALL (      14 calls)
+     sum_band     :     21.33s CPU     21.80s WALL (      14 calls)
+     v_of_rho     :      0.21s CPU      0.30s WALL (      14 calls)
+     mix_rho      :      0.04s CPU      0.05s WALL (      14 calls)
+
+     Called by c_bands:
+     init_us_2    :      3.42s CPU      3.48s WALL (     540 calls)
+     cegterg      :    289.58s CPU    296.49s WALL (     252 calls)
+
+     Called by *egterg:
+     cdiaghg      :     49.81s CPU     50.44s WALL (     914 calls)
+     h_psi        :    160.85s CPU    164.65s WALL (     950 calls)
+     g_psi        :      0.63s CPU      0.64s WALL (     680 calls)
+
+     Called by h_psi:
+     h_psi:calbec :     35.50s CPU     35.78s WALL (     950 calls)
+     vloc_psi     :     93.04s CPU     94.99s WALL (     950 calls)
+     add_vuspsi   :     31.21s CPU     32.08s WALL (     950 calls)
+
+     General routines
+     calbec       :     39.41s CPU     39.73s WALL (    1022 calls)
+     fft          :      0.13s CPU      0.25s WALL (     142 calls)
+     ffts         :      0.02s CPU      0.02s WALL (      14 calls)
+     fftw         :    104.31s CPU    106.48s WALL (  541592 calls)
+
+     Parallel routines
+     fft_scatt_xy :     11.76s CPU     12.00s WALL (  541748 calls)
+     fft_scatt_yz :     53.34s CPU     54.57s WALL (  541748 calls)
+
+     PWSCF        :   5m43.30s CPU   5m52.05s WALL
+
+
+   This run was terminated on:   8:16: 7  30Mar2026            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=
