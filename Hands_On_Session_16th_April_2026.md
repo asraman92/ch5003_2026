@@ -63,7 +63,7 @@ started.
 
 To begin, let's examine the sample input file, pw.in, located in the
 root directory. We will start by breaking down the
-[`&control`]{style="background-color: gray!20"} namelist:
+[`&control`] namelist:
 
 ```fortran
     &control
@@ -78,22 +78,22 @@ root directory. We will start by breaking down the
 
 The formatting of the namelists starts with & and ends with /, while
 keywords are separated by commas. The first keyword
-[`calculation=‘scf’`]{style="background-color: gray!20"}, entails that
+[`calculation=‘scf’`], entails that
 we will be performing a single-point self-consistent field (SCF)
-calculation. [`prefix=‘scf’`]{style="background-color: gray!20"} sets
+calculation. [`prefix=‘scf’`]sets
 all the output files with this prefix. The
-[`pseudo_dir`]{style="background-color: gray!20"} keyword provides the
+[`pseudo_dir`] keyword provides the
 path to the pseudopotential files, while the
-[`outdir`]{style="background-color: gray!20"} keyword specifies the path
+[`outdir`]keyword specifies the path
 where the output will be written.
-[`restart_mode=‘from_scratch’`]{style="background-color: gray!20"}
+[`restart_mode=‘from_scratch’`]
 implies that we are starting the calculation from scratch and not
 restarting it. While the SCF calculation is generally meant to get only
 the energy, for training deep neural network potentials (DP's), atomic
 forces are also needed. To evaluate this, the tprnfor keyword is set to
 .true.
 
-Next, let's look at the [`&system`]{style="background-color: gray!20"}
+Next, let's look at the [`&system`]
 namelist:
 
 ```fortran
@@ -112,40 +112,40 @@ namelist:
 ```
 
 The next section starts with the specification of the lattice using the
-keyword [`ibrav`]{style="background-color: gray!20"}. Here, it's set to
+keyword [`ibrav`]. Here, it's set to
 0, implying that a free format is adopted where the explicit lattice
 vectors are provided in the input. The keyword
-[`ntyp`]{style="background-color: gray!20"} specifies the number of
+[`ntyp`] specifies the number of
 types of atoms in the system, while
-[`nat`]{style="background-color: gray!20"} specifies the total number of
-atoms in the system. [`ecutwfc`]{style="background-color: gray!20"}
+[`nat`] specifies the total number of
+atoms in the system. [`ecutwfc`]
 specifies the kinetic energy cutoff for the planewave basis set, while
-[`ecutrho`]{style="background-color: gray!20"} specifies the cutoff for
+[`ecutrho`] specifies the cutoff for
 the charge density. Note that both of these are in units of Rydberg
 (Ry). These parameters are largely determined by the choice of
 pseudopotentials (PP's) used in the calculation. Generally, it is
 advisable for ecutrho to be 4x the ecutwfc for norm-conserving PP's and
 at least 8 to 12x for ultrasoft PP's. The next keyword,
-[`nbnd`]{style="background-color: gray!20"}, specifies the number of
+[`nbnd`], specifies the number of
 electronic states to be calculated. For an insulator, this is usually \#
 valence electrons/2, while for metals, it is generally advisable to add
 at least 20% more. The keyword
-[`occupations`]{style="background-color: gray!20"} specifies how the
+[`occupations`] specifies how the
 occupation of the electronic states is accomplished. This is mainly for
 avoiding numerical problems associated with the finite sampling of the
 Brillouin zone and the properties of the system itself. For a metallic
 system, some kind of smooth function ('smearing') is usually needed to
 avoid instabilities, while a fixed occupation may be used for an
 insulator with a band gap. The associated keyword
-[`smearing`]{style="background-color: gray!20"} specifies the type of
+[`smearing`] specifies the type of
 smooth function approximation that will be used, with the keyword
-[`degauss`]{style="background-color: gray!20"} specifying the value of
+[`degauss`] specifying the value of
 Gaussian spreading to be used in the Brillouin zone integration.
-Finally, the keyword [`input_dft`]{style="background-color: gray!20"}
+Finally, the keyword [`input_dft`]
 specifies the exchange-correlation functional used in the calculation.
 In this example, the PBE functional is used.
 
-Next is [`&electrons`]{style="background-color: gray!20"}:
+Next is [`&electrons`]:
 
 ```fortran
     &electrons
@@ -158,14 +158,14 @@ Next is [`&electrons`]{style="background-color: gray!20"}:
 ```
 
 This next section controls the convergence of the SCF cycles. The
-keyword [`electron_maxstep`]{style="background-color: gray!20"}
+keyword [`electron_maxstep`]
 specifies the total number of steps that will be considered in the SCF
 cycle. The diagonalization keyword specifies the algorithm to be used
 for diagonalizing the Hamiltonian, whereas the
-[`conv_thr`]{style="background-color: gray!20"} provides the energy
+[`conv_thr`] provides the energy
 convergence threshold for the SCF calculation.
-[`mixing_ndim`]{style="background-color: gray!20"} and
-[`mixing_beta`]{style="background-color: gray!20"} control the mixing
+[`mixing_ndim`] and
+[`mixing_beta`] control the mixing
 factor between SCF steps for achieving self-consistency. This ends the
 sections with the different namelists.
 
@@ -191,16 +191,16 @@ different syntax) associated with the structure and k-points:
 
 ```
 
-The [`ATOMIC_SPECIES`]{style="background-color: gray!20"} section lists
+The [`ATOMIC_SPECIES`] section lists
 the atoms in the system along with the corresponding pseudopotential
 (PP) used.This is followed by the
-[`CELL_PARAMETERS`]{style="background-color: gray!20"} section, where we
+[`CELL_PARAMETERS`] section, where we
 provide the explicit cell vectors (needed as we set ibrav=0). Note that
 the units are specified to be in Angstroms. The
-[`ATOMIC_POSITIONS`]{style="background-color: gray!20"} section lists
+[`ATOMIC_POSITIONS`] section lists
 the explicit atomic positions in the cell, in the following format: Atom
 type followed by the corresponding x, y, z coordinates.
-[`K_POINTS gamma`]{style="background-color: gray!20"} specifies that
+[`K_POINTS gamma`] specifies that
 only the gamma point will be used to sample the Brillouin zone.
 
 ### Typical output file:
