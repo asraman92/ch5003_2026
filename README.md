@@ -1,3 +1,45 @@
+# Installation Guide: 
+
+## 1. Windows Installation
+
+1) Open Command Prompt and run the following commands:
+```
+curl [https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe) -o .\miniconda.exe
+start /wait "" .\miniconda.exe /S
+del .\miniconda.exe
+```
+
+2) Open Anaconda Prompt from your Start Menu and run the following:
+```
+conda create -n myenv python=3.10 -y
+conda activate myenv
+conda config --add channels conda-forge
+conda config --set channel_priority strict
+conda install jupyter
+conda install conda-forge::ase
+conda install -c conda-forge mdanalysis
+```
+## 2. macOS Installation
+
+1) Open Terminal and run the following commands:
+```
+mkdir -p ~/miniconda3
+curl [https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64.sh) -o ~/miniconda3/miniconda.sh
+bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
+rm ~/miniconda3/miniconda.sh
+
+~/miniconda3/bin/conda init $(basename $SHELL)
+```
+2) After restarting your Terminal, run the following:
+```
+conda create -n myenv python=3.10 -y
+conda activate myenv
+conda config --add channels conda-forge
+conda config --set channel_priority strict
+conda install jupyter
+conda install conda-forge::ase
+conda install -c conda-forge mdanalysis
+```
 # Hands on Session - Day 1 - 16th April 2026
 
 ### Aim 
