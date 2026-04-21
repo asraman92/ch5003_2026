@@ -620,7 +620,7 @@ training and validation data should be provided is covered below.
         }
     }
 ```
-Additionally, the [DeePMD-kit documentation](https://docs.deepmodeling.com/projects/deepmd/en/stable/index.html) is extensive and is a great resource for understanding how everything works.
+The [DeePMD-kit documentation](https://docs.deepmodeling.com/projects/deepmd/en/stable/index.html) is comprehensive and serves as an excellent technical reference
 
 ## The Output file 
 
@@ -694,7 +694,7 @@ integration timestep is provided by the timestep keyword, which in this
 example is 0.0005 ps or 0.5 fs. It should be noted that this number is
 dictated by the choice of units specified, which is metal here. Finally,
 it is important that the atoms and their masses are listed in the same
-order as they are provided when mapped in the DP training. For more details, see the LAMMPS [manual](https://docs.lammps.org/Manual.html))
+order as they are provided when mapped in the DP training. For more details, see the LAMMPS [manual](https://docs.lammps.org/Manual.html)
 
 ## The Output File 
 The key output files obtained include the log file, which contains
