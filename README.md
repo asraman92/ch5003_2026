@@ -40,6 +40,13 @@ conda install jupyter
 conda install conda-forge::ase
 conda install -c conda-forge mdanalysis
 ```
+3) Launching Jupyter Notebook
+To start working with ASE, ensure your environment is active and launch the interface:
+```
+conda activate myenv
+jupyter notebook
+```
+
 # Hands on Session - Day 1 - 16th April 2026
 
 ### Aim 
