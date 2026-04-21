@@ -676,7 +676,7 @@ performing DPMD simulations.
    write_restart   lammps.restart
 ```
 one must load the LAMMPS-DeePMD plugin in order to enable the use of the
-deepmd [pair_style] option. A suitable file that contains the simulation
+deepmd [`pair_style`] option. A suitable file that contains the simulation
 cell information and the coordinates of the atoms in the starting
 configuration should be furnished. When continuing a simulation, make
 sure to read both these and the velocities from the restart file. In
@@ -684,7 +684,7 @@ this case, an initial velocity distribution for the atoms should not be
 specified. It is important to note the different ensembles and the
 corresponding thermostat and/or barostat options available. In this
 example, the nvt keyword specifies both the canonical ensemble and the
-Nose-Hoover thermostat being used. The [thermo_style] keyword specifies
+Nose-Hoover thermostat being used. The [`thermo_style`] keyword specifies
 the quantities that will be printed to the log file, while the dump
 keyword specifies how the trajectory will be written. The run keyword
 specifies the number of steps for which the simulation will run. It is
@@ -699,7 +699,7 @@ order as they are provided when mapped in the DP training. For more details, see
 ## The Output File 
 The key output files obtained include the log file, which contains
 thermodynamic info such as temperature, pressure, and the energies as
-described by the [thermo_style] command. The MD trajectory gets printed in
+described by the [`thermo_style`] command. The MD trajectory gets printed in
 the format and frequency specified by the dump command.
 
 Here, an important output file that is highly relevant during the
@@ -707,7 +707,7 @@ training of the DP is described in detail. Typically, we compare the
 maximum deviation in the atomic forces over an ensemble of neural
 networks that differ only in their initialization. In order to obtain
 this, one can specify the different frozen models obtained from the
-training in the [pair_style] command. LAMMPS will perform MD with the
+training in the [`pair_style`] command. LAMMPS will perform MD with the
 first model and provide the deviation between all the models specified
 in a readable text file. In the sample input above, this is called
 md.out. The contents of md.out look like the following:
