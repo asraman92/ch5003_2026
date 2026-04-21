@@ -1,0 +1,37 @@
+plugin load     libdeepmd_lmp.so
+
+units           metal
+
+boundary        p p p
+
+atom_style      atomic
+
+neighbor        2.0 bin
+
+neigh_modify    every 10 delay 0 check no
+
+read_data       ../ActiveLearning_Pt/bulk/bulk.lmp
+
+mass            1 195.084
+
+pair_style deepmd ../ActiveLearning_Pt/DP_models/1/graph1.pb ../ActiveLearning_Pt/DP_models/2/graph2.pb ../ActiveLearning_Pt/DP_models/3/graph3.pb out_file md.out out_freq 100
+
+pair_coeff      * *
+
+velocity        all create 700 12345678
+
+fix             1 all nvt temp 700 700 0.1
+
+timestep        0.0005
+
+thermo_style    custom step pe ke etotal temp press vol
+
+thermo          100
+
+dump            1 all dcd 100 bulk.dcd
+
+timer timeout   03:00:00 every 100
+
+run             200000
+
+write_restart   lammps.restart

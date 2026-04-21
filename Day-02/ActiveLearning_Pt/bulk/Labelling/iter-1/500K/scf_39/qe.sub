@@ -1,0 +1,9 @@
+#!/bin/bash
+#SBATCH --job-name=bulk_500_39
+#SBATCH --nodes=2
+#SBATCH --ntasks-per-node=48
+#SBATCH --partition=standard
+#SBATCH --time=02:00:00
+#SBATCH --mail-type=end
+mpirun -np 96 -mca coll_hcoll_enable 0 $HOME/qe-6.7/bin/pw.x -in pw.in > pw.out
+rm -r outdir

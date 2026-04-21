@@ -1,0 +1,788 @@
+[1776140934.593095] [rscn360:2410712:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593095] [rscn360:2410696:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593095] [rscn360:2410709:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593096] [rscn360:2410704:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593101] [rscn360:2410691:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593128] [rscn360:2410700:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593134] [rscn360:2410701:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593135] [rscn360:2410708:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593136] [rscn360:2410699:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593142] [rscn360:2410706:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593307] [rscn360:2410707:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.595667] [rscn360:2410702:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.595510] [rscn360:2410693:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593072] [rscn360:2410718:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.595310] [rscn360:2410710:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.594116] [rscn360:2410692:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.595256] [rscn360:2410694:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593070] [rscn360:2410734:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593795] [rscn360:2410715:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593081] [rscn360:2410720:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.595828] [rscn360:2410703:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.596313] [rscn360:2410698:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593083] [rscn360:2410733:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.596550] [rscn360:2410711:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.597423] [rscn360:2410705:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593084] [rscn360:2410738:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.597629] [rscn360:2410695:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.597793] [rscn360:2410697:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593102] [rscn360:2410732:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598195] [rscn360:2410713:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593103] [rscn360:2410735:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593121] [rscn360:2410717:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593124] [rscn360:2410737:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593141] [rscn360:2410729:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593157] [rscn360:2410728:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593557] [rscn360:2410724:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.593887] [rscn360:2410725:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.594303] [rscn360:2410730:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.594319] [rscn360:2410716:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.594582] [rscn360:2410714:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.594722] [rscn360:2410722:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.595446] [rscn360:2410731:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.596064] [rscn360:2410736:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.596614] [rscn360:2410727:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.597028] [rscn360:2410719:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.597031] [rscn360:2410721:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.597244] [rscn360:2410726:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598093] [rscn360:2410723:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598287] [rscn391:2323467:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598292] [rscn391:2323462:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598305] [rscn391:2323464:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598314] [rscn391:2323471:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598314] [rscn391:2323473:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598323] [rscn391:2323475:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598341] [rscn391:2323463:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598344] [rscn391:2323458:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598348] [rscn391:2323455:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598348] [rscn391:2323474:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598375] [rscn391:2323457:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598377] [rscn391:2323465:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598392] [rscn391:2323466:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598403] [rscn391:2323460:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598405] [rscn391:2323478:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598407] [rscn391:2323468:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598416] [rscn391:2323459:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598435] [rscn391:2323477:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598444] [rscn391:2323469:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598447] [rscn391:2323472:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598453] [rscn391:2323476:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598464] [rscn391:2323461:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598472] [rscn391:2323454:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598475] [rscn391:2323470:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598290] [rscn391:2323445:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598297] [rscn391:2323441:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598303] [rscn391:2323453:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598326] [rscn391:2323442:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598331] [rscn391:2323447:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598340] [rscn391:2323436:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598352] [rscn391:2323449:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598362] [rscn391:2323439:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598374] [rscn391:2323456:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598389] [rscn391:2323452:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598395] [rscn391:2323444:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598412] [rscn391:2323438:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598412] [rscn391:2323446:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598414] [rscn391:2323440:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598415] [rscn391:2323443:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598418] [rscn391:2323433:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598419] [rscn391:2323450:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598426] [rscn391:2323437:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598428] [rscn391:2323434:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598430] [rscn391:2323431:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598435] [rscn391:2323451:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598439] [rscn391:2323448:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598450] [rscn391:2323435:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+[1776140934.598456] [rscn391:2323432:0]     ucp_context.c:2137 UCX  WARN  UCP API version is incompatible: required >= 1.17, actual 1.16.0 (loaded from /lib64/libucp.so.0)
+
+     Program PWSCF v.6.7MaX starts on 14Apr2026 at  9:58:55 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI), running on    96 processors
+
+     MPI processes distributed on     2 nodes
+     R & G space division:  proc/nbgrp/npool/nimage =      96
+     Reading input from pw.in
+Warning: card &CELL ignored
+Warning: card / ignored
+Warning: card &FCP ignored
+Warning: card / ignored
+Warning: card &RISM ignored
+Warning: card / ignored
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+     Message from routine read_pp_mesh:
+     mesh size missing, using the one in header
+
+     IMPORTANT: XC functional enforced from input :
+     Exchange-correlation= PBE
+                           (   1   4   3   4   0   0   0)
+     Any further DFT definition will be discarded
+     Please, verify this is what you really want
+
+
+     Subspace diagonalization in iterative solution of the eigenvalue problem:
+     one sub-group per band group will be used
+     scalapack distributed-memory algorithm (size of sub-group:  9*  9 procs)
+
+
+     Parallelization info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Min          51      51     13                 2767     2767     379
+     Max          52      52     14                 2774     2774     386
+     Sum        4941    4941   1321               265877   265877   36825
+
+
+
+     bravais-lattice index     =            0
+     lattice parameter (alat)  =      14.9191  a.u.
+     unit-cell volume          =    3360.4977 (a.u.)^3
+     number of atoms/cell      =           32
+     number of atomic types    =            1
+     number of electrons       =       576.00
+     number of Kohn-Sham states=          346
+     kinetic-energy cutoff     =      70.0000  Ry
+     charge density cutoff     =     280.0000  Ry
+     scf convergence threshold =      1.0E-06
+     mixing beta               =       0.1000
+     number of iterations used =            8  plain     mixing
+     Exchange-correlation= PBE
+                           (   1   4   3   4   0   0   0)
+
+     celldm(1)=  14.919074  celldm(2)=   0.000000  celldm(3)=   0.000000
+     celldm(4)=   0.000000  celldm(5)=   0.000000  celldm(6)=   0.000000
+
+     crystal axes: (cart. coord. in units of alat)
+               a(1) = (   1.000000   0.000000   0.000000 )  
+               a(2) = (   0.000000   0.996860   0.000000 )  
+               a(3) = (   0.000000   0.000000   1.015182 )  
+
+     reciprocal axes: (cart. coord. in units 2 pi/alat)
+               b(1) = (  1.000000  0.000000  0.000000 )  
+               b(2) = (  0.000000  1.003150  0.000000 )  
+               b(3) = (  0.000000  0.000000  0.985045 )  
+
+
+     PseudoPot. # 1 for Pt read from file:
+     /scratch/ch24d003/pseudo/Pt_ONCV_PBE-1.2.upf
+     MD5 check sum: 8004706280e9ad985b09789750a103d6
+     Pseudo is Norm-conserving, Zval = 18.0
+     Generated using ONCVPSP code by D. R. Hamann
+     Using radial grid of  602 points,  8 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+                l(5) =   2
+                l(6) =   2
+                l(7) =   3
+                l(8) =   3
+
+     atomic species   valence    mass     pseudopotential
+        Pt            18.00   195.08400     Pt( 1.00)
+
+     No symmetry found
+
+
+
+   Cartesian axes
+
+     site n.     atom                  positions (alat units)
+         1           Pt  tau(   1) = (   0.9976730   0.0238951   0.0007461  )
+         2           Pt  tau(   2) = (   0.0013300   0.2564229   0.2700408  )
+         3           Pt  tau(   3) = (   0.2419110   0.9885762   0.2515213  )
+         4           Pt  tau(   4) = (   0.2531720   0.2376250   1.0121390  )
+         5           Pt  tau(   5) = (   0.9865887   0.0064260   0.5129122  )
+         6           Pt  tau(   6) = (   0.9956500   0.2498351   0.7622009  )
+         7           Pt  tau(   7) = (   0.2438397   0.9869075   0.7734958  )
+         8           Pt  tau(   8) = (   0.2555795   0.2403804   0.5235527  )
+         9           Pt  tau(   9) = (   0.0085654   0.5000204   0.0081522  )
+        10           Pt  tau(  10) = (   0.9918817   0.7501776   0.2352152  )
+        11           Pt  tau(  11) = (   0.2600886   0.4978424   0.2689172  )
+        12           Pt  tau(  12) = (   0.2544231   0.7502920   1.0149917  )
+        13           Pt  tau(  13) = (   0.0056050   0.5012170   0.5215227  )
+        14           Pt  tau(  14) = (   0.0000453   0.7436834   0.7742685  )
+        15           Pt  tau(  15) = (   0.2589200   0.5081027   0.7553126  )
+        16           Pt  tau(  16) = (   0.2466728   0.7656372   0.4977635  )
+        17           Pt  tau(  17) = (   0.5068084   0.9912235   0.0032825  )
+        18           Pt  tau(  18) = (   0.4824776   0.2345972   0.2439792  )
+        19           Pt  tau(  19) = (   0.7483435   0.9807824   0.2426402  )
+        20           Pt  tau(  20) = (   0.7529878   0.2603457   1.0030568  )
+        21           Pt  tau(  21) = (   0.4971717   0.9940634   0.5017191  )
+        22           Pt  tau(  22) = (   0.4997604   0.2618327   0.7465875  )
+        23           Pt  tau(  23) = (   0.7555823   0.9958258   0.7794393  )
+        24           Pt  tau(  24) = (   0.7422400   0.2341918   0.5090786  )
+        25           Pt  tau(  25) = (   0.4984117   0.4683245   0.0100285  )
+        26           Pt  tau(  26) = (   0.5073719   0.7336729   0.2411963  )
+        27           Pt  tau(  27) = (   0.7525602   0.5063715   0.2586567  )
+        28           Pt  tau(  28) = (   0.7396070   0.7288164   0.9953128  )
+        29           Pt  tau(  29) = (   0.4994766   0.5148181   0.5114400  )
+        30           Pt  tau(  30) = (   0.5002851   0.7671243   0.7518759  )
+        31           Pt  tau(  31) = (   0.7535191   0.5029221   0.7511062  )
+        32           Pt  tau(  32) = (   0.7599458   0.7595623   0.5134737  )
+
+     number of k points=     6  Marzari-Vanderbilt smearing, width (Ry)=  0.0200
+                       cart. coord. in units 2pi/alat
+        k(    1) = (   0.0000000   0.0000000   0.0000000), wk =   0.2500000
+        k(    2) = (   0.0000000   0.0000000   0.2462613), wk =   0.5000000
+        k(    3) = (   0.0000000   0.0000000  -0.4925226), wk =   0.2500000
+        k(    4) = (   0.0000000  -0.5015750   0.0000000), wk =   0.2500000
+        k(    5) = (   0.0000000  -0.5015750   0.2462613), wk =   0.5000000
+        k(    6) = (   0.0000000  -0.5015750  -0.4925226), wk =   0.2500000
+
+     Dense  grid:   265877 G-vectors     FFT dimensions: (  80,  80,  81)
+
+     Estimated max dynamical RAM per process >      35.99 MB
+
+     Estimated total dynamical RAM >       3.37 GB
+
+     Initial potential from superposition of free atoms
+
+     starting charge  575.13909, renormalised to  576.00000
+     Starting wfcs are random
+
+     total cpu time spent up to now is        5.2 secs
+
+     Self-consistent Calculation
+
+     iteration #  1     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  1.00E-02,  avg # of iterations =  9.5
+
+     Threshold (ethr) on eigenvalues was too large:
+     Diagonalizing with lowered threshold
+
+     Davidson diagonalization with overlap
+     ethr =  5.79E-05,  avg # of iterations =  9.8
+
+     total cpu time spent up to now is       37.7 secs
+
+     total energy              =   -7763.61293957 Ry
+     estimated scf accuracy    <       0.23788685 Ry
+
+     iteration #  2     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  4.13E-05,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is       42.7 secs
+
+     total energy              =   -7763.60904274 Ry
+     estimated scf accuracy    <       0.16113712 Ry
+
+     iteration #  3     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  2.80E-05,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is       47.4 secs
+
+     total energy              =   -7763.59014388 Ry
+     estimated scf accuracy    <       0.10980286 Ry
+
+     iteration #  4     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  1.91E-05,  avg # of iterations =  2.0
+
+     total cpu time spent up to now is       52.8 secs
+
+     total energy              =   -7763.59768403 Ry
+     estimated scf accuracy    <       0.02467726 Ry
+
+     iteration #  5     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  4.28E-06,  avg # of iterations =  1.3
+
+     total cpu time spent up to now is       57.7 secs
+
+     total energy              =   -7763.59948236 Ry
+     estimated scf accuracy    <       0.01186640 Ry
+
+     iteration #  6     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  2.06E-06,  avg # of iterations =  1.5
+
+     total cpu time spent up to now is       62.8 secs
+
+     total energy              =   -7763.59994843 Ry
+     estimated scf accuracy    <       0.00873723 Ry
+
+     iteration #  7     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  1.52E-06,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is       67.5 secs
+
+     total energy              =   -7763.60032317 Ry
+     estimated scf accuracy    <       0.00165644 Ry
+
+     iteration #  8     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  2.88E-07,  avg # of iterations =  1.5
+
+     total cpu time spent up to now is       72.3 secs
+
+     total energy              =   -7763.60044009 Ry
+     estimated scf accuracy    <       0.00041117 Ry
+
+     iteration #  9     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  7.14E-08,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is       77.0 secs
+
+     total energy              =   -7763.60044001 Ry
+     estimated scf accuracy    <       0.00020844 Ry
+
+     iteration # 10     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  3.62E-08,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is       81.6 secs
+
+     total energy              =   -7763.60043802 Ry
+     estimated scf accuracy    <       0.00009016 Ry
+
+     iteration # 11     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  1.57E-08,  avg # of iterations =  2.0
+
+     total cpu time spent up to now is       86.9 secs
+
+     total energy              =   -7763.60044541 Ry
+     estimated scf accuracy    <       0.00003321 Ry
+
+     iteration # 12     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  5.77E-09,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is       91.4 secs
+
+     total energy              =   -7763.60044625 Ry
+     estimated scf accuracy    <       0.00001961 Ry
+
+     iteration # 13     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  3.40E-09,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is       95.8 secs
+
+     total energy              =   -7763.60044619 Ry
+     estimated scf accuracy    <       0.00000988 Ry
+
+     iteration # 14     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  1.71E-09,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is      100.3 secs
+
+     total energy              =   -7763.60044692 Ry
+     estimated scf accuracy    <       0.00000432 Ry
+
+     iteration # 15     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  7.50E-10,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is      104.7 secs
+
+     total energy              =   -7763.60044724 Ry
+     estimated scf accuracy    <       0.00000122 Ry
+
+     iteration # 16     ecut=    70.00 Ry     beta= 0.10
+     Davidson diagonalization with overlap
+     ethr =  2.12E-10,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is      109.2 secs
+
+     End of self-consistent calculation
+
+          k = 0.0000 0.0000 0.0000 ( 33205 PWs)   bands (ev):
+
+   -76.3918 -76.3321 -76.3103 -76.2999 -76.2961 -76.2891 -76.2846 -76.2778
+   -76.2745 -76.2611 -76.2604 -76.2564 -76.2466 -76.2374 -76.2369 -76.2248
+   -76.2156 -76.2057 -76.2005 -76.1980 -76.1931 -76.1834 -76.1800 -76.1711
+   -76.1610 -76.1529 -76.1502 -76.1311 -76.1229 -76.1193 -76.0934 -76.0627
+   -30.7200 -30.6950 -30.6457 -30.6270 -30.6127 -30.5912 -30.5831 -30.5624
+   -30.5491 -30.5369 -30.5256 -30.5199 -30.5161 -30.5144 -30.5041 -30.5020
+   -30.4934 -30.4856 -30.4801 -30.4757 -30.4745 -30.4664 -30.4595 -30.4565
+   -30.4420 -30.4382 -30.4305 -30.4231 -30.4186 -30.4028 -30.3975 -30.3886
+   -30.3860 -30.3793 -30.3713 -30.3642 -30.3600 -30.3549 -30.3499 -30.3471
+   -30.3362 -30.3340 -30.3300 -30.3232 -30.3200 -30.3176 -30.3144 -30.3118
+   -30.3097 -30.3077 -30.3042 -30.2937 -30.2914 -30.2822 -30.2777 -30.2737
+   -30.2712 -30.2671 -30.2610 -30.2569 -30.2483 -30.2447 -30.2432 -30.2411
+   -30.2382 -30.2314 -30.2271 -30.2262 -30.2211 -30.2125 -30.2098 -30.2078
+   -30.1998 -30.1995 -30.1944 -30.1906 -30.1887 -30.1843 -30.1815 -30.1775
+   -30.1676 -30.1666 -30.1609 -30.1547 -30.1528 -30.1444 -30.1410 -30.1350
+   -30.1295 -30.1254 -30.1157 -30.1124 -30.1038 -30.0960 -30.0823 -30.0708
+    12.4771  15.0248  15.0513  15.1041  15.1584  15.2309  15.2614  15.3218
+    15.3488  15.3670  15.3883  15.5937  15.6124  15.6261  15.9783  16.0160
+    16.0494  16.5100  16.5869  16.6174  16.6609  16.6654  16.6966  16.7280
+    16.7341  16.7962  16.8268  16.8466  16.8900  16.9154  16.9408  16.9477
+    16.9723  16.9953  17.0305  17.0886  17.1323  17.1778  17.2029  17.2445
+    17.2896  17.6020  17.6903  17.7336  17.7428  17.7589  17.7856  17.8074
+    17.8260  17.8330  17.8851  17.8923  17.9200  17.9344  17.9451  17.9797
+    18.0017  18.0032  18.0512  18.0713  18.1032  18.1107  18.1358  18.1698
+    18.1750  18.1831  18.2149  18.2298  18.2678  18.3086  18.3438  18.3751
+    18.3983  18.4027  18.4387  18.4601  18.5326  18.5829  18.5900  18.6228
+    18.6528  18.7167  18.7218  18.7470  18.7755  18.8306  18.8328  18.8576
+    19.2771  19.3920  19.3984  19.4881  19.5181  19.5661  19.6656  19.7381
+    19.7497  19.8438  19.8646  19.9134  19.9577  19.9664  19.9843  20.0351
+    20.0678  20.1138  20.1390  20.1581  20.1637  20.2208  20.2342  20.2642
+    20.2925  20.3246  20.3474  20.4128  20.4275  20.4420  20.4989  20.5269
+    20.5359  20.5701  20.6178  20.6336  20.6782  20.6831  20.6972  20.7614
+    20.7924  20.8216  20.8965  20.9033  20.9123  20.9574  20.9652  20.9814
+    21.0514  21.1733  21.4579  21.5079  21.5388  21.5723  21.6210  21.6925
+    21.8678  21.9391  21.9879  22.0180  22.2668  22.3301  22.3355  22.3366
+    22.3612  22.3629  22.3827  22.4088  22.4128  22.4290  22.4400  22.6551
+    22.7033  22.7224  22.7677  22.7868  22.8146  22.8322  22.8616  22.8821
+    22.9438  22.9547  23.0353  23.8159  23.9417  23.9888  24.0445  24.0852
+    24.1004  24.1360  24.1557  24.1833  24.2180  24.2424  24.2680  24.3499
+    24.4323  24.7214  27.8340  27.8625  27.8808  27.9187  29.0906  29.1290
+    29.2043  29.2333  29.3998  29.4467  30.1790  30.2468  30.3422  30.4037
+    30.4346  30.5091  30.5252  30.5698  30.6035  30.6371  30.7018  30.7533
+    30.7984  31.0502  31.0821  32.5957  32.6423  32.6904  32.7154  32.8464
+    32.8824  32.9273
+
+          k = 0.0000 0.0000 0.2463 ( 33224 PWs)   bands (ev):
+
+   -76.3918 -76.3321 -76.3103 -76.2999 -76.2961 -76.2891 -76.2846 -76.2779
+   -76.2745 -76.2611 -76.2605 -76.2564 -76.2466 -76.2376 -76.2367 -76.2247
+   -76.2156 -76.2057 -76.2006 -76.1980 -76.1931 -76.1834 -76.1800 -76.1711
+   -76.1610 -76.1529 -76.1502 -76.1311 -76.1229 -76.1193 -76.0934 -76.0627
+   -30.7188 -30.6922 -30.6419 -30.6230 -30.6076 -30.5831 -30.5781 -30.5677
+   -30.5503 -30.5402 -30.5344 -30.5255 -30.5201 -30.5164 -30.5131 -30.5028
+   -30.4985 -30.4895 -30.4857 -30.4759 -30.4729 -30.4650 -30.4595 -30.4538
+   -30.4452 -30.4363 -30.4283 -30.4258 -30.4177 -30.4046 -30.3974 -30.3904
+   -30.3854 -30.3828 -30.3768 -30.3654 -30.3632 -30.3571 -30.3496 -30.3453
+   -30.3389 -30.3343 -30.3288 -30.3237 -30.3184 -30.3158 -30.3150 -30.3093
+   -30.3075 -30.2998 -30.2958 -30.2892 -30.2796 -30.2786 -30.2748 -30.2716
+   -30.2653 -30.2639 -30.2581 -30.2541 -30.2514 -30.2489 -30.2420 -30.2405
+   -30.2384 -30.2314 -30.2276 -30.2232 -30.2216 -30.2142 -30.2109 -30.2073
+   -30.2019 -30.1993 -30.1967 -30.1905 -30.1859 -30.1843 -30.1803 -30.1755
+   -30.1691 -30.1679 -30.1616 -30.1568 -30.1533 -30.1454 -30.1414 -30.1357
+   -30.1311 -30.1263 -30.1186 -30.1130 -30.1077 -30.0972 -30.0839 -30.0711
+    12.6745  14.1360  15.2032  15.2592  15.2998  15.3668  15.4328  15.4563
+    15.4940  15.5057  15.6459  15.7020  15.7383  15.7734  16.0318  16.0918
+    16.1285  16.1627  16.2140  16.2648  16.3169  16.3458  16.3709  16.4175
+    16.4660  16.5982  16.6420  16.6797  16.9404  17.0124  17.0235  17.0446
+    17.0602  17.0852  17.1049  17.1392  17.1622  17.2135  17.2587  17.2975
+    17.3363  17.3768  17.5669  17.6065  17.6548  17.6770  17.7125  17.7640
+    17.7797  17.8057  17.8347  17.8482  17.8881  17.9120  17.9209  17.9329
+    17.9521  17.9705  18.0226  18.0550  18.0894  18.1194  18.1623  18.2058
+    18.2176  18.2714  18.3305  18.3537  18.4028  18.4316  18.4669  18.5095
+    18.5475  18.5739  18.5943  18.6139  18.6562  18.6967  18.7113  18.7461
+    18.7841  18.8057  18.8460  18.8705  18.9145  18.9354  19.0369  19.1291
+    19.1658  19.2529  19.2952  19.3657  19.5216  19.5868  19.6281  19.6566
+    19.6697  19.6984  19.7404  19.7905  19.9285  19.9820  20.0151  20.0493
+    20.0916  20.1225  20.1692  20.2162  20.2359  20.2511  20.2807  20.3300
+    20.3620  20.3927  20.4242  20.4638  20.5015  20.5110  20.5675  20.5848
+    20.5948  20.6348  20.6605  20.6931  20.7483  20.8221  20.8767  20.9275
+    20.9505  20.9756  21.0053  21.0406  21.1227  21.1476  21.1730  21.2152
+    21.2316  21.2518  21.2755  21.3135  21.3288  21.3774  21.4455  21.6558
+    21.6760  21.7049  21.7325  21.7851  21.8519  21.9102  22.0478  22.1288
+    22.1958  22.2123  22.2256  22.2494  22.3290  22.4560  22.4850  22.5197
+    22.5561  22.5729  22.5945  22.8051  22.8466  22.9216  22.9570  23.0633
+    23.1565  23.1824  23.2289  23.2540  23.2935  23.3379  23.3690  23.4093
+    24.1341  24.1593  24.1787  24.1950  24.9488  25.0182  25.0700  25.0859
+    25.4489  25.6112  27.7941  27.8529  27.8763  27.9164  28.2697  28.3060
+    28.3455  28.3922  28.8441  28.9073  29.5541  29.6086  30.5237  30.5902
+    30.8662  30.9476  31.0213  31.0657  31.1297  31.1489  31.1954  31.3003
+    31.3352  31.3645  31.3971  31.4363  31.8433  31.8827  31.9529  32.1818
+    32.2377  32.3070
+
+          k = 0.0000 0.0000-0.4925 ( 33164 PWs)   bands (ev):
+
+   -76.3918 -76.3321 -76.3103 -76.2999 -76.2961 -76.2891 -76.2846 -76.2779
+   -76.2745 -76.2610 -76.2606 -76.2564 -76.2466 -76.2377 -76.2366 -76.2247
+   -76.2156 -76.2057 -76.2007 -76.1979 -76.1931 -76.1834 -76.1800 -76.1711
+   -76.1610 -76.1529 -76.1502 -76.1311 -76.1230 -76.1193 -76.0934 -76.0627
+   -30.7175 -30.6892 -30.6376 -30.6187 -30.6010 -30.5786 -30.5669 -30.5661
+   -30.5547 -30.5481 -30.5429 -30.5320 -30.5286 -30.5235 -30.5160 -30.5062
+   -30.5008 -30.4952 -30.4838 -30.4791 -30.4730 -30.4655 -30.4622 -30.4552
+   -30.4394 -30.4339 -30.4286 -30.4224 -30.4209 -30.4097 -30.3956 -30.3890
+   -30.3869 -30.3841 -30.3758 -30.3706 -30.3618 -30.3596 -30.3517 -30.3446
+   -30.3429 -30.3357 -30.3279 -30.3269 -30.3183 -30.3140 -30.3099 -30.3053
+   -30.3042 -30.2954 -30.2898 -30.2813 -30.2780 -30.2769 -30.2715 -30.2670
+   -30.2620 -30.2606 -30.2537 -30.2525 -30.2517 -30.2468 -30.2450 -30.2401
+   -30.2378 -30.2312 -30.2248 -30.2206 -30.2194 -30.2143 -30.2131 -30.2072
+   -30.2037 -30.1997 -30.1965 -30.1887 -30.1881 -30.1827 -30.1792 -30.1750
+   -30.1725 -30.1683 -30.1665 -30.1559 -30.1548 -30.1453 -30.1418 -30.1390
+   -30.1313 -30.1272 -30.1226 -30.1139 -30.1103 -30.0984 -30.0856 -30.0714
+    13.1720  13.3406  15.4482  15.5368  15.5566  15.6064  15.6365  15.6780
+    15.6984  15.7384  15.7431  15.7714  15.8070  15.8283  15.8431  15.8858
+    15.8902  15.9310  15.9802  16.0134  16.0779  16.1239  16.2131  16.2586
+    16.2827  16.3747  16.4128  16.5110  16.6043  16.6462  17.1038  17.2048
+    17.2194  17.2436  17.2669  17.2771  17.2839  17.3200  17.3421  17.3843
+    17.4104  17.4170  17.4769  17.4941  17.5261  17.5398  17.5903  17.6102
+    17.6545  17.6744  17.6909  17.7353  17.7587  17.7880  17.8617  17.9022
+    17.9527  17.9707  18.0530  18.0749  18.0920  18.1558  18.2018  18.2486
+    18.2810  18.3029  18.3409  18.3819  18.3952  18.4208  18.4351  18.4432
+    18.5819  18.6426  18.6820  18.7281  18.7596  18.7914  18.8161  18.9079
+    18.9827  19.0792  19.0957  19.1341  19.1613  19.2154  19.2189  19.2928
+    19.3311  19.3721  19.3888  19.4306  19.5906  19.6349  19.6551  19.6902
+    19.7184  19.7327  19.7650  19.7810  19.9309  19.9584  20.0239  20.0421
+    20.1257  20.1505  20.1756  20.1906  20.2210  20.2528  20.3053  20.3393
+    20.3634  20.3710  20.3817  20.4035  20.4256  20.4610  20.4953  20.5298
+    20.5502  20.5661  20.5816  20.6219  20.6275  20.6437  20.6839  20.7313
+    20.7472  20.8582  21.0380  21.1706  21.1852  21.3310  21.4250  21.5055
+    21.5261  21.5870  21.6111  21.6192  21.6561  21.6868  21.6980  21.7467
+    21.7510  21.7911  21.8237  21.8488  21.8990  21.9302  21.9371  21.9637
+    21.9987  22.0215  22.0386  22.0956  22.1140  22.1412  22.1695  22.2204
+    22.2992  22.3417  22.3567  22.3941  22.4099  22.4391  22.4710  22.5207
+    22.8243  22.8547  22.9440  22.9691  23.8008  23.8122  23.8601  23.8963
+    23.9187  23.9450  23.9814  24.0274  26.0963  26.1492  26.1976  26.2507
+    26.2886  26.3709  26.4032  26.4703  27.0304  27.1404  27.2045  27.2685
+    29.3025  29.3522  29.4596  29.4957  29.5686  29.6265  29.7470  29.7756
+    29.9180  30.0035  30.0366  30.0623  31.5029  31.5521  31.6000  31.6491
+    31.6867  31.7110  31.7471  31.8192  31.8973  32.0317  32.0681  32.1332
+    32.2317  32.3323
+
+          k = 0.0000-0.5016 0.0000 ( 33204 PWs)   bands (ev):
+
+   -76.3918 -76.3320 -76.3102 -76.3004 -76.2959 -76.2888 -76.2847 -76.2779
+   -76.2745 -76.2610 -76.2605 -76.2565 -76.2465 -76.2374 -76.2369 -76.2248
+   -76.2156 -76.2057 -76.2006 -76.1980 -76.1931 -76.1835 -76.1800 -76.1711
+   -76.1610 -76.1529 -76.1502 -76.1311 -76.1229 -76.1193 -76.0934 -76.0627
+   -30.7156 -30.6910 -30.6328 -30.6141 -30.6038 -30.5808 -30.5720 -30.5671
+   -30.5599 -30.5526 -30.5455 -30.5289 -30.5234 -30.5170 -30.5139 -30.5010
+   -30.4996 -30.4882 -30.4868 -30.4784 -30.4722 -30.4677 -30.4603 -30.4551
+   -30.4511 -30.4403 -30.4262 -30.4200 -30.4136 -30.4054 -30.4004 -30.3947
+   -30.3902 -30.3876 -30.3786 -30.3740 -30.3693 -30.3599 -30.3551 -30.3419
+   -30.3385 -30.3328 -30.3285 -30.3269 -30.3197 -30.3136 -30.3125 -30.3029
+   -30.2992 -30.2950 -30.2933 -30.2880 -30.2835 -30.2771 -30.2712 -30.2673
+   -30.2642 -30.2614 -30.2577 -30.2530 -30.2495 -30.2439 -30.2431 -30.2352
+   -30.2320 -30.2292 -30.2244 -30.2210 -30.2183 -30.2163 -30.2069 -30.2054
+   -30.2002 -30.1970 -30.1905 -30.1880 -30.1844 -30.1809 -30.1778 -30.1767
+   -30.1688 -30.1674 -30.1660 -30.1581 -30.1514 -30.1480 -30.1403 -30.1346
+   -30.1331 -30.1317 -30.1225 -30.1187 -30.1077 -30.1035 -30.0921 -30.0750
+    13.2180  13.3461  15.4949  15.5109  15.5728  15.5951  15.6524  15.6902
+    15.7121  15.7190  15.7277  15.7639  15.7983  15.8211  15.8278  15.8921
+    15.9030  15.9305  15.9431  16.0049  16.1053  16.1783  16.2329  16.2712
+    16.3100  16.3911  16.5042  16.5274  16.6005  16.6323  17.0721  17.1175
+    17.1715  17.1817  17.2131  17.2607  17.2858  17.2972  17.3183  17.3356
+    17.3750  17.4142  17.4476  17.4603  17.4811  17.5060  17.5798  17.6124
+    17.6444  17.6714  17.7188  17.7487  17.7805  17.8035  17.8879  17.8993
+    17.9278  17.9887  18.0043  18.0594  18.0980  18.1779  18.2836  18.3219
+    18.3342  18.3789  18.3849  18.4398  18.4514  18.4712  18.5038  18.5421
+    18.5617  18.5825  18.6069  18.6416  18.7278  18.7464  18.7833  18.8042
+    18.8476  18.9275  18.9831  19.0053  19.0528  19.1284  19.1349  19.1875
+    19.2361  19.2545  19.2658  19.3532  19.5193  19.6106  19.6445  19.6922
+    19.7378  19.7817  19.8064  19.8534  20.0102  20.0349  20.1188  20.1279
+    20.1797  20.1971  20.2060  20.2681  20.2725  20.3364  20.3472  20.3655
+    20.3871  20.3931  20.4694  20.4818  20.5091  20.5294  20.5448  20.5732
+    20.5899  20.6017  20.6413  20.6602  20.6842  20.6949  20.7327  20.7726
+    20.7803  20.8729  20.9618  21.0295  21.3117  21.3664  21.4297  21.5060
+    21.5762  21.5913  21.6398  21.6493  21.6635  21.7147  21.7196  21.7836
+    21.8002  21.8234  21.8552  21.8790  21.9200  21.9352  21.9450  22.0109
+    22.0198  22.0574  22.0779  22.0878  22.1280  22.1629  22.1875  22.2311
+    22.3346  22.3512  22.4162  22.4470  22.4648  22.4760  22.5292  22.5587
+    22.6797  22.7168  22.7834  22.7958  23.5930  23.6507  23.7149  23.7696
+    23.7938  23.8513  23.9016  23.9744  26.1145  26.2707  26.2760  26.3201
+    26.4150  26.5854  26.6430  26.7320  26.9929  27.0945  27.1749  27.3285
+    29.4203  29.5096  29.5263  29.6540  29.6656  29.6977  29.7054  29.7447
+    29.8445  29.8709  29.8851  29.9239  31.2883  31.3015  31.3819  31.4450
+    31.5981  31.6509  31.7025  31.7317  31.8183  31.8514  31.9280  31.9644
+    32.0136  32.0997
+
+          k = 0.0000-0.5016 0.2463 ( 33240 PWs)   bands (ev):
+
+   -76.3918 -76.3320 -76.3102 -76.3004 -76.2959 -76.2888 -76.2847 -76.2779
+   -76.2745 -76.2611 -76.2605 -76.2565 -76.2465 -76.2376 -76.2367 -76.2247
+   -76.2156 -76.2057 -76.2006 -76.1980 -76.1930 -76.1835 -76.1800 -76.1711
+   -76.1610 -76.1529 -76.1502 -76.1311 -76.1229 -76.1193 -76.0934 -76.0627
+   -30.7152 -30.6893 -30.6300 -30.6127 -30.6000 -30.5831 -30.5716 -30.5634
+   -30.5594 -30.5489 -30.5470 -30.5313 -30.5235 -30.5187 -30.5123 -30.5104
+   -30.5042 -30.4948 -30.4932 -30.4846 -30.4804 -30.4661 -30.4595 -30.4567
+   -30.4446 -30.4374 -30.4322 -30.4297 -30.4138 -30.4069 -30.3996 -30.3924
+   -30.3858 -30.3776 -30.3743 -30.3641 -30.3607 -30.3556 -30.3503 -30.3401
+   -30.3341 -30.3318 -30.3308 -30.3264 -30.3201 -30.3102 -30.3070 -30.3046
+   -30.2982 -30.2967 -30.2927 -30.2902 -30.2812 -30.2797 -30.2719 -30.2709
+   -30.2652 -30.2619 -30.2564 -30.2547 -30.2502 -30.2446 -30.2435 -30.2378
+   -30.2328 -30.2297 -30.2277 -30.2221 -30.2195 -30.2165 -30.2113 -30.2041
+   -30.2015 -30.1981 -30.1939 -30.1888 -30.1869 -30.1827 -30.1770 -30.1745
+   -30.1713 -30.1646 -30.1627 -30.1590 -30.1525 -30.1479 -30.1411 -30.1381
+   -30.1331 -30.1282 -30.1216 -30.1178 -30.1067 -30.1015 -30.0903 -30.0757
+    13.3951  13.5203  14.7092  14.8128  15.5148  15.5454  15.6075  15.6437
+    15.6474  15.6671  15.7182  15.8023  15.8935  15.9627  16.0442  16.0655
+    16.0933  16.1251  16.1723  16.2116  16.2588  16.2897  16.3430  16.4016
+    16.4757  16.5051  16.5736  16.6547  16.6725  16.6908  16.7498  16.8148
+    16.8988  16.9392  16.9766  17.0330  17.0984  17.1364  17.1721  17.2184
+    17.2584  17.3495  17.4060  17.4380  17.4972  17.5509  17.5650  17.6061
+    17.6570  17.6638  17.7062  17.7273  17.7885  17.8872  18.0005  18.0621
+    18.1300  18.1535  18.1805  18.2098  18.2483  18.2638  18.3444  18.3763
+    18.4157  18.4608  18.4807  18.5179  18.5411  18.5735  18.5901  18.6173
+    18.6650  18.6762  18.7055  18.7859  18.8361  18.8893  18.9167  18.9516
+    18.9709  19.0313  19.0702  19.0946  19.1241  19.1331  19.1749  19.2049
+    19.2302  19.2453  19.2729  19.3073  19.3864  19.4259  19.4696  19.4890
+    19.5160  19.5547  19.5851  19.6260  19.7307  19.7783  19.8049  19.8325
+    19.8622  19.9036  19.9546  19.9997  20.0395  20.1119  20.1610  20.2355
+    20.2758  20.3022  20.3353  20.3560  20.4124  20.4430  20.4795  20.5211
+    20.6436  20.6943  20.8118  20.8944  20.9358  21.0205  21.0647  21.0974
+    21.1131  21.1504  21.1709  21.2180  21.2352  21.2806  21.3899  21.4252
+    21.5297  21.5647  21.6047  21.6883  21.6989  21.7288  21.7514  21.7859
+    21.8088  21.8311  21.8587  21.9065  21.9430  21.9863  22.0053  22.0314
+    22.0666  22.0793  22.1118  22.1464  22.1819  22.2029  22.2229  22.2877
+    22.3154  22.3345  22.3929  22.4190  22.5035  22.5531  22.5926  22.6267
+    22.8426  22.8567  22.8795  22.8997  23.1204  23.1588  23.1988  23.2198
+    24.9148  24.9400  25.0907  25.1407  25.4441  25.4848  25.8250  25.9226
+    26.5094  26.5522  26.8579  26.9432  27.1359  27.2410  27.6683  27.8104
+    28.4208  28.4952  28.5538  28.6235  29.1318  29.1609  29.1847  29.2109
+    29.2416  29.2838  30.4044  30.4784  30.8678  30.9044  30.9985  31.0390
+    31.0984  31.1292  31.8406  31.8922  31.9462  32.0504  32.5998  32.6475
+    33.3240  33.4132
+
+          k = 0.0000-0.5016-0.4925 ( 33268 PWs)   bands (ev):
+
+   -76.3918 -76.3320 -76.3102 -76.3004 -76.2959 -76.2888 -76.2847 -76.2779
+   -76.2745 -76.2612 -76.2604 -76.2565 -76.2465 -76.2378 -76.2366 -76.2247
+   -76.2156 -76.2057 -76.2005 -76.1981 -76.1929 -76.1835 -76.1800 -76.1711
+   -76.1610 -76.1529 -76.1502 -76.1311 -76.1229 -76.1193 -76.0934 -76.0627
+   -30.7149 -30.6875 -30.6269 -30.6114 -30.5954 -30.5856 -30.5740 -30.5605
+   -30.5551 -30.5492 -30.5393 -30.5349 -30.5303 -30.5217 -30.5166 -30.5119
+   -30.5085 -30.5059 -30.4915 -30.4871 -30.4808 -30.4707 -30.4671 -30.4523
+   -30.4471 -30.4398 -30.4329 -30.4273 -30.4172 -30.4073 -30.4027 -30.3915
+   -30.3803 -30.3718 -30.3698 -30.3599 -30.3510 -30.3464 -30.3432 -30.3420
+   -30.3347 -30.3297 -30.3268 -30.3248 -30.3168 -30.3116 -30.3051 -30.3021
+   -30.2993 -30.2941 -30.2906 -30.2881 -30.2815 -30.2776 -30.2775 -30.2708
+   -30.2645 -30.2635 -30.2621 -30.2559 -30.2495 -30.2474 -30.2446 -30.2418
+   -30.2362 -30.2329 -30.2309 -30.2272 -30.2198 -30.2158 -30.2131 -30.2051
+   -30.2023 -30.2001 -30.1913 -30.1875 -30.1860 -30.1855 -30.1782 -30.1751
+   -30.1703 -30.1638 -30.1596 -30.1587 -30.1544 -30.1459 -30.1423 -30.1411
+   -30.1339 -30.1278 -30.1201 -30.1165 -30.1055 -30.1003 -30.0883 -30.0764
+    13.8351  13.9538  13.9915  14.1269  15.4814  15.5104  15.5766  15.5967
+    15.6164  15.6486  15.6558  15.7480  16.1074  16.2020  16.2082  16.2479
+    16.2868  16.3191  16.3664  16.4002  16.4220  16.4650  16.4821  16.5040
+    16.5246  16.5334  16.5447  16.5496  16.5934  16.6192  16.6367  16.6808
+    16.7205  16.7569  16.7874  16.8189  16.8352  16.8907  16.9686  16.9974
+    17.1470  17.1601  17.1665  17.1931  17.5558  17.6307  17.6732  17.7160
+    17.7356  17.7716  17.8352  17.9489  17.9879  18.0444  18.0563  18.0855
+    18.2028  18.2449  18.2902  18.3083  18.3412  18.3461  18.3845  18.4288
+    18.4423  18.5105  18.5525  18.5834  18.6272  18.6834  18.7284  18.7628
+    18.8640  18.8892  18.9312  18.9458  18.9653  19.0032  19.0194  19.0436
+    19.0616  19.0774  19.0999  19.1077  19.1420  19.1538  19.1631  19.2017
+    19.2152  19.2430  19.2648  19.2766  19.3312  19.3514  19.3726  19.3853
+    19.4183  19.4755  19.5010  19.5401  19.5444  19.5569  19.5668  19.5824
+    19.6454  19.6950  19.7153  19.7499  19.8111  19.8614  19.8756  19.9322
+    19.9726  19.9996  20.0233  20.0496  20.2090  20.2562  20.2807  20.2972
+    20.9078  20.9986  21.0408  21.0864  21.1328  21.1811  21.2573  21.3305
+    21.3669  21.4161  21.4240  21.4811  21.4977  21.5041  21.5579  21.5790
+    21.6118  21.6260  21.7302  21.7613  21.7995  21.8133  21.8369  21.8534
+    21.8847  21.8965  21.9388  21.9576  21.9904  21.9929  22.0152  22.0475
+    22.0527  22.0721  22.0845  22.1263  22.1400  22.1475  22.1752  22.1953
+    22.2004  22.2210  22.2687  22.2955  22.3176  22.3377  22.3403  22.3674
+    22.3934  22.4090  22.4522  22.5097  24.1486  24.2156  24.2326  24.2621
+    24.4117  24.4901  24.5084  24.5286  26.3862  26.4223  26.5398  26.5967
+    26.6922  26.7218  26.8385  26.9322  27.5536  27.6119  27.6521  27.6825
+    27.6969  27.7828  27.8195  27.8546  28.0695  28.1377  28.1941  28.2521
+    28.8953  28.9812  28.9839  29.1030  32.1063  32.1561  32.1820  32.2034
+    32.3848  32.4450  32.4500  32.4993  32.5248  32.5606  32.6154  32.6343
+    32.6486  32.6769
+
+     the Fermi energy is    22.3606 ev
+
+!    total energy              =   -7763.60044718 Ry
+     estimated scf accuracy    <       0.00000077 Ry
+     smearing contrib. (-TS)   =       0.00632845 Ry
+     internal energy E=F+TS    =   -7763.60677563 Ry
+
+     The total energy is F=E-TS. E is the sum of the following terms:
+     one-electron contribution =   -2003.51674800 Ry
+     hartree contribution      =    1315.94779896 Ry
+     xc contribution           =    -743.10747124 Ry
+     ewald contribution        =   -6332.93035534 Ry
+
+     convergence has been achieved in  16 iterations
+
+     Forces acting on atoms (cartesian axes, Ry/au):
+
+     atom    1 type  1   force =    -0.00795027   -0.04855966    0.02760320
+     atom    2 type  1   force =    -0.00639119    0.00466203   -0.01376063
+     atom    3 type  1   force =    -0.00589001    0.02153952   -0.00335570
+     atom    4 type  1   force =    -0.01385958    0.03991925   -0.00384824
+     atom    5 type  1   force =     0.04205724   -0.02045530   -0.01385021
+     atom    6 type  1   force =     0.03236236    0.02350292   -0.00585966
+     atom    7 type  1   force =     0.00256650    0.03668386   -0.02977835
+     atom    8 type  1   force =    -0.03037419    0.00725502   -0.03268481
+     atom    9 type  1   force =     0.01272056   -0.02804647   -0.01303813
+     atom   10 type  1   force =     0.02312940   -0.00245722    0.03522335
+     atom   11 type  1   force =    -0.03750953   -0.00181634   -0.01480224
+     atom   12 type  1   force =     0.00308898   -0.03510854    0.00514795
+     atom   13 type  1   force =     0.00150526    0.00062331   -0.04220459
+     atom   14 type  1   force =     0.01356256    0.00916459   -0.02062271
+     atom   15 type  1   force =    -0.01215767   -0.00086149    0.02968356
+     atom   16 type  1   force =    -0.01902435   -0.03533769    0.02278056
+     atom   17 type  1   force =    -0.01072100    0.01170324   -0.01943569
+     atom   18 type  1   force =     0.05201262    0.00302374    0.05945941
+     atom   19 type  1   force =     0.00134063    0.04724610    0.00944186
+     atom   20 type  1   force =    -0.00308399   -0.01373832    0.04151108
+     atom   21 type  1   force =     0.01145476    0.00715382   -0.01658541
+     atom   22 type  1   force =     0.01119063   -0.03878156    0.03430156
+     atom   23 type  1   force =    -0.01856367    0.01186645   -0.03872508
+     atom   24 type  1   force =    -0.00482062    0.04265249   -0.02750710
+     atom   25 type  1   force =    -0.01291420    0.07327692   -0.03295913
+     atom   26 type  1   force =    -0.01786525    0.02794413    0.01996817
+     atom   27 type  1   force =     0.00488466   -0.04742536    0.01600504
+     atom   28 type  1   force =     0.00592476    0.01478321    0.04977437
+     atom   29 type  1   force =     0.01988163   -0.02093911   -0.02473666
+     atom   30 type  1   force =    -0.00354969   -0.04581999    0.02306970
+     atom   31 type  1   force =    -0.01584927   -0.01771613   -0.00431496
+     atom   32 type  1   force =    -0.01715808   -0.02593741   -0.01590051
+
+     Total force =     0.252433     Total SCF correction =     0.006039
+
+     init_run     :      3.33s CPU      4.45s WALL (       1 calls)
+     electrons    :    101.87s CPU    103.97s WALL (       1 calls)
+     forces       :      1.53s CPU      1.55s WALL (       1 calls)
+
+     Called by init_run:
+     wfcinit      :      3.17s CPU      3.78s WALL (       1 calls)
+     potinit      :      0.03s CPU      0.09s WALL (       1 calls)
+     hinit0       :      0.07s CPU      0.51s WALL (       1 calls)
+
+     Called by electrons:
+     c_bands      :     95.08s CPU     96.90s WALL (      17 calls)
+     sum_band     :      6.63s CPU      6.78s WALL (      17 calls)
+     v_of_rho     :      0.13s CPU      0.18s WALL (      17 calls)
+     mix_rho      :      0.03s CPU      0.11s WALL (      17 calls)
+
+     Called by c_bands:
+     init_us_2    :      0.69s CPU      0.70s WALL (     216 calls)
+     cegterg      :     92.08s CPU     93.68s WALL (     102 calls)
+
+     Called by *egterg:
+     cdiaghg      :     29.27s CPU     30.32s WALL (     322 calls)
+     h_psi        :     45.45s CPU     46.36s WALL (     334 calls)
+     g_psi        :      0.09s CPU      0.09s WALL (     226 calls)
+
+     Called by h_psi:
+     h_psi:calbec :      9.61s CPU      9.84s WALL (     334 calls)
+     vloc_psi     :     29.38s CPU     29.99s WALL (     334 calls)
+     add_vuspsi   :      6.25s CPU      6.32s WALL (     334 calls)
+
+     General routines
+     calbec       :     10.54s CPU     10.78s WALL (     358 calls)
+     fft          :      0.14s CPU      0.63s WALL (     172 calls)
+     ffts         :      0.01s CPU      0.01s WALL (      17 calls)
+     fftw         :     34.00s CPU     34.71s WALL (  208094 calls)
+
+     Parallel routines
+     fft_scatt_xy :      1.96s CPU      2.00s WALL (  208283 calls)
+     fft_scatt_yz :     25.19s CPU     25.74s WALL (  208283 calls)
+
+     PWSCF        :   1m46.82s CPU   1m50.80s WALL
+
+
+   This run was terminated on:  10: 0:46  14Apr2026            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=
