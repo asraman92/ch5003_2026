@@ -438,7 +438,7 @@ It is imperative that these human-readable files are converted to Numpy Binary D
 
 # Hands on Session - Day 2 - 21st April 2026 
 
-## Aim {#aim-1 .unnumbered}
+## Aim 
 
 The goal of this step is to use the DFT energies and forces generated in the previous tutorial to train a machine-learning model with DeePMD-kit.Additionally, we also demonstrate the active learning protocol used to build a robust training dataset for a converged Deep Potential (DP) model. Basedon the principles established by [\"Zhang et.al., Phys. Rev. Mater., 3, 023804\"](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.3.023804), we will iteratively refine the initial platinum model.
 
