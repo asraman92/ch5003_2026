@@ -1,6 +1,6 @@
-# Installation Guide: 
+## Installation Guide: 
 
-## 1. Windows Installation
+### 1. Windows Installation
 
 1) Open Command Prompt and run the following commands:
 ```
@@ -19,7 +19,7 @@ conda install jupyter
 conda install conda-forge::ase
 conda install -c conda-forge mdanalysis
 ```
-## 2. macOS Installation
+### 2. macOS Installation
 
 1) Open Terminal and run the following commands:
 ```
@@ -40,7 +40,7 @@ conda install jupyter
 conda install conda-forge::ase
 conda install -c conda-forge mdanalysis
 ```
-## 3. Launching Jupyter Notebook
+### 3. Launching Jupyter Notebook
 To start working with ASE, ensure your environment is active and launch the interface:
 ```
 conda activate myenv
