@@ -403,7 +403,7 @@ influential parameters in Quantum ESPRESSO: the kinetic energy cutoff
 
     -   Lattice Constant: Compare your optimized value with the
         experimental literature value for Pt ($3.92 Å$). A small
-        deviation (typically $< 1–2 \%$) is expected depending on your
+        deviation (typically < 1–2 %) is expected depending on your
         choice of functional.
 
     -   Residual Forces: Verify that the forces on the atoms have
@@ -459,15 +459,14 @@ follows these steps:
 3.  The script is configured to generate a total of 100 unique frames,
     each saved as a ready-to-run Quantum ESPRESSO input file. The
     perturbations are drawn from a uniform distribution with the
-    following constraints:Maximum Cell Change: $1\%$ deviation from the
+    following constraints:Maximum Cell Change: 1% deviation from the
     ground-state lattice.Maximum Atomic Displacement: $0.01$ Å from the
     equilibrium positions.
 
 4.  The next step is to label these configurations by calculating the
     energies and forces using DFT.
 
-5.  The raw data from the pw.out file is converted to raw file format explained in Table [1](#table 1){reference-type="ref"
-    reference="table 1"}.
+5.  The raw data from the pw.out file is converted to raw file format explained in Table 1.
 
 
 ### Table 1: Input file format required by deepMD-kit
@@ -621,6 +620,7 @@ training and validation data should be provided is covered below.
         }
     }
 ```
+Additionally, the [DeePMD-kit documentation](https://docs.deepmodeling.com/projects/deepmd/en/stable/index.html) is extensive and is a great resource for understanding how everything works.
 
 ## The Output file 
 
@@ -649,7 +649,7 @@ Once training is complete, you can proceed to freeze the model using the
 command [`dp freeze -o <name.pb>`]{style="background-color: gray!20"} in
 the command line. This will generate a deep potential file
 [`<name.pb>`]{style="background-color: gray!20"} which can be used for
-performing DPMD simulations.
+performing DPMD simulations. 
 
 ## Sample LAMMPS input for DPMD simulations: 
 
@@ -694,7 +694,7 @@ integration timestep is provided by the timestep keyword, which in this
 example is 0.0005 ps or 0.5 fs. It should be noted that this number is
 dictated by the choice of units specified, which is metal here. Finally,
 it is important that the atoms and their masses are listed in the same
-order as they are provided when mapped in the DP training.
+order as they are provided when mapped in the DP training. For more details, see the LAMMPS [manual](https://docs.lammps.org/Manual.html))
 
 ## The Output File 
 The key output files obtained include the log file, which contains
